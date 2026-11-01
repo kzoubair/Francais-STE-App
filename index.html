@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="fr" dir="ltr" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Lexique STE</title>
+  <meta name="description" content="Réviser le vocabulaire français du bac STE avec des cartes et la répétition espacée. 100 % hors ligne.">
+  <meta name="theme-color" content="#0E1116">
+  <meta name="color-scheme" content="dark light">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icones/icone.svg" type="image/svg+xml">
+  <link rel="icon" href="icones/icone-192.png" sizes="192x192" type="image/png">
+  <link rel="apple-touch-icon" href="icones/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Lexique STE">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="preload" href="polices/NotoNaskhArabic-700.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="polices/SpaceGrotesk-700.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="pulsation" aria-hidden="true"></div>
+  <main class="app" id="app">
+
+    <!-- ACCUEIL -->
+    <section class="ecran actif" id="ecran-accueil" aria-labelledby="titre-app">
+      <header class="entete">
+        <h1 id="titre-app"><span class="eclair" aria-hidden="true">⚡</span> <span data-t="app"></span></h1>
+        <button class="icone-btn" id="btn-son" type="button"></button>
+        <button class="icone-btn" id="btn-reglages" type="button" data-label="reglages">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>
+        </button>
+      </header>
+
+      <div class="bloc" id="bloc-rang">
+        <h3 data-t="rang"></h3>
+        <p class="rang-nom" id="rang-nom"></p>
+        <div class="barre"><span id="rang-barre"></span></div>
+        <div class="doux" id="rang-info"></div>
+      </div>
+
+      <button class="btn btn-principal" id="btn-commencer" type="button"></button>
+      <p class="message cache" id="msg-accueil"></p>
+
+      <div class="duo" style="margin-top:12px">
+        <div class="bloc">
+          <h3 data-t="objectifJour"></h3>
+          <div class="anneau-jour">
+            <svg class="anneau" id="anneau-jour" viewBox="0 0 64 64" aria-hidden="true"><circle class="fond-anneau" cx="32" cy="32" r="27"/><circle class="val-anneau" cx="32" cy="32" r="27"/></svg>
+            <div><div class="gros-chiffre num" id="jour-cartes"></div><div class="doux" id="jour-info"></div></div>
+          </div>
+        </div>
+        <div class="bloc">
+          <h3 data-t="serie"></h3>
+          <div class="gros-chiffre num" id="serie-n"></div>
+          <div class="calendrier" id="calendrier" aria-label=""></div>
+        </div>
+      </div>
+      <p class="doux" data-t="serieInfo" style="margin:6px 2px 0"></p>
+
+      <div class="btn-ligne">
+        <button class="btn btn-colonne" id="btn-sprint" type="button"><span data-t="sprint"></span><span class="sous" data-t="sprintSous"></span></button>
+        <button class="btn" id="btn-collection" type="button" data-t="collection"></button>
+      </div>
+      <p class="doux" style="text-align:center;margin-top:18px" data-t="vieprivee"></p>
+    </section>
+
+    <!-- SESSION -->
+    <section class="ecran" id="ecran-session" aria-label="Session">
+      <div class="barre-session">
+        <button class="icone-btn" id="btn-quitter" type="button" data-label="quitter">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+        </button>
+        <div class="progression-session"><span id="session-barre"></span></div>
+        <span class="compteur num" id="session-compteur"></span>
+      </div>
+      <div class="combo" id="combo" aria-live="polite"><span class="n num" id="combo-n"></span><span class="l" data-t="combo"></span></div>
+      <div class="scene" id="scene">
+        <div class="carte" id="carte" tabindex="0" role="button">
+          <div class="face recto" id="recto"></div>
+          <div class="face verso" id="verso"></div>
+        </div>
+        <div class="particules" id="particules" aria-hidden="true"></div>
+      </div>
+      <div id="zone-reponse"></div>
+      <div class="zone-bas" id="zone-bas"></div>
+    </section>
+
+    <!-- FIN DE SESSION -->
+    <section class="ecran" id="ecran-fin" aria-labelledby="fin-titre">
+      <header class="entete"><h2 id="fin-titre" data-t="finTitre"></h2></header>
+      <div class="stats">
+        <div class="stat"><div class="v num" id="fin-vues">0</div><div class="l" data-t="finVues"></div></div>
+        <div class="stat"><div class="v num" id="fin-reussite">0</div><div class="l" data-t="finReussite"></div></div>
+        <div class="stat"><div class="v num" id="fin-ancres">0</div><div class="l" data-t="finAncres"></div></div>
+        <div class="stat"><div class="v num" id="fin-combo">0</div><div class="l" data-t="finCombo"></div></div>
+      </div>
+      <div class="bloc"><h3 data-t="rang"></h3><div id="fin-rang"></div></div>
+      <div class="bloc"><h3 data-t="finCompetences"></h3><div id="fin-competences"></div></div>
+      <div class="bloc"><h3 data-t="finNouveaux"></h3><div class="liste-mots" id="fin-nouveaux"></div></div>
+      <div class="btn-ligne">
+        <button class="btn" id="btn-fin-accueil" type="button" data-t="retourAccueil"></button>
+        <button class="btn btn-principal" id="btn-fin-encore" type="button" data-t="encoreUne" style="font-size:1rem;min-height:52px"></button>
+      </div>
+    </section>
+
+    <!-- COLLECTION -->
+    <section class="ecran" id="ecran-collection" aria-labelledby="col-titre">
+      <header class="entete">
+        <button class="icone-btn btn-retour" type="button" data-label="retour"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg></button>
+        <h2 id="col-titre" data-t="collectionTitre"></h2>
+      </header>
+      <p class="doux" data-t="legende"></p>
+      <div id="collection"></div>
+    </section>
+
+    <!-- SPRINT -->
+    <section class="ecran" id="ecran-sprint" aria-labelledby="sprint-titre">
+      <header class="entete">
+        <button class="icone-btn btn-retour" type="button" data-label="retour" id="btn-sprint-retour"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg></button>
+        <h2 id="sprint-titre" data-t="sprintTitre"></h2>
+        <span class="chrono num" id="chrono">60</span>
+      </header>
+      <div id="sprint-zone"></div>
+    </section>
+
+    <!-- RÉGLAGES -->
+    <section class="ecran" id="ecran-reglages" aria-labelledby="reg-titre">
+      <header class="entete">
+        <button class="icone-btn btn-retour" type="button" data-label="retour"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg></button>
+        <h2 id="reg-titre" data-t="reglagesTitre"></h2>
+      </header>
+      <div id="reglages"></div>
+    </section>
+  </main>
+
+  <div class="promotion" id="promotion" role="status" aria-live="assertive"><div><div class="p-l" data-t="promotion"></div><div class="p-n" id="promotion-nom"></div></div></div>
+  <div class="bandeau cache" id="bandeau-maj" role="status"><span data-t="majDispo"></span><button class="btn btn-principal" id="btn-maj" type="button" data-t="majBouton" style="font-size:.95rem"></button></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <input type="file" id="fichier-import" accept="application/json,.json" class="cache">
+
+  <script src="js/textes.js"></script>
+  <script src="js/vocabulaire.js"></script>
+  <script src="js/moteur.js"></script>
+  <script src="js/correcteur.js"></script>
+  <script src="js/stockage.js"></script>
+  <script src="js/sons.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
