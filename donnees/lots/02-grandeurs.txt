@@ -1,0 +1,90 @@
+# THEME: grandeurs
+# PREFIXE: GRD
+# DOMAINE: technique
+# TITRE: Grandeurs et lois de l'électricité
+# COMPETENCE: Expliquer une loi de l'électricité
+# B2: oui
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+GRD-001 | A2 | nom | f | la tension | | التوتر الكهربائي (تقنيًا) ؛ التوتّر العصبي | U, en volts (V) ; mesurée en parallèle ; ≠ l'intensité (confusion fréquente) | | Mesurez la tension aux bornes de la lampe. | Avant l'examen, je sens une grande tension.
+GRD-002 | B1 | nom | f | l'intensité | | شدة التيار الكهربائي | I, en ampères (A) ; mesurée en série ; ≠ la tension (confusion fréquente) | | L'intensité se mesure avec un ampèremètre en série. | L'intensité du courant augmente quand la résistance diminue.
+GRD-003 | A2 | nom | m | le courant | | التيار الكهربائي ؛ (être au courant = على علم) | deux sens : courant électrique / être au courant | | Le courant traverse la résistance. | Tu es au courant de la date du contrôle ?
+GRD-004 | B1 | nom | f | la puissance | | القدرة (الكهربائية) ؛ القوة | P, en watts (W) ; deux sens | | La puissance de ce moteur est de 1,5 kW. | Ce joueur frappe le ballon avec puissance.
+GRD-005 | B1 | nom | f | la résistance | | المقاومة (الكهربائية) ؛ قوة التحمُّل | R, en ohms (Ω) ; aussi le composant ; deux sens | | Calculez la résistance équivalente du circuit. | Le sport améliore la résistance physique.
+GRD-006 | B1 | nom | m | le volt | | الفولط | symbole V | | La tension se mesure en volts. | Une pile de 9 volts alimente le montage.
+GRD-007 | B1 | nom | m | l'ampère | | الأمبير | symbole A | | L'intensité s'exprime en ampères. | Le fusible coupe le circuit au-delà de 10 ampères.
+GRD-008 | B1 | nom | m | le watt | | الواط | symbole W | | La puissance s'exprime en watts. | Cette lampe LED consomme seulement 9 watts.
+GRD-009 | B1 | nom | m | l'ohm | | الأوم | symbole Ω | | La résistance s'exprime en ohms. | Choisissez une résistance de 220 ohms.
+GRD-010 | B1 | nom | m | le hertz | des hertz | الهرتز | symbole Hz ; h aspiré | | La fréquence s'exprime en hertz. | Le réseau marocain fonctionne à 50 hertz.
+GRD-011 | B1 | nom | f | la loi d'Ohm | | قانون أوم | U = R × I | | Appliquez la loi d'Ohm pour calculer l'intensité. | La loi d'Ohm relie la tension, la résistance et l'intensité.
+GRD-012 | A2 | nom | m | le circuit | | الدارة الكهربائية | | | Le circuit est ouvert, donc la lampe est éteinte. | Fermez l'interrupteur pour alimenter le circuit.
+GRD-013 | B1 | nom | m | le dipôle | | ثنائي القطب | | | Une résistance est un dipôle passif. | Repérez les bornes de chaque dipôle.
+GRD-014 | B1 | nom | f | la borne | | المربط (طرف التوصيل) | | | La borne rouge est la borne positive. | Reliez le fil noir à la borne COM du multimètre.
+GRD-015 | B1 | nom | m | le nœud | | العقدة | | | Au nœud A, trois fils se rejoignent. | Écrivez l'équation du courant au nœud B.
+GRD-016 | B1 | nom | f | la maille | | العُروة | | | Dans une maille, la somme des tensions est nulle. | Orientez la maille dans le sens des aiguilles d'une montre.
+GRD-017 | B1 | nom | f | la branche | | الفرع | | | Le courant se partage entre les deux branches. | Cette branche contient une lampe et une résistance.
+GRD-018 | B2 | nom | m | le régime sinusoïdal | | النظام الجيبي | | | En régime sinusoïdal, on utilise les valeurs efficaces. | Le secteur est en régime sinusoïdal à 50 Hz.
+GRD-019 | B1 | nom | m | le courant alternatif | | التيار المتناوب | abréviation AC ; symbole ~ | | Le secteur fournit un courant alternatif. | Le courant alternatif change de sens à chaque demi-période.
+GRD-020 | B1 | nom | m | le courant continu | | التيار المستمر | abréviation DC ; symbole = | | La batterie fournit un courant continu. | Ce moteur fonctionne en courant continu.
+GRD-021 | B2 | nom | m | le réseau triphasé | | الشبكة ثلاثية الطور | trois phases et un neutre | | L'atelier est alimenté par un réseau triphasé. | Le moteur asynchrone fonctionne sur le réseau triphasé.
+GRD-022 | B1 | nom | f | la phase | | الطور (السلك الحي) ؛ المرحلة | deux sens : fil de phase / étape | | Ne touchez jamais le fil de phase. | La première phase du projet est l'analyse du besoin.
+GRD-023 | B1 | nom | m | le neutre | | الخط المحايد | | | Le fil bleu est le neutre. | Mesurez la tension entre la phase et le neutre.
+GRD-024 | B1 | nom | f | la fréquence | | التردد | f, en hertz (Hz) ; f = 1/T | | La fréquence du réseau marocain est de 50 Hz. | Augmentez la fréquence sur le générateur.
+GRD-025 | B1 | nom | f | la période | | الدَّور (فيزيائيًا) ؛ الفترة | T, en secondes ; deux sens | | Mesurez la période du signal sur l'oscilloscope. | Pendant la période des examens, je dors peu.
+GRD-026 | B2 | nom | f | la valeur efficace | | القيمة الفعّالة | Ueff, Ieff | | Le voltmètre indique la valeur efficace de la tension. | La valeur efficace de la tension du secteur est de 220 V.
+GRD-027 | B2 | nom | f | la valeur maximale | | القيمة القصوى | Umax = Ueff × √2 | | La valeur maximale de la tension du secteur est de 311 V. | Lisez la valeur maximale sur l'écran.
+GRD-028 | B2 | nom | f | la valeur moyenne | | القيمة المتوسطة | Umoy | | Un voltmètre en position DC mesure la valeur moyenne. | La valeur moyenne d'une tension sinusoïdale est nulle.
+GRD-029 | B2 | nom | m | le déphasage | | فرق الطور | φ (phi) | | Le déphasage entre la tension et le courant dépend de la charge. | Mesurez le déphasage avec l'oscilloscope.
+GRD-030 | B2 | nom | m | le facteur de puissance | | معامل القدرة | cos φ | | Le facteur de puissance du moteur vaut 0,8. | Un mauvais facteur de puissance augmente le courant en ligne.
+GRD-031 | B2 | nom | f | la puissance active | | القدرة الفعلية | P, en watts (W) ; P = U × I × cos φ | | La puissance active se mesure avec un wattmètre. | Calculez la puissance active absorbée par le moteur.
+GRD-032 | B2 | nom | f | la puissance réactive | | القدرة الرَّدِّية | Q, en var | | La puissance réactive s'exprime en var. | Les moteurs consomment de la puissance réactive.
+GRD-033 | B2 | nom | f | la puissance apparente | | القدرة الظاهرية | S, en voltampères (VA) ; S = U × I | | La puissance apparente est égale au produit U × I. | On choisit le transformateur selon sa puissance apparente.
+GRD-034 | B1 | nom | m | le rendement | | المردود | η = Pu / Pa ; deux sens : rendement d'une machine / rendement scolaire | | Le rendement du moteur est de 85 %. | Mon rendement en classe s'améliore ce trimestre.
+GRD-035 | B1 | nom | f | la puissance utile | | القدرة النافعة | Pu | | La puissance utile est la puissance mécanique fournie. | Calculez la puissance utile du moteur.
+GRD-036 | B1 | nom | f | la puissance absorbée | | القدرة الممتصّة | Pa | | La puissance absorbée est prise sur le réseau. | Le wattmètre mesure la puissance absorbée.
+GRD-037 | B1 | nom | f | les pertes | | الضياعات | nom féminin pluriel ; les pertes par effet Joule | | Les pertes transforment une partie de l'énergie en chaleur. | Calculez les pertes du moteur.
+GRD-038 | B1 | nom | m | l'effet Joule | | مفعول جول | | | L'effet Joule chauffe les conducteurs. | Le fer à repasser utilise l'effet Joule.
+GRD-039 | B1 | nom | m | le conducteur | | الموصِّل ؛ السائق | deux sens : conducteur électrique / personne qui conduit | la conductrice | Le cuivre est un bon conducteur. | Le conducteur du bus attend les élèves.
+GRD-040 | B1 | nom | m | l'isolant | | العازل | | | Le plastique est un isolant. | Le câble est entouré d'un isolant.
+GRD-041 | B2 | nom | m | le condensateur | | المكثِّف | C, en farads (F) | | Le condensateur se charge à travers la résistance. | Ce condensateur a une capacité de 100 µF.
+GRD-042 | B2 | nom | f | la bobine | | الوشيعة | L, en henrys (H) | | La bobine s'oppose aux variations du courant. | Le relais contient une bobine.
+GRD-043 | B2 | nom | f | la capacité | | السعة (للمكثف) ؛ القدرة على | deux sens : capacité d'un condensateur / être capable | | La capacité du condensateur est de 470 µF. | Cet élève a une grande capacité de travail.
+GRD-044 | B2 | nom | f | l'inductance | | معامل التحريض الذاتي (المحاثة) | L, en henrys (H) | | L'inductance de la bobine vaut 0,2 H. | Mesurez l'inductance avec un appareil RLC.
+GRD-045 | B2 | nom | f | l'impédance | | الممانعة | Z, en ohms (Ω) | | L'impédance du circuit dépend de la fréquence. | Calculez l'impédance de la bobine.
+GRD-046 | B1 | nom | m | le générateur | | المولِّد | abréviation GBF : générateur basses fréquences | | Le générateur fournit l'énergie au circuit. | Réglez le générateur sur une fréquence de 1 kHz.
+GRD-047 | B1 | nom | m | le récepteur | | المستقبِل (جهاز يستهلك الطاقة) | | | La lampe est un récepteur. | Le moteur est un récepteur d'énergie électrique.
+GRD-048 | B1 | nom | m | le court-circuit | des courts-circuits | الدارة القصيرة | | | Un court-circuit peut provoquer un incendie. | Le fusible protège le circuit contre les courts-circuits.
+GRD-049 | B1 | nom | f | la masse | | الهيكل (المرجع 0 V) ؛ الكتلة | deux sens : masse électrique / masse en kilogrammes | | Reliez la masse de l'appareil à la terre. | La masse de ce moteur est de 12 kg.
+GRD-050 | B1 | nom | f | la terre | | الأرض (التأريض) | prise de terre ; la Terre = la planète | | Le fil vert et jaune est relié à la terre. | La Terre tourne autour du Soleil.
+GRD-051 | B2 | nom | m | le potentiel | | الجهد (الكمون) | une différence de potentiel (ddp) | | La tension est une différence de potentiel. | Le potentiel de la masse est pris égal à 0 V.
+GRD-052 | B1 | nom | f | la charge | | الحمولة (تقنيًا) ؛ العبء | deux sens : charge d'un moteur / charge de travail | | Le moteur entraîne une charge lourde. | J'ai une grosse charge de travail avant le bac.
+GRD-053 | B2 | nom | m | le régime transitoire | | النظام الانتقالي | | | Au démarrage, le moteur est en régime transitoire. | Le régime transitoire dure quelques millisecondes.
+GRD-054 | B2 | nom | m | le régime permanent | | النظام الدائم | | | En régime permanent, la vitesse est constante. | Mesurez le courant en régime permanent.
+GRD-055 | B1 | nom | m | le kilowattheure | | الكيلوواط ساعة | symbole kWh ; unité d'énergie | | La facture d'électricité est calculée en kilowattheures. | Ce four consomme deux kilowattheures par jour.
+GRD-056 | B1 | nom | f | la loi des nœuds | | قانون العُقد | | | Écrivez la loi des nœuds au point A. | La loi des nœuds concerne les courants.
+GRD-057 | B1 | nom | f | la loi des mailles | | قانون العُرى (إضافية التوترات) | | | Appliquez la loi des mailles à la maille ABCD. | La loi des mailles concerne les tensions.
+GRD-058 | B1 | verbe | | circuler | | يسري (يجري) | | | Le courant circule de la borne positive vers la borne négative. | Le soir, les voitures circulent mal en ville.
+GRD-059 | A2 | verbe | | traverser | | يجتاز (يمرّ عبر) | | | Le courant traverse la lampe. | Je traverse la rue devant le lycée.
+GRD-060 | B1 | verbe | | consommer | | يستهلك | | | Ce moteur consomme 2 kW. | Le climatiseur consomme beaucoup d'électricité.
+GRD-061 | B1 | verbe | | fournir | | يزوِّد (يمنح) | fournir quelque chose à quelqu'un | | La batterie fournit l'énergie au moteur. | Le lycée fournit les manuels aux élèves.
+GRD-062 | B2 | verbe | | dissiper | | يبدِّد (على شكل حرارة) | | | La résistance dissipe de la chaleur. | Le radiateur aide le transistor à dissiper la chaleur.
+GRD-063 | A2 | verbe | | brancher | | يوصِل (بالمأخذ) | | | Branchez l'ampèremètre en série. | Je branche mon chargeur avant de dormir.
+GRD-064 | A2 | verbe | | débrancher | | يفصِل (عن المأخذ) | | | Débranchez l'appareil avant de l'ouvrir. | Ma mère débranche la télévision pendant l'orage.
+GRD-065 | B1 | verbe | | varier | | يتغيَّر | | | La tension varie entre 0 et 12 V. | Le prix des légumes varie selon la saison.
+GRD-066 | B2 | verbe | | s'annuler | | ينعدم | | | Le courant s'annule deux fois par période. | Ces deux erreurs s'annulent dans le calcul.
+GRD-067 | B1 | verbe | | charger | | يشحن | | | Le condensateur se charge à travers la résistance. | Je charge mon téléphone la nuit.
+GRD-068 | B1 | verbe | | décharger | | يفرِّغ (الشحنة) | | | Le condensateur se décharge dans la lampe. | Ma batterie se décharge très vite.
+GRD-069 | A2 | adjectif | | électrique | | كهربائي | | | Le moteur électrique fait tourner la pompe. | Mon cousin a une voiture électrique.
+GRD-070 | B1 | adjectif | | continu | | مستمِر | féminin : continue | continue | La pile fournit une tension continue. | Le travail continu donne de bons résultats.
+GRD-071 | B1 | adjectif | | alternatif | | متناوب | féminin : alternative | alternative | Le secteur fournit une tension alternative. | Le courant alternatif change de sens.
+GRD-072 | B2 | adjectif | | sinusoïdal | | جيبي | féminin : sinusoïdale ; pluriel : sinusoïdaux | sinusoïdale | L'oscilloscope affiche une tension sinusoïdale. | Les signaux sinusoïdaux ont une seule fréquence.
+GRD-073 | B1 | adjectif | | triphasé | | ثلاثي الطور | féminin : triphasée | triphasée | Le moteur triphasé est plus puissant. | L'usine utilise une alimentation triphasée.
+GRD-074 | B1 | adjectif | | monophasé | | أحادي الطور | féminin : monophasée | monophasée | La maison reçoit une alimentation monophasée. | Ce petit moteur monophasé fait tourner le ventilateur.
+GRD-075 | B1 | adjectif | | efficace | | فعّال | deux sens : valeur efficace / méthode efficace | | Le voltmètre indique la tension efficace. | Réviser chaque jour est une méthode efficace.
+GRD-076 | B1 | adjectif | | nul | | منعدم (يساوي صفرًا) | féminin : nulle ; un match nul = تعادل | nulle | Le courant est nul quand le circuit est ouvert. | Le match s'est terminé par un score nul.
+GRD-077 | B1 | expression | | en série | | على التوالي | ≠ en parallèle | | Branchez l'ampèremètre en série. | Les deux lampes sont montées en série.
+GRD-078 | B1 | expression | | en parallèle | | على التوازي | ≠ en série | | Le voltmètre se branche en parallèle. | Les prises de la maison sont montées en parallèle.
+GRD-079 | B1 | expression | | aux bornes de | | بين مربطَي | | | Mesurez la tension aux bornes de la résistance. | La tension aux bornes du moteur est de 24 V.
+GRD-080 | B1 | expression | | sous tension | | موصول بالتيار (تحت التوتر) | ≠ hors tension | | Ne touchez jamais un circuit sous tension. | La machine reste sous tension pendant le réglage.
+GRD-081 | B1 | expression | | hors tension | | مفصول عن التيار | ≠ sous tension | | Mettez le circuit hors tension avant le câblage. | L'atelier est hors tension pendant la pause.
+GRD-082 | B2 | expression | | à vide | | في الفراغ (بدون حمولة) | ≠ en charge | | Le moteur tourne à vide. | Mesurez le courant à vide, puis en charge.
+GRD-083 | B2 | expression | | en charge | | تحت الحمولة | ≠ à vide | | Le moteur ralentit quand il fonctionne en charge. | L'essai en charge dure dix minutes.

@@ -1,0 +1,85 @@
+# THEME: temps
+# PREFIXE: TPS
+# DOMAINE: general
+# TITRE: Temps, quantités et unités
+# COMPETENCE: Exprimer une durée, une quantité, une mesure
+# B2: non
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+TPS-001 | A2 | nom | m | le siècle | | القرن | | | Ce pont date du siècle dernier. | Nous vivons au vingt-et-unième siècle.
+TPS-002 | B1 | nom | f | la décennie | | العقد (عشر سنوات) | | | En une décennie, la ville a beaucoup changé. | Les panneaux solaires se sont développés cette décennie.
+TPS-003 | A2 | nom | m | le trimestre | | الفصل (ثلاثة أشهر) | | | On paie l'abonnement chaque trimestre. | Le premier trimestre de l'année est froid.
+TPS-004 | A2 | nom | f | la quinzaine | | حوالي خمسة عشر | | | Le voyage dure une quinzaine de jours. | Une quinzaine d'élèves sont absents.
+TPS-005 | A2 | nom | f | la dizaine | | حوالي عشرة | | | Une dizaine d'élèves font du théâtre. | J'ai lu une dizaine de livres cette année.
+TPS-006 | A2 | nom | f | la centaine | | حوالي مئة | | | Une centaine de personnes assistent au concert. | Le lycée a une centaine d'ordinateurs.
+TPS-007 | B1 | nom | m | le millier | | حوالي ألف | | | Des milliers de candidats passent le concours. | Un millier de supporters attendent l'équipe.
+TPS-008 | A2 | nom | f | la moitié | | النصف | | | La moitié de la classe a la moyenne. | Je mange la moitié du pain.
+TPS-009 | A2 | nom | m | le tiers | des tiers | الثلث | | | Un tiers des élèves viennent en bus. | Le tiers du terrain est en herbe.
+TPS-010 | A2 | nom | m | le quart | | الربع | | | Un quart d'heure suffit pour réviser ces mots. | Le moteur tourne d'un quart de tour.
+TPS-011 | A2 | nom | m | le double | | الضِّعف | | | Le prix du billet a atteint le double. | Ma note est le double de la sienne.
+TPS-012 | B1 | nom | m | le pourcentage | | النسبة المئوية | | | Calculez le pourcentage de réussite. | Le pourcentage d'élèves admis a augmenté.
+TPS-013 | A2 | nom | f | la quantité | | الكمية | | | Mesurez la quantité d'eau nécessaire. | Mange une petite quantité de sucre.
+TPS-014 | A2 | nom | m | le nombre | | العدد | | | Le nombre d'élèves augmente chaque année. | Écrivez le nombre en lettres.
+TPS-015 | A2 | nom | m | le chiffre | | الرقم | | | Le nombre 25 contient deux chiffres. | Le chiffre 7 porte bonheur pour mon frère.
+TPS-016 | A2 | nom | m | le mètre | | المتر | | | La salle mesure huit mètres de long. | Il a couru cent mètres en douze secondes.
+TPS-017 | A2 | nom | m | le centimètre | | السنتيمتر | | | Dénudez deux centimètres de fil. | Mon frère a grandi de cinq centimètres.
+TPS-018 | B1 | nom | m | le millimètre | | المليمتر | | | La cote est donnée en millimètres. | Le fil a un diamètre d'un millimètre.
+TPS-019 | A2 | nom | m | le kilomètre | | الكيلومتر | | | Le lycée est à trois kilomètres de chez moi. | Rabat est à 90 kilomètres de Casablanca.
+TPS-020 | A2 | nom | m | le kilogramme | | الكيلوغرام | familier : le kilo | le kilo | J'achète deux kilogrammes de tomates. | Le moteur pèse dix kilogrammes.
+TPS-021 | A2 | nom | m | le gramme | | الغرام | | | Ce téléphone pèse 180 grammes. | Ajoute 50 grammes de sucre.
+TPS-022 | A2 | nom | m | le litre | | اللتر | | | La bouteille contient un litre et demi. | Le réservoir contient cinquante litres.
+TPS-023 | A2 | nom | m | le degré | | الدرجة | | | Il fait 40 degrés à Marrakech. | Tournez le bras de 90 degrés.
+TPS-024 | A2 | nom | f | la seconde | | الثانية | | | Le moteur démarre en deux secondes. | Attends une seconde !
+TPS-025 | A2 | nom | f | la longueur | | الطول | | | Mesurez la longueur du câble. | La longueur du terrain est de cent mètres.
+TPS-026 | A2 | nom | f | la largeur | | العَرْض (البُعد الأفقي) | | | La largeur de la porte est de 90 cm. | Mesurez la largeur de la table.
+TPS-027 | A2 | nom | f | la hauteur | | الارتفاع | h aspiré : la hauteur | | La hauteur du mur est de trois mètres. | Le panneau est fixé à une hauteur de deux mètres.
+TPS-028 | B1 | nom | f | la profondeur | | العمق | | | La profondeur du puits est de vingt mètres. | Mesurez la profondeur du trou.
+TPS-029 | B1 | nom | f | l'épaisseur | | السُّمك | | | L'épaisseur de la tôle est de 2 mm. | L'épaisseur de ce livre m'impressionne.
+TPS-030 | A2 | nom | f | la surface | | المساحة ؛ السطح | deux sens | | La surface de ma chambre est de douze mètres carrés. | La surface de l'eau est calme.
+TPS-031 | A2 | nom | m | le volume | | الحجم ؛ مستوى الصوت | deux sens | | Calculez le volume du réservoir. | Baisse le volume de la télévision.
+TPS-032 | A2 | nom | f | la distance | | المسافة | | | La distance entre Fès et Meknès est de 60 km. | Respecte la distance de sécurité.
+TPS-033 | B1 | nom | m | l'instant | | اللحظة | | | À cet instant, la tension est maximale. | Attends un instant, j'arrive.
+TPS-034 | B1 | nom | f | l'époque | | الحِقبة (الزمن الماضي) | | | À l'époque de mes grands-parents, il n'y avait pas de téléphone. | À cette époque, le lycée était petit.
+TPS-035 | A2 | nom | m | le calendrier | | التقويم (اليومية) | | | Le calendrier des examens est affiché. | Je coche les jours sur le calendrier.
+TPS-036 | B1 | nom | f | la veille | | اليوم السابق (العشية) | | | La veille de l'examen, je dors tôt. | La veille de l'Aïd, les souks sont pleins.
+TPS-037 | B1 | nom | m | le lendemain | | اليوم التالي | | | Le lendemain du match, nous sommes fatigués. | Je rends le livre le lendemain.
+TPS-038 | A2 | nom | m | l'horaire | | التوقيت (المواعيد) | | | L'horaire du bus a changé. | Consulte les horaires du train.
+TPS-039 | B1 | nom | m | le maximum | | الحدّ الأقصى | | | Le maximum de points est 20. | Fais le maximum pour réussir.
+TPS-040 | B1 | nom | m | le minimum | | الحدّ الأدنى | | | Il faut un minimum de 10 sur 20 pour réussir. | Dors au minimum sept heures.
+TPS-041 | B1 | nom | f | la totalité | | الكُلّية (المجموع الكامل) | | | La totalité des élèves est présente. | J'ai révisé la totalité du programme.
+TPS-042 | B1 | nom | m | l'ensemble | | المجموع (الكل) | | | L'ensemble de la classe participe au projet. | Dans l'ensemble, le sujet était facile.
+TPS-043 | A2 | verbe | | augmenter | | يزيد (يرتفع) | | | Le prix du pain augmente. | Augmentez la tension progressivement.
+TPS-044 | A2 | verbe | | diminuer | | ينقص (ينخفض) | | | La vitesse diminue dans la montée. | Mon stress diminue après le sport.
+TPS-045 | B1 | verbe | | dépasser | | يتعدّى (يفوق) | | | Le courant ne doit pas dépasser 2 A. | Ne dépasse pas la vitesse autorisée.
+TPS-046 | A2 | verbe | | durer | | يدوم | | | L'examen dure quatre heures. | Le film dure deux heures.
+TPS-047 | A2 | verbe | | peser | | يزن | | | Ce moteur pèse 12 kg. | Je pèse soixante-cinq kilos.
+TPS-048 | A2 | verbe | | multiplier | | يضرب (في عدد) | | | Multipliez la tension par l'intensité. | Multiplie le prix par le nombre de cahiers.
+TPS-049 | A2 | verbe | | diviser | | يقسم | | | Divisez la distance par le temps. | Le professeur divise la classe en groupes.
+TPS-050 | A2 | verbe | | additionner | | يجمع | | | Additionnez les deux résistances. | Additionne tes notes pour calculer la moyenne.
+TPS-051 | B1 | verbe | | soustraire | | يطرح | irrégulier : il soustrait, nous soustrayons | | *Soustrayez* les pertes à la puissance absorbée. | Soustrais 5 de 12.
+TPS-052 | B1 | verbe | | arrondir | | يُقرِّب (عددًا) | | | Arrondissez le résultat au dixième. | J'arrondis le prix à 15 dirhams.
+TPS-053 | B1 | verbe | | retarder | | يؤخِّر | | | La pluie retarde le début du match. | Ne retarde pas tes révisions.
+TPS-054 | A2 | verbe | | avancer | | يتقدَّم ؛ يُقدِّم (الساعة) | | | Ma montre avance de cinq minutes. | Avance d'un pas, s'il te plaît.
+TPS-055 | B1 | adjectif | | quotidien | | يومي | féminin : quotidienne | quotidienne | La révision quotidienne est efficace. | Le thé fait partie de ma vie quotidienne.
+TPS-056 | B1 | adjectif | | hebdomadaire | | أسبوعي | | | Le club a une réunion hebdomadaire. | J'ai deux heures hebdomadaires de sport.
+TPS-057 | B1 | adjectif | | mensuel | | شهري | féminin : mensuelle | mensuelle | Mon abonnement mensuel coûte 150 dirhams. | La réunion mensuelle des parents a lieu samedi.
+TPS-058 | B1 | adjectif | | annuel | | سنوي | féminin : annuelle | annuelle | La fête annuelle du lycée est en mai. | Le salaire annuel de mon oncle a augmenté.
+TPS-059 | A2 | adjectif | | moyen | | متوسِّط | féminin : moyenne | moyenne | La vitesse moyenne du bus est faible. | Il est de taille moyenne.
+TPS-060 | B1 | adjectif | | approximatif | | تقريبي | féminin : approximative | approximative | Donnez une valeur approximative. | Le calcul approximatif suffit ici.
+TPS-061 | A2 | adjectif | | exact | | صحيح (مضبوط) | féminin : exacte | exacte | Quelle est l'heure exacte ? | La réponse exacte est 12 V.
+TPS-062 | B1 | adjectif | | maximal | | أقصى | féminin : maximale ; pluriel : maximaux | maximale | La vitesse maximale est de 120 km/h. | Le courant maximal est de 3 A.
+TPS-063 | B1 | adjectif | | minimal | | أدنى | féminin : minimale ; pluriel : minimaux | minimale | La température minimale est de 5 degrés. | La note minimale pour réussir est 10.
+TPS-064 | A2 | adjectif | | prochain | | المقبل | féminin : prochaine | prochaine | La semaine prochaine, nous avons un contrôle. | Le prochain bus passe dans dix minutes.
+TPS-065 | A2 | adverbe | | environ | | حوالي | | | Le trajet dure environ vingt minutes. | Le moteur pèse environ dix kilos.
+TPS-066 | B1 | adverbe | | autrefois | | في الماضي | | | Autrefois, on écrivait avec une plume. | Autrefois, ce quartier était calme.
+TPS-067 | B1 | adverbe | | désormais | | من الآن فصاعدًا | | | Désormais, je révise chaque soir. | Le bus passe désormais devant le lycée.
+TPS-068 | B1 | adverbe | | aussitôt | | فورًا | | | Le relais colle aussitôt. | Il est parti aussitôt après le cours.
+TPS-069 | B1 | adverbe | | auparavant | | من قبل | | | Je n'avais jamais vu la mer auparavant. | Auparavant, il habitait à Fès.
+TPS-070 | A2 | adverbe | | rarement | | نادرًا | | | Je regarde rarement la télévision. | Il est rarement en retard.
+TPS-071 | A2 | adverbe | | régulièrement | | بانتظام | | | Je révise régulièrement. | Graissez régulièrement les engrenages.
+TPS-072 | B1 | adverbe | | progressivement | | تدريجيًّا | | | Augmentez progressivement la tension. | Mon niveau s'améliore progressivement.
+TPS-073 | A2 | expression | | à l'heure | | في الموعد | | | Le bus est à l'heure. | Arrive à l'heure au centre d'examen.
+TPS-074 | A2 | expression | | de temps en temps | | من حين لآخر | | | Je joue au football de temps en temps. | De temps en temps, je vais au cinéma.
+TPS-075 | B1 | expression | | au fur et à mesure | | شيئًا فشيئًا | | | Notez les mesures au fur et à mesure. | J'apprends les mots au fur et à mesure.
+TPS-076 | A2 | expression | | en avance | | قبل الموعد | ≠ en retard | | Je suis en avance de dix minutes. | Arrive en avance le jour de l'examen.
+TPS-077 | A2 | expression | | tout à l'heure | | بعد قليل ؛ قبل قليل | | | Je te rappelle tout à l'heure. | Je l'ai vu tout à l'heure.
+TPS-078 | A2 | expression | | à peu près | | تقريبًا | | | Le trajet dure à peu près une heure. | Il a à peu près mon âge.

@@ -1,0 +1,86 @@
+# THEME: alimenter
+# PREFIXE: ALI
+# DOMAINE: technique
+# TITRE: Alimenter
+# COMPETENCE: Expliquer le rôle d'un hacheur et d'une alimentation
+# B2: oui
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+ALI-001 | B1 | nom | f | l'alimentation | | التغذية (الكهربائية أو الغذائية) | deux sens : alimentation électrique / nourriture | | L'alimentation fournit 12 V au montage. | Une bonne alimentation aide à bien réviser.
+ALI-002 | B1 | nom | m | le transformateur | | المحوِّل | | | Le transformateur abaisse la tension de 220 V à 12 V. | Le transformateur du quartier est entouré d'un mur.
+ALI-003 | B2 | nom | m | l'enroulement | | اللفّ (الملف) | enroulement primaire / secondaire | | L'enroulement primaire est relié au réseau. | Chaque enroulement possède un nombre de spires.
+ALI-004 | B2 | nom | m | le primaire | | الابتدائي (لفّ المحوِّل) | | | Le primaire du transformateur reçoit 220 V. | Mesurez le courant au primaire.
+ALI-005 | B2 | nom | m | le secondaire | | الثانوي (لفّ المحوِّل) | | | Le secondaire alimente le pont de diodes. | Au secondaire, la tension vaut 12 V.
+ALI-006 | B2 | nom | f | la spire | | اللفّة | | | Le secondaire possède moins de spires que le primaire. | Une spire est un tour de fil autour du noyau.
+ALI-007 | B2 | nom | m | le rapport de transformation | | نسبة التحويل | m = U2 / U1 | | Calculez le rapport de transformation m. | Un rapport de transformation inférieur à 1 abaisse la tension.
+ALI-008 | B1 | nom | m | le circuit magnétique | | الدارة المغناطيسية | | | Le circuit magnétique est formé de tôles fines. | Le flux passe dans le circuit magnétique.
+ALI-009 | B1 | nom | m | le redressement | | التقويم | conversion alternatif → continu | | Le redressement donne une tension toujours positive. | Le redressement se fait après le transformateur.
+ALI-010 | B1 | nom | m | le redresseur | | المقوِّم | | | Le redresseur est placé après le transformateur. | Ce redresseur utilise quatre diodes.
+ALI-011 | B1 | nom | f | la diode | | الصمام الثنائي | anode et cathode | | La diode laisse passer le courant dans un seul sens. | Repérez l'anode de la diode.
+ALI-012 | B2 | nom | m | le pont de diodes | des ponts de diodes | قنطرة الصمامات الثنائية | pont de Graetz | | Le pont de diodes contient quatre diodes. | Le pont de diodes est relié au secondaire.
+ALI-013 | B2 | nom | f | l'alternance | | النَّوبة (نصف الدَّور) | | | La diode ne conduit que pendant une alternance. | Le pont de diodes redresse les deux alternances.
+ALI-014 | B1 | nom | m | le filtrage | | الترشيح (تمليس التوتر) | | | Le filtrage rend la tension presque continue. | Un condensateur assure le filtrage.
+ALI-015 | B2 | nom | f | l'ondulation | | التموُّج | taux d'ondulation | | Le condensateur réduit l'ondulation de la tension. | Mesurez l'ondulation à l'oscilloscope.
+ALI-016 | B1 | nom | f | la régulation | | التنظيم (تثبيت التوتر) | | | La régulation maintient une tension constante. | Le circuit 7805 assure la régulation à 5 V.
+ALI-017 | B1 | nom | m | le régulateur | | المنظِّم | ex. 7805 → 5 V | | Le régulateur fournit une tension fixe de 5 V. | Le régulateur chauffe trop : ajoutez un radiateur.
+ALI-018 | B2 | nom | f | la diode Zener | | صمام زينر | | | La diode Zener stabilise la tension. | La diode Zener est montée en inverse.
+ALI-019 | B2 | nom | m | le hacheur | | المقطِّع (محوِّل مستمر/مستمر) | convertisseur continu → continu ; h aspiré : le hacheur | | Le hacheur fait varier la vitesse du moteur à courant continu. | Le hacheur série alimente le moteur du tapis.
+ALI-020 | B2 | nom | m | le rapport cyclique | | النسبة الدَّورية | α (alpha), entre 0 et 1 | | Le rapport cyclique vaut 0,6. | Augmentez le rapport cyclique pour accélérer le moteur.
+ALI-021 | B2 | nom | m | l'onduleur | | المُمَوِّج (محوِّل مستمر/متناوب) | convertisseur continu → alternatif | | L'onduleur transforme le continu en alternatif. | L'onduleur protège l'ordinateur pendant une coupure.
+ALI-022 | B2 | nom | m | le gradateur | | المُغيِّر (محوِّل متناوب/متناوب) | convertisseur alternatif → alternatif | | Le gradateur fait varier la lumière de la lampe. | Le gradateur commande la puissance du four.
+ALI-023 | B2 | nom | m | le convertisseur statique | | المحوِّل الساكن | hacheur, onduleur, redresseur, gradateur | | Le hacheur est un convertisseur statique. | Un convertisseur statique ne contient aucune pièce en mouvement.
+ALI-024 | A2 | nom | f | la batterie | | البطارية | | | La batterie alimente le robot pendant une heure. | La batterie de mon téléphone est faible.
+ALI-025 | B1 | nom | m | l'accumulateur | | المِرْكَم | familier : un accu | | L'accumulateur se recharge avec le panneau solaire. | Un accumulateur au plomb équipe la voiture.
+ALI-026 | A2 | nom | f | la pile | | العمود الكهربائي (بطارية جافة) | | | La télécommande fonctionne avec deux piles. | Remplacez la pile de 9 V du multimètre.
+ALI-027 | B1 | nom | m | le panneau solaire | des panneaux solaires | اللوح الشمسي | | | Le panneau solaire charge la batterie le jour. | Mon oncle a installé un panneau solaire dans sa ferme.
+ALI-028 | B2 | nom | f | la cellule photovoltaïque | | الخلية الكهروضوئية | | | La cellule photovoltaïque convertit la lumière en électricité. | Plusieurs cellules photovoltaïques forment un panneau.
+ALI-029 | B1 | nom | m | le réseau électrique | | الشبكة الكهربائية | | | Le réseau électrique alimente tout le quartier. | L'atelier est relié au réseau électrique.
+ALI-030 | B1 | nom | m | le secteur | | شبكة التوزيع (220 V) ؛ القطاع | deux sens : le secteur 220 V / un secteur d'activité | | Débranchez le chargeur du secteur. | Le secteur de l'énergie recrute des techniciens.
+ALI-031 | B1 | nom | f | la source | | المنبع (المصدر) | source de tension, source d'énergie | | La source de tension fournit 24 V. | Le soleil est une source d'énergie propre.
+ALI-032 | B1 | nom | f | la centrale électrique | | المحطة الكهربائية | | | La centrale électrique produit l'énergie de la région. | Une centrale électrique fonctionne au charbon près d'El Jadida.
+ALI-033 | A2 | nom | m | le câble | | الكابل | | | Ce câble alimente le moteur. | Le câble de mon chargeur est cassé.
+ALI-034 | A2 | nom | m | le fil | | السلك | | | Reliez les deux fils au bornier. | Le fil rouge est relié à la borne positive.
+ALI-035 | B1 | nom | m | le bornier | | لوحة المرابط | | | Branchez les fils sur le bornier du moteur. | Le bornier contient six bornes.
+ALI-036 | A2 | nom | f | la prise | | المأخذ الكهربائي | prise de courant ; prise de terre | | Branchez le fer à souder sur la prise. | Il n'y a pas de prise près de mon bureau.
+ALI-037 | B1 | nom | m | le radiateur | | المبدِّد الحراري ؛ المدفأة | deux sens | | Le régulateur est fixé sur un radiateur. | En hiver, le radiateur chauffe le salon.
+ALI-038 | B1 | nom | f | la coupure | | الانقطاع | une coupure de courant | | Une coupure de courant arrête la machine. | Pendant la coupure, j'ai révisé à la lumière du téléphone.
+ALI-039 | B1 | nom | f | la consommation | | الاستهلاك | | | La consommation du moteur est de 2 kWh. | La consommation d'eau augmente en été.
+ALI-040 | B1 | nom | f | l'énergie renouvelable | | الطاقة المتجدِّدة | | | Le vent est une énergie renouvelable. | Le Maroc investit dans les énergies renouvelables.
+ALI-041 | B1 | nom | f | l'éolienne | | المروحة الهوائية (توربين الرياح) | | | L'éolienne transforme l'énergie du vent en électricité. | Il y a beaucoup d'éoliennes près de Tanger.
+ALI-042 | A2 | nom | m | le chargeur | | الشاحن | | | Le chargeur contient un transformateur et un redresseur. | J'ai oublié mon chargeur chez mon cousin.
+ALI-043 | B2 | nom | f | l'alimentation stabilisée | | مصدر التغذية المثبَّت | | | Réglez l'alimentation stabilisée sur 12 V. | L'alimentation stabilisée limite le courant à 1 A.
+ALI-044 | B2 | nom | m | le flux magnétique | | التدفق المغناطيسي | | | Le flux magnétique traverse le circuit magnétique. | Le flux magnétique varie avec le courant.
+ALI-045 | B1 | nom | f | la tôle | | الصفيحة المعدنية | | | Le circuit magnétique est formé de tôles fines. | Le toit du garage est en tôle.
+ALI-046 | B1 | nom | m | le montage | | التركيب (الدارة المركَّبة) | | | Le montage redresseur utilise quatre diodes. | Vérifiez le montage avant la mise sous tension.
+ALI-047 | B2 | nom | f | la valeur nominale | | القيمة الاسمية | | | Ne dépassez pas la valeur nominale du courant. | La plaque indique les valeurs nominales du transformateur.
+ALI-048 | B1 | nom | f | la plaque signalétique | | اللوحة الوصفية | | | Lisez la puissance sur la plaque signalétique. | La plaque signalétique du moteur indique 1500 tr/min.
+ALI-049 | B2 | nom | m | le thyristor | | الثيرستور | | | Le thyristor conduit après une impulsion sur la gâchette. | Le gradateur utilise deux thyristors.
+ALI-050 | B2 | nom | f | la gâchette | | قطب القدح (البوابة) | électrode de commande du thyristor ou du triac | | Une impulsion sur la gâchette amorce le thyristor. | Le courant de gâchette est très faible.
+ALI-051 | B2 | nom | m | le triac | | الترياك | | | Le triac commande la lampe en alternatif. | Le gradateur de lumière contient un triac.
+ALI-052 | B2 | nom | f | la diode de roue libre | | صمام العجلة الحرة | | | La diode de roue libre protège le transistor. | Placez une diode de roue libre aux bornes du moteur.
+ALI-053 | B1 | verbe | | alimenter | | يغذّي (بالطاقة) | alimenter quelque chose en énergie | | Le transformateur alimente le pont de diodes. | Cette pompe est alimentée en 24 V.
+ALI-054 | B1 | verbe | | abaisser | | يخفِّض | | | Le transformateur abaisse la tension. | Le professeur abaisse le rideau de la fenêtre.
+ALI-055 | B1 | verbe | | élever | | يرفع ؛ يُربّي (الحيوانات) | deux sens : élever la tension / élever des animaux | | La centrale élève la tension pour le transport. | Mes grands-parents élèvent des moutons.
+ALI-056 | B2 | verbe | | redresser | | يقوِّم | | | Le pont de diodes redresse la tension alternative. | Redresse ton dos devant l'ordinateur.
+ALI-057 | B1 | verbe | | filtrer | | يرشِّح | | | Le condensateur filtre la tension redressée. | Ce masque filtre la poussière.
+ALI-058 | B2 | verbe | | réguler | | ينظِّم | | | Le circuit 7805 régule la tension à 5 V. | Le thermostat régule la température du four.
+ALI-059 | B1 | verbe | | stabiliser | | يثبِّت | | | La diode Zener stabilise la tension. | Le médecin a stabilisé l'état du blessé.
+ALI-060 | B2 | verbe | | hacher | | يقطِّع (التوتر) ؛ يفرم (الخضر) | deux sens : hacher une tension / hacher des légumes ; h aspiré | | Le transistor hache la tension continue. | Ma mère hache les oignons pour le tajine.
+ALI-061 | A2 | verbe | | recharger | | يعيد الشحن | | | Le panneau solaire recharge la batterie. | Je recharge mon téléphone chez mon ami.
+ALI-062 | B1 | verbe | | stocker | | يخزِّن | | | La batterie stocke l'énergie. | Nous stockons les composants dans une boîte.
+ALI-063 | A2 | verbe | | produire | | يُنتِج | irrégulier : il produit, produit | | La centrale produit de l'électricité. | Le Maroc produit beaucoup d'oranges.
+ALI-064 | A2 | verbe | | transporter | | ينقل | | | Les lignes électriques transportent l'énergie. | Le bus transporte les élèves au lycée.
+ALI-065 | B1 | adjectif | | redressé | | مقوَّم | féminin : redressée | redressée | La tension redressée n'est pas encore continue. | Le courant redressé passe dans le condensateur.
+ALI-066 | A2 | adjectif | | constant | | ثابت | féminin : constante | constante | La tension de sortie reste constante. | Il fait des efforts constants en français.
+ALI-067 | B1 | adjectif | | renouvelable | | قابل للتجدُّد | | | Le soleil fournit une énergie renouvelable. | Le contrat est renouvelable chaque année.
+ALI-068 | A2 | adjectif | | solaire | | شمسي | | | Le chauffe-eau solaire chauffe l'eau de la maison. | Mettez de la crème solaire à la plage.
+ALI-069 | B1 | adjectif | | rechargeable | | قابل لإعادة الشحن | | | Le robot utilise une batterie rechargeable. | J'achète des piles rechargeables.
+ALI-070 | B2 | adjectif | | élévateur | | رافع (للتوتر) | féminin : élévatrice ; transformateur élévateur | élévatrice | Un transformateur élévateur augmente la tension. | La centrale utilise un transformateur élévateur.
+ALI-071 | B2 | adjectif | | abaisseur | | خافض (للتوتر) | féminin : abaisseuse ; transformateur abaisseur | abaisseuse | Le chargeur contient un transformateur abaisseur. | Un transformateur abaisseur donne 12 V au secondaire.
+ALI-072 | B2 | adjectif | | nominal | | اسمي | féminin : nominale ; pluriel : nominaux | nominale | Le moteur fonctionne à sa puissance nominale. | Le courant nominal est écrit sur la plaque.
+ALI-073 | B1 | adjectif | | magnétique | | مغناطيسي | | | Le champ magnétique fait tourner le rotor. | Ma carte magnétique ouvre la porte de la salle de sport.
+ALI-074 | B1 | expression | | haute tension | | التوتر العالي | abréviation HT | | Les lignes à haute tension traversent la campagne. | Danger : haute tension !
+ALI-075 | B1 | expression | | basse tension | | التوتر المنخفض | abréviation BT | | Les prises de la maison sont en basse tension. | Le montage du TP fonctionne en très basse tension.
+ALI-076 | B1 | expression | | en sortie | | في المخرج | | | En sortie du pont, la tension est redressée. | Mesurez la tension en sortie du régulateur.
+ALI-077 | B1 | expression | | en entrée | | في المدخل | | | En entrée, le hacheur reçoit 48 V. | Appliquez un signal carré en entrée du montage.
+ALI-078 | B2 | expression | | double alternance | | ثنائي النَّوبة | redressement double alternance | | Le pont de diodes fait un redressement double alternance. | En double alternance, les deux alternances sont utilisées.
+ALI-079 | B2 | expression | | simple alternance | | أحادي النَّوبة | redressement simple alternance | | Une seule diode donne un redressement simple alternance. | En simple alternance, une alternance sur deux est supprimée.

@@ -1,0 +1,81 @@
+# THEME: distribuer
+# PREFIXE: DIS
+# DOMAINE: technique
+# TITRE: Distribuer
+# COMPETENCE: Lire le schéma de commande d'un moteur
+# B2: oui
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+DIS-001 | B1 | nom | m | le préactionneur | | المُشغِّل القَبْلي (يوزِّع الطاقة على المُشغِّل) | distribue l'énergie à l'actionneur ; ≠ l'actionneur (confusion fréquente) | | Le contacteur est le préactionneur du moteur. | Le préactionneur reçoit les ordres de la partie commande.
+DIS-002 | B1 | nom | m | le relais | des relais | المرحِّل | | | Le relais commande une lampe de forte puissance. | La bobine du relais est alimentée en 12 V.
+DIS-003 | B1 | nom | m | le contacteur | | الملامِس (الكونتاكتور) | repère KM | | Le contacteur KM1 alimente le moteur. | Le contacteur fait un petit bruit quand il se ferme.
+DIS-004 | B1 | nom | m | le contact | | التماس (نقطة التلامس) ؛ الاتصال | deux sens : contact électrique / rester en contact | | Le contact se ferme quand la bobine est alimentée. | Je reste en contact avec mes amis du collège.
+DIS-005 | B2 | nom | m | le contact à fermeture | | التماس المفتوح في الراحة (NO) | abréviation NO (normalement ouvert) | | Le contact à fermeture est ouvert au repos. | Le bouton marche possède un contact à fermeture.
+DIS-006 | B2 | nom | m | le contact à ouverture | | التماس المغلق في الراحة (NF) | abréviation NF (normalement fermé) | | Le contact à ouverture est fermé au repos. | Le bouton arrêt possède un contact à ouverture.
+DIS-007 | B2 | nom | m | le contact auxiliaire | | التماس المساعد | | | Le contact auxiliaire assure l'auto-maintien. | Le contact auxiliaire est placé dans le circuit de commande.
+DIS-008 | B2 | nom | m | le contact de puissance | | تماس القدرة (التماس الرئيسي) | | | Les contacts de puissance laissent passer le courant du moteur. | Le contacteur possède trois contacts de puissance.
+DIS-009 | B2 | nom | m | l'auto-maintien | | التثبيت الذاتي | | | L'auto-maintien garde le moteur en marche après l'appui. | Ajoutez un contact d'auto-maintien sur le bouton marche.
+DIS-010 | B1 | nom | m | le circuit de commande | | دارة التحكُّم | | | Le circuit de commande fonctionne en 24 V. | Dessinez le circuit de commande du moteur.
+DIS-011 | B1 | nom | m | le circuit de puissance | | دارة القدرة | | | Le circuit de puissance alimente directement le moteur. | Le circuit de puissance est protégé par un sectionneur.
+DIS-012 | B1 | nom | f | la commande | | التحكُّم ؛ الطَّلبية | deux sens : commande d'un moteur / commande dans un magasin | | Le microcontrôleur assure la commande du moteur. | Ma commande en ligne arrive demain.
+DIS-013 | B1 | nom | f | la partie commande | | الجزء التحكُّمي | abréviation PC | | La partie commande traite les informations des capteurs. | L'automate constitue la partie commande.
+DIS-014 | B1 | nom | f | la partie opérative | | الجزء التنفيذي | abréviation PO | | La partie opérative agit sur la matière d'œuvre. | Les vérins appartiennent à la partie opérative.
+DIS-015 | B1 | nom | m | le transistor | | الترانزستور | base, collecteur, émetteur | | Le transistor fonctionne en commutation. | Le transistor commande la bobine du relais.
+DIS-016 | B2 | nom | f | la base | | القاعدة (قطب الترانزستور) ؛ الأساس | deux sens | | Un petit courant de base commande le transistor. | La grammaire est la base du français écrit.
+DIS-017 | B2 | nom | m | le collecteur | | المجمِّع | | | Le courant de collecteur traverse la charge. | Reliez le collecteur à la bobine du relais.
+DIS-018 | B2 | nom | m | l'émetteur | | الباعث ؛ جهاز الإرسال | deux sens : émetteur d'un transistor / émetteur radio | | L'émetteur du transistor est relié à la masse. | L'émetteur radio envoie le signal à la voiture.
+DIS-019 | B2 | nom | m | le MOSFET | | ترانزستور MOSFET (ذو تأثير المجال) | grille, drain, source | | Le MOSFET commande le moteur avec très peu de courant. | La grille du MOSFET reçoit le signal du microcontrôleur.
+DIS-020 | B2 | nom | f | la commutation | | التبديل (اشتغال في وضع المفتاح) | régime de commutation : bloqué ou saturé | | En commutation, le transistor est bloqué ou saturé. | Une commutation rapide limite les pertes.
+DIS-021 | B2 | nom | m | le distributeur | | الموزِّع (للهواء المضغوط) ؛ الصرّاف الآلي | distributeur pneumatique 5/2 ; deux sens | | Le distributeur 5/2 commande le vérin double effet. | Je retire de l'argent au distributeur de billets.
+DIS-022 | B2 | nom | m | l'électrodistributeur | | الموزِّع الكهرومغناطيسي | | | L'électrodistributeur est piloté par une bobine. | Le microcontrôleur commande l'électrodistributeur.
+DIS-023 | B2 | nom | m | le pilotage | | القيادة (التحكُّم) | | | Le pilotage du distributeur est électrique. | Le pilotage du moteur se fait par un variateur.
+DIS-024 | B1 | nom | m | le variateur de vitesse | | مغيِّر السرعة | | | Le variateur de vitesse règle la vitesse du moteur asynchrone. | Le tapis roulant utilise un variateur de vitesse.
+DIS-025 | B1 | nom | m | le sectionneur | | الفاصل | repère Q ; isole l'installation du réseau | | Ouvrez le sectionneur avant toute intervention. | Le sectionneur contient des fusibles.
+DIS-026 | B1 | nom | m | le disjoncteur | | القاطع الآلي | | | Le disjoncteur coupe le courant en cas de court-circuit. | Le disjoncteur de la maison a sauté pendant l'orage.
+DIS-027 | B1 | nom | m | le relais thermique | | المرحِّل الحراري | repère F ; protège contre les surcharges | | Le relais thermique protège le moteur contre les surcharges. | Réglez le relais thermique sur le courant nominal.
+DIS-028 | B1 | nom | m | le bouton-poussoir | des boutons-poussoirs | زرّ الضغط | repère S | | Appuyez sur le bouton-poussoir marche. | Le bouton-poussoir arrêt est rouge.
+DIS-029 | B1 | nom | m | l'interrupteur | | القاطعة (المفتاح) | | | Fermez l'interrupteur pour allumer la lampe. | L'interrupteur de ma chambre est cassé.
+DIS-030 | B1 | nom | m | l'arrêt d'urgence | | التوقف الاضطراري | | | Appuyez sur l'arrêt d'urgence en cas de danger. | Chaque machine de l'atelier a un arrêt d'urgence.
+DIS-031 | B1 | nom | f | la marche | | التشغيل ؛ الدَّرَجة | deux sens : marche d'un moteur / marche d'un escalier | | Le voyant vert indique la marche du moteur. | Attention à la dernière marche de l'escalier.
+DIS-032 | B2 | nom | m | le démarrage direct | | الإقلاع المباشر | | | Le démarrage direct convient aux moteurs de faible puissance. | Dessinez le schéma du démarrage direct.
+DIS-033 | B2 | nom | m | le démarrage étoile-triangle | | الإقلاع نجمة-مثلث | | | Le démarrage étoile-triangle réduit le courant de démarrage. | Ce moteur utilise un démarrage étoile-triangle.
+DIS-034 | B2 | nom | m | le verrouillage | | الإقفال المتبادل | verrouillage électrique / mécanique | | Le verrouillage empêche les deux contacteurs de fonctionner ensemble. | Ajoutez un verrouillage électrique entre KM1 et KM2.
+DIS-035 | B2 | nom | f | la temporisation | | التأخير الزمني | | | La temporisation retarde le passage en triangle. | Réglez la temporisation sur cinq secondes.
+DIS-036 | B1 | nom | m | le voyant | | المصباح المؤشِّر | voyant lumineux | | Le voyant rouge signale un défaut. | Le voyant de la batterie s'allume dans la voiture.
+DIS-037 | B1 | nom | m | le schéma électrique | | المخطط الكهربائي | | | Lisez le schéma électrique avant de câbler. | Le schéma électrique utilise des symboles normalisés.
+DIS-038 | A2 | nom | m | le symbole | | الرمز | | | Ce symbole représente un contact à ouverture. | Le symbole du relais est dans le dossier.
+DIS-039 | B1 | nom | m | l'ordre | | الأمر ؛ الترتيب | deux sens : donner un ordre / ranger dans l'ordre | | La partie commande envoie un ordre au contacteur. | Rangez les fiches dans l'ordre alphabétique.
+DIS-040 | B2 | nom | f | l'électrovanne | | الصمام الكهرومغناطيسي | | | L'électrovanne ouvre l'arrivée d'eau. | Le système d'arrosage utilise une électrovanne.
+DIS-041 | B2 | nom | m | l'air comprimé | | الهواء المضغوط | | | Le vérin fonctionne à l'air comprimé. | Le compresseur produit l'air comprimé de l'atelier.
+DIS-042 | B2 | nom | m | le compresseur | | الضاغط | | | Le compresseur alimente le réseau pneumatique. | Le compresseur du réfrigérateur fait du bruit.
+DIS-043 | B2 | nom | m | l'optocoupleur | | المقرِن الضوئي | isole la commande de la puissance | | L'optocoupleur isole le microcontrôleur de la puissance. | Un optocoupleur contient une LED et un phototransistor.
+DIS-044 | B2 | nom | m | le pont en H | des ponts en H | قنطرة H | inverse le sens d'un moteur à courant continu | | Le pont en H inverse le sens du moteur. | Le circuit L298 contient deux ponts en H.
+DIS-045 | B1 | nom | m | le câblage | | التسليك (التوصيل بالأسلاك) | | | Le câblage doit respecter le schéma. | Vérifiez le câblage avec le professeur.
+DIS-046 | B2 | nom | m | le module relais | des modules relais | وحدة المرحِّل | | | Le module relais se branche sur la carte Arduino. | Ce module relais commande une lampe de 220 V.
+DIS-047 | B2 | nom | f | la surcharge | | الحمولة الزائدة | | | La surcharge fait chauffer le moteur. | Cette semaine, j'ai une surcharge de devoirs.
+DIS-048 | B1 | nom | m | le défaut | | العطل (الخلل) ؛ العيب | deux sens : défaut d'une machine / défaut d'une personne | | Le voyant rouge indique un défaut. | Mon plus grand défaut, c'est l'impatience.
+DIS-049 | B2 | nom | m | le calibre | | العيار | calibre d'un disjoncteur / d'un appareil de mesure | | Choisissez un disjoncteur de calibre 16 A. | Changez le calibre du multimètre.
+DIS-050 | B1 | nom | f | la protection | | الحماية | | | Le fusible assure la protection du circuit. | Portez des lunettes de protection.
+DIS-051 | B1 | verbe | | distribuer | | يوزِّع | | | Le contacteur distribue l'énergie au moteur. | Le professeur distribue les copies.
+DIS-052 | B1 | verbe | | commander | | يتحكَّم في ؛ يطلب (طلبية) | deux sens | | Le relais commande la lampe. | Nous commandons des pizzas le vendredi.
+DIS-053 | A2 | verbe | | couper | | يقطع | | | Le disjoncteur coupe le courant. | Coupe le pain en deux.
+DIS-054 | B2 | verbe | | enclencher | | يُعشِّق (يُشغِّل) | | | Le contacteur s'enclenche quand la bobine est alimentée. | Enclenchez le disjoncteur après la réparation.
+DIS-055 | B1 | verbe | | actionner | | يُحرِّك (يُشغِّل) | | | Actionnez le levier pour ouvrir la vanne. | Le vérin actionne la porte du garage.
+DIS-056 | B1 | verbe | | piloter | | يقود (يتحكَّم في) | | | Le microcontrôleur pilote le moteur. | Mon cousin pilote des avions.
+DIS-057 | B1 | verbe | | inverser | | يعكس | | | Le pont en H inverse le sens du moteur. | Inversez les deux fils du moteur.
+DIS-058 | B1 | verbe | | activer | | يُفعِّل | | | Le microcontrôleur active la sortie du relais. | J'active le mode avion pendant le cours.
+DIS-059 | B1 | verbe | | désactiver | | يُعطِّل (يُلغي التفعيل) | | | Désactivez l'alarme avant d'ouvrir la porte. | Je désactive les notifications pendant les révisions.
+DIS-060 | B1 | verbe | | conduire | | يوصِل (التيار) ؛ يسوق | irrégulier : il conduit, conduit ; deux sens | | La diode conduit dans le sens direct. | Mon frère conduit le bus scolaire.
+DIS-061 | B1 | verbe | | câbler | | يُسلِّك (يوصِّل بالأسلاك) | | | Câblez le circuit de commande. | Nous câblons le tableau électrique en TP.
+DIS-062 | B1 | verbe | | verrouiller | | يُقفِل | | | KM1 verrouille KM2 pour éviter un court-circuit. | Verrouille la porte en sortant.
+DIS-063 | B2 | verbe | | temporiser | | يؤخِّر زمنيًا | | | Le relais temporise la mise en marche. | Temporisez l'ouverture de deux secondes.
+DIS-064 | B2 | adjectif | | bistable | | ثنائي الاستقرار | | | Un distributeur bistable garde sa position. | La bascule bistable mémorise un bit.
+DIS-065 | B2 | adjectif | | monostable | | أحادي الاستقرار | | | Le distributeur monostable revient grâce à un ressort. | Le relais monostable revient au repos.
+DIS-066 | B2 | adjectif | | saturé | | مُشبَع | féminin : saturée ; deux sens | saturée | Le transistor saturé se comporte comme un interrupteur fermé. | Le réseau téléphonique est saturé le soir de l'Aïd.
+DIS-067 | B1 | adjectif | | bloqué | | مُحصَر (لا يمرّر التيار) ؛ مسدود | féminin : bloquée ; deux sens | bloquée | Le transistor bloqué se comporte comme un interrupteur ouvert. | La route est bloquée par la neige à Ifrane.
+DIS-068 | B1 | adjectif | | pneumatique | | هوائي (بالهواء المضغوط) | | | Le vérin pneumatique pousse le colis. | La porte du bus est pneumatique.
+DIS-069 | B1 | adjectif | | thermique | | حراري | | | Le relais thermique protège le moteur. | Le moteur thermique de la voiture consomme de l'essence.
+DIS-070 | B2 | adjectif | | électromagnétique | | كهرومغناطيسي | | | Le relais est un interrupteur électromagnétique. | La bobine crée un champ électromagnétique.
+DIS-071 | B1 | expression | | mettre en marche | | يُشغِّل | ≠ mettre à l'arrêt | | Appuyez sur S2 pour mettre en marche le moteur. | Ma mère met en marche la machine à laver.
+DIS-072 | B1 | expression | | mettre à l'arrêt | | يوقِف | ≠ mettre en marche | | Le bouton S1 met le moteur à l'arrêt. | Mettez la machine à l'arrêt avant de la nettoyer.
+DIS-073 | B1 | expression | | au repos | | في وضع الراحة | | | Au repos, le contact à fermeture est ouvert. | Quand la bobine n'est pas alimentée, le relais est au repos.
+DIS-074 | B2 | expression | | sous l'action de | | تحت تأثير | | | Le distributeur change de position sous l'action de la bobine. | La tige rentre sous l'action du ressort.

@@ -1,0 +1,81 @@
+# THEME: famille
+# PREFIXE: FAM
+# DOMAINE: general
+# TITRE: Famille et maison
+# COMPETENCE: Parler de ma famille et de ma maison
+# B2: non
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+FAM-001 | A2 | nom | m | le neveu | des neveux | ابن الأخ أو الأخت | | | Mon neveu a trois ans. | J'offre un jouet à mon neveu.
+FAM-002 | A2 | nom | f | la nièce | | ابنة الأخ أو الأخت | | | Ma nièce commence l'école cette année. | Je garde ma nièce le samedi.
+FAM-003 | B1 | nom | m | l'aîné | | الأكبر سنًّا (البِكر) | féminin : l'aînée | l'aînée | Je suis l'aîné de la famille. | Mon frère aîné travaille à Tanger.
+FAM-004 | B1 | nom | m | le cadet | | الأصغر سنًّا | féminin : la cadette | la cadette | Le cadet de la famille est très gâté. | Ma sœur cadette est au collège.
+FAM-005 | B1 | nom | m | le jumeau | des jumeaux | التوأم | féminin : la jumelle | la jumelle | Mon cousin a un frère jumeau. | Les jumeaux sont dans ma classe.
+FAM-006 | B1 | nom | m | le beau-frère | des beaux-frères | زوج الأخت ؛ أخ الزوج | | | Mon beau-frère est ingénieur. | Le mari de ma sœur est mon beau-frère.
+FAM-007 | B1 | nom | f | la belle-sœur | des belles-sœurs | زوجة الأخ ؛ أخت الزوج | | | Ma belle-sœur prépare un délicieux tajine. | Mon frère et ma belle-sœur habitent à Fès.
+FAM-008 | A2 | nom | f | la famille nombreuse | | الأسرة الكبيرة العدد | | | Je viens d'une famille nombreuse. | Dans une famille nombreuse, on partage tout.
+FAM-009 | B1 | nom | f | l'éducation | | التربية | | | Mes parents donnent beaucoup d'importance à l'éducation. | L'éducation est un droit pour tous les enfants.
+FAM-010 | A2 | nom | m | le mariage | | الزواج (العرس) | | | Le mariage de ma cousine a lieu cet été. | Les mariages marocains durent toute la nuit.
+FAM-011 | A2 | nom | f | la naissance | | الولادة | | | La naissance de mon petit frère nous a rendus heureux. | Ma date de naissance est le 3 mai.
+FAM-012 | B1 | nom | f | la cérémonie | | الحفل | | | La cérémonie de remise des diplômes est en juillet. | Toute la famille assiste à la cérémonie.
+FAM-013 | A2 | nom | m | l'immeuble | | العمارة | | | Nous habitons dans un immeuble de cinq étages. | L'ascenseur de l'immeuble est en panne.
+FAM-014 | A2 | nom | m | l'étage | | الطابق | | | J'habite au troisième étage. | Ma chambre est à l'étage.
+FAM-015 | A2 | nom | m | le rez-de-chaussée | des rez-de-chaussée | الطابق الأرضي | | | Le magasin est au rez-de-chaussée. | Ma grand-mère habite au rez-de-chaussée.
+FAM-016 | A2 | nom | f | la terrasse | | السطح ؛ الشرفة | | | On étend le linge sur la terrasse. | Le soir, nous prenons le thé sur la terrasse.
+FAM-017 | A2 | nom | m | le toit | | السقف | | | Le panneau solaire est sur le toit. | La pluie passe à travers le toit.
+FAM-018 | A2 | nom | m | le couloir | | الممرّ | | | Ne courez pas dans le couloir. | La salle 12 est au bout du couloir.
+FAM-019 | A2 | nom | m | l'escalier | | الدَّرَج | | | Je monte l'escalier en courant. | L'escalier de l'immeuble est étroit.
+FAM-020 | A2 | nom | m | le placard | | الخزانة الحائطية | | | Range tes vêtements dans le placard. | Le placard de la cuisine est plein.
+FAM-021 | A2 | nom | m | le tapis | des tapis | الزربية (البساط) | | | Ce tapis berbère vient de ma grand-mère. | Enlève tes chaussures avant de marcher sur le tapis.
+FAM-022 | A2 | nom | m | le canapé | | الأريكة | | | Mon père dort sur le canapé. | Le nouveau canapé est confortable.
+FAM-023 | A2 | nom | f | la vaisselle | | الأواني (غسل الأواني) | faire la vaisselle | | Je fais la vaisselle après le dîner. | La vaisselle sale est dans l'évier.
+FAM-024 | A2 | nom | f | la machine à laver | des machines à laver | آلة الغسيل | | | La machine à laver est en panne. | Mets ton pantalon dans la machine à laver.
+FAM-025 | A2 | nom | m | le réfrigérateur | | الثلاجة | familier : le frigo | le frigo | Le réfrigérateur fonctionne jour et nuit. | Mets le lait au réfrigérateur.
+FAM-026 | A2 | nom | m | le four | | الفرن | | | Ma mère cuit le pain au four. | Le four électrique chauffe vite.
+FAM-027 | B1 | nom | m | le chauffe-eau | des chauffe-eau | سخّان الماء | | | Le chauffe-eau à gaz est dans la salle de bain. | Le chauffe-eau solaire est économique.
+FAM-028 | B1 | nom | f | la bouteille de gaz | | قنينة الغاز | | | Mon père change la bouteille de gaz. | La bouteille de gaz est vide.
+FAM-029 | A2 | nom | f | la facture | | الفاتورة | | | La facture d'électricité arrive chaque mois. | Payez la facture avant la date limite.
+FAM-030 | B1 | nom | m | le robinet | | الصنبور | | | Ferme bien le robinet. | Le robinet de la cuisine fuit.
+FAM-031 | B1 | nom | f | la fuite | | التسرُّب | | | Il y a une fuite d'eau sous l'évier. | Une fuite de gaz est très dangereuse.
+FAM-032 | A2 | nom | m | le ménage | | التنظيف (أشغال البيت) | faire le ménage | | Le samedi, nous faisons le ménage. | Je fais le ménage dans ma chambre.
+FAM-033 | B1 | nom | f | les tâches ménagères | | الأشغال المنزلية | nom féminin pluriel | | Je partage les tâches ménagères avec ma sœur. | Les tâches ménagères prennent du temps.
+FAM-034 | A2 | nom | f | la lessive | | الغسيل ؛ مسحوق الغسيل | | | Ma mère fait la lessive le lundi. | Il n'y a plus de lessive.
+FAM-035 | A2 | nom | m | le linge | | الملابس المغسولة | | | Le linge sèche vite en été. | Range ton linge propre.
+FAM-036 | A2 | nom | f | la poubelle | | سلّة المهملات | | | Sors la poubelle le soir. | Jette ce papier à la poubelle.
+FAM-037 | A2 | nom | f | les courses | | التسوُّق (المشتريات) | nom féminin pluriel ; faire les courses | | Je fais les courses au souk avec ma mère. | Les courses sont dans la voiture.
+FAM-038 | B1 | nom | m | le loyer | | ثمن الكراء | | | Le loyer de l'appartement augmente. | Mon oncle paie le loyer chaque mois.
+FAM-039 | B1 | nom | m | le propriétaire | | المالك | féminin : la propriétaire | la propriétaire | Le propriétaire répare la fenêtre. | Le propriétaire habite au premier étage.
+FAM-040 | B1 | nom | m | le locataire | | المكتري | féminin : la locataire | la locataire | Les locataires paient le loyer. | Un nouveau locataire arrive demain.
+FAM-041 | B1 | nom | m | le déménagement | | الانتقال إلى مسكن آخر | | | Le déménagement est prévu en août. | Mes amis m'aident pour le déménagement.
+FAM-042 | B1 | nom | m | le voisinage | | الجوار (الجيران) | | | Le voisinage est calme. | Nous avons de bonnes relations avec le voisinage.
+FAM-043 | A2 | nom | m | le repas | des repas | الوجبة | | | Le repas du vendredi est un couscous. | Nous prenons le repas en famille.
+FAM-044 | A2 | nom | m | le goûter | | اللَّمجة (وجبة العصر) | | | Au goûter, je mange du pain avec de l'huile d'olive. | Ma mère prépare le goûter.
+FAM-045 | B1 | nom | f | la tradition | | التقليد | | | La tradition du thé est importante chez nous. | Nous respectons les traditions de l'Aïd.
+FAM-046 | A2 | nom | m | l'Aïd | | العيد | | | Pour l'Aïd, toute la famille se réunit. | Nous achetons des vêtements neufs pour l'Aïd.
+FAM-047 | B1 | nom | f | l'hospitalité | | كرم الضيافة | | | L'hospitalité marocaine est célèbre. | Merci pour votre hospitalité.
+FAM-048 | A2 | nom | m | l'invité | | الضيف | féminin : l'invitée | l'invitée | Nous avons des invités ce soir. | On sert le thé aux invités.
+FAM-049 | A2 | verbe | | ranger | | يُرتِّب | | | Range ta chambre ! | Je range mes livres sur l'étagère.
+FAM-050 | A2 | verbe | | nettoyer | | يُنظِّف | | | Je nettoie la cuisine avec ma sœur. | Nettoyez la paillasse après le TP.
+FAM-051 | B1 | verbe | | déménager | | ينتقل إلى مسكن آخر | | | Nous déménageons à Kénitra cet été. | Mon ami a déménagé l'année dernière.
+FAM-052 | B1 | verbe | | s'occuper de | | يعتني بـ | | | Je m'occupe de mon petit frère. | Ma grand-mère s'occupe du jardin.
+FAM-053 | A2 | verbe | | grandir | | يكبر | | | J'ai grandi à Meknès. | Mon petit frère grandit vite.
+FAM-054 | A2 | verbe | | cuisiner | | يطبخ | | | Mon père cuisine le vendredi. | J'apprends à cuisiner avec ma mère.
+FAM-055 | A2 | verbe | | inviter | | يدعو | | | J'invite mes amis pour mon anniversaire. | Ma tante nous invite à dîner.
+FAM-056 | B1 | verbe | | accueillir | | يستقبل (يُرحِّب بـ) | irrégulier : j'accueille, accueilli | | Nous accueillons nos cousins pour l'été. | Ma mère accueille les invités.
+FAM-057 | B1 | verbe | | louer | | يكتري ؛ يمدح | deux sens : louer un appartement / louer quelqu'un | | Mon oncle loue un appartement à Rabat. | Le professeur loue nos efforts.
+FAM-058 | B1 | verbe | | économiser | | يقتصد (يوفِّر) | | | J'économise pour acheter un ordinateur. | Éteignez la lumière pour économiser l'énergie.
+FAM-059 | B1 | verbe | | gaspiller | | يُبذِّر | | | Ne gaspille pas l'eau. | On gaspille trop de pain.
+FAM-060 | B1 | verbe | | se disputer | | يتشاجر | | | Je me dispute parfois avec ma sœur. | Les jumeaux se disputent la télécommande.
+FAM-061 | B1 | verbe | | obéir | | يُطيع | obéir à | | J'obéis à mes parents. | Le chien obéit à son maître.
+FAM-062 | A2 | adjectif | | propre | | نظيف ؛ خاص (ملكي) | deux sens : une chambre propre / ma propre chambre | | La cuisine est propre. | J'ai ma propre chambre.
+FAM-063 | A2 | adjectif | | sale | | متَّسخ | | | Mes chaussures sont sales. | Mets le linge sale dans la machine.
+FAM-064 | B1 | adjectif | | spacieux | | واسع | féminin : spacieuse | spacieuse | Notre salon est spacieux. | La nouvelle maison est spacieuse.
+FAM-065 | A2 | adjectif | | étroit | | ضيِّق | féminin : étroite | étroite | La rue de la médina est étroite. | Ce pantalon est trop étroit.
+FAM-066 | A2 | adjectif | | confortable | | مريح | | | Le canapé est confortable. | Le bus du lycée est confortable.
+FAM-067 | B1 | adjectif | | bruyant | | صاخب | féminin : bruyante | bruyante | Notre quartier est bruyant le soir. | Les voisins sont bruyants.
+FAM-068 | A2 | adjectif | | calme | | هادئ | | | Ma grand-mère vit dans un village calme. | Reste calme pendant l'examen.
+FAM-069 | B1 | adjectif | | familial | | عائلي | féminin : familiale ; pluriel : familiaux | familiale | Le repas familial du vendredi est important. | Nous partons en voyage familial.
+FAM-070 | B1 | expression | | s'entendre bien avec | | يتفاهم مع | | | Je m'entends bien avec mon frère. | Elle s'entend bien avec ses voisins.
+FAM-071 | A2 | expression | | mettre la table | | يُعِدّ المائدة | | | Je mets la table avant le dîner. | Mets la table, s'il te plaît.
+FAM-072 | A2 | expression | | rendre visite à | | يزور (شخصًا) | | | Nous rendons visite à nos grands-parents. | Je rends visite à mon oncle malade.
+FAM-073 | B1 | expression | | donner un coup de main | | يمدّ يد المساعدة | familier | | Je donne un coup de main à ma mère. | Peux-tu me donner un coup de main ?
+FAM-074 | A2 | expression | | en famille | | مع العائلة | | | Nous dînons en famille. | Le week-end, nous sortons en famille.

@@ -1,0 +1,77 @@
+# THEME: communiquer
+# PREFIXE: COM
+# DOMAINE: technique
+# TITRE: Communiquer
+# COMPETENCE: Décrire une interface et une liaison
+# B2: oui
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+COM-001 | B1 | nom | f | la communication | | التواصل (الاتصال) | | | La communication entre les deux cartes se fait par liaison série. | La communication avec mes parents est facile.
+COM-002 | B1 | nom | f | l'interface | | الواجهة (البينية) | interface homme-machine : IHM | | L'interface permet à l'utilisateur de commander la machine. | L'interface de cette application est simple.
+COM-003 | B2 | nom | f | l'interface homme-machine | | واجهة الإنسان-الآلة | abréviation IHM | l'IHM | L'interface homme-machine affiche l'état du système. | L'opérateur utilise une interface homme-machine tactile.
+COM-004 | B1 | nom | m | l'afficheur | | المُظهِر (شاشة العرض) | | | L'afficheur indique la température de la pièce. | L'afficheur de la pompe à essence est en panne.
+COM-005 | B2 | nom | m | l'afficheur sept segments | | مُظهِر ذو سبع قطع | | | L'afficheur sept segments affiche les chiffres de 0 à 9. | Le compteur utilise deux afficheurs sept segments.
+COM-006 | B2 | nom | m | l'écran LCD | | شاشة LCD (بالبلورات السائلة) | | | L'écran LCD affiche deux lignes de seize caractères. | Le message de bienvenue s'affiche sur l'écran LCD.
+COM-007 | B1 | nom | f | la diode électroluminescente | | الصمام الثنائي المضيء | abréviation LED ou DEL | la LED ; la DEL | La diode électroluminescente s'allume quand la sortie est à 1. | Placez une résistance en série avec la diode électroluminescente.
+COM-008 | B1 | nom | m | le buzzer | | الطنّان (المنبِّه الصوتي) | | | Le buzzer sonne quand la porte reste ouverte. | Le buzzer du four indique la fin de la cuisson.
+COM-009 | B1 | nom | m | le haut-parleur | des haut-parleurs | مكبِّر الصوت | h aspiré : le haut-parleur | | Le haut-parleur diffuse un message d'alerte. | Le haut-parleur de mon téléphone grésille.
+COM-010 | B1 | nom | m | le message | | الرسالة | | | Le système envoie un message d'alerte au technicien. | J'ai reçu un message de mon cousin.
+COM-011 | B2 | nom | f | la liaison série | | الربط التسلسلي | ex. UART, RS232 | | La liaison série transmet les bits les uns après les autres. | La carte communique avec l'ordinateur par une liaison série.
+COM-012 | B2 | nom | f | la liaison parallèle | | الربط المتوازي | | | La liaison parallèle transmet plusieurs bits en même temps. | La liaison parallèle utilise beaucoup de fils.
+COM-013 | B2 | nom | m | le protocole | | البروتوكول (قواعد التواصل) | protocole de communication ; aussi protocole de mesure | | Le protocole I2C utilise seulement deux fils. | Le protocole fixe les règles d'échange des données.
+COM-014 | B2 | nom | m | le débit | | سرعة النقل (الصبيب) | en bits par seconde (bit/s) | | Le débit de la liaison est de 9600 bits par seconde. | Le débit d'Internet est faible chez ma tante.
+COM-015 | B2 | nom | m | le bus | des bus | الناقل (الحافلة) | deux sens : bus de données / bus scolaire | | Le bus I2C relie plusieurs capteurs au microcontrôleur. | Je prends le bus pour aller au lycée.
+COM-016 | B1 | nom | m | le réseau | des réseaux | الشبكة | | | Les ordinateurs du lycée sont reliés en réseau. | Le réseau Wi-Fi de la maison est lent.
+COM-017 | B2 | nom | m | le réseau local | | الشبكة المحلية | | | Le réseau local relie les ordinateurs de la salle. | L'imprimante est partagée sur le réseau local.
+COM-018 | B2 | nom | f | l'adresse IP | | عنوان IP | | | Chaque ordinateur du réseau a une adresse IP. | Notez l'adresse IP de la carte réseau.
+COM-019 | B2 | nom | m | le routeur | | الموجِّه (الراوتر) | | | Le routeur relie le réseau local à Internet. | Redémarre le routeur si le Wi-Fi ne marche pas.
+COM-020 | B2 | nom | m | le commutateur | | المُبدِّل (السويتش) | aussi : le switch | le switch | Le commutateur relie les ordinateurs de la salle. | Branchez le câble sur le commutateur.
+COM-021 | B1 | nom | f | l'antenne | | الهوائي | | | L'antenne reçoit le signal radio. | L'antenne de la maison capte les chaînes marocaines.
+COM-022 | B1 | nom | f | la télécommande | | جهاز التحكم عن بُعد | | | La télécommande envoie un signal infrarouge. | Mon petit frère cache toujours la télécommande.
+COM-023 | B2 | nom | f | la transmission sans fil | | الإرسال اللاسلكي | Wi-Fi, Bluetooth, radio | | La transmission sans fil évite les câbles. | Le capteur utilise une transmission sans fil.
+COM-024 | B2 | nom | m | le module Bluetooth | | وحدة البلوتوث | | | Le module Bluetooth reçoit les ordres du téléphone. | Nous commandons le robot avec un module Bluetooth.
+COM-025 | B2 | nom | f | la fibre optique | | الألياف البصرية | | | La fibre optique transmet la lumière sur de longues distances. | Notre quartier vient d'avoir la fibre optique.
+COM-026 | B2 | nom | m | l'émetteur-récepteur | | المُرسِل-المُستقبِل | | | L'émetteur-récepteur envoie et reçoit les données. | Chaque robot possède un émetteur-récepteur radio.
+COM-027 | B1 | nom | f | la donnée | | المُعطى | souvent au pluriel : les données | | Le capteur envoie ses données au serveur. | Je n'ai plus de données mobiles ce mois-ci.
+COM-028 | B2 | nom | m | le serveur | | الخادم ؛ النادل | deux sens : serveur informatique / serveur au café | | Le serveur stocke les mesures des capteurs. | Le serveur du café nous apporte deux thés.
+COM-029 | B2 | nom | m | le codage | | الترميز | | | Le codage ASCII représente chaque caractère par un nombre. | Le codage des couleurs se fait sur trois octets.
+COM-030 | B2 | nom | m | le caractère | | الحرف (الرمز) ؛ الطبع | deux sens : caractère d'un texte / caractère d'une personne | | L'écran affiche seize caractères par ligne. | Mon frère a un caractère calme.
+COM-031 | B2 | nom | f | la trame | | الإطار (حزمة البيانات) | | | La trame commence par un bit de start. | Chaque trame contient une adresse et des données.
+COM-032 | B2 | nom | m | le bit de parité | | بِت التكافؤ | | | Le bit de parité permet de détecter une erreur. | Ajoutez un bit de parité à la trame.
+COM-033 | B1 | nom | f | l'alarme | | الإنذار | | | L'alarme sonne quand un intrus entre. | Mon alarme sonne à six heures et demie.
+COM-034 | B1 | nom | f | l'alerte | | التنبيه | | | Le système envoie une alerte au téléphone du technicien. | Une alerte météo annonce de fortes pluies.
+COM-035 | B1 | nom | m | le voyant lumineux | | الضوء المؤشِّر | | | Le voyant lumineux vert indique que tout fonctionne. | Un voyant lumineux clignote sur le routeur.
+COM-036 | B2 | nom | m | le pictogramme | | الرمز التصويري | | | Le pictogramme indique un danger électrique. | Les pictogrammes de sécurité sont affichés dans l'atelier.
+COM-037 | B1 | nom | m | l'ordinateur | | الحاسوب | | | L'ordinateur reçoit les mesures par USB. | Je fais mes recherches sur l'ordinateur de mon père.
+COM-038 | B2 | nom | m | le logiciel | | البرنام (البرنامج الحاسوبي) | | | Le logiciel affiche les courbes de température. | Nous utilisons un logiciel de simulation en classe.
+COM-039 | B2 | nom | f | la supervision | | الإشراف (المراقبة عن بُعد) | | | La supervision permet de surveiller l'usine depuis un écran. | Le logiciel de supervision affiche les alarmes.
+COM-040 | B2 | nom | f | la carte électronique | | البطاقة الإلكترونية | | | La carte électronique contient le microcontrôleur. | Soudez les composants sur la carte électronique.
+COM-041 | B2 | nom | f | la carte Arduino | | بطاقة أردوينو | | | La carte Arduino lit le capteur et commande la LED. | Notre projet PE utilise une carte Arduino.
+COM-042 | B2 | nom | m | le port USB | | منفذ USB | | | Branchez la carte sur le port USB de l'ordinateur. | Le port USB de mon téléphone est abîmé.
+COM-043 | B2 | nom | f | l'application | | التطبيق | | | L'application du téléphone commande le portail. | Cette application m'aide à réviser le vocabulaire.
+COM-044 | B1 | nom | m | l'échange | | التبادل | | | L'échange de données se fait par Wi-Fi. | Nous faisons un échange avec un lycée de Fès.
+COM-045 | B1 | verbe | | communiquer | | يتواصل (ينقل المعلومات) | | | La carte communique avec l'ordinateur. | Nous communiquons par messages.
+COM-046 | B1 | verbe | | afficher | | يعرض (يُظهِر) | | | L'écran affiche la vitesse du moteur. | Le lycée affiche les résultats au tableau.
+COM-047 | B1 | verbe | | envoyer | | يرسل | irrégulier au futur : il enverra | | Le capteur envoie la mesure au microcontrôleur. | J'envoie un message à mon ami.
+COM-048 | B1 | verbe | | recevoir | | يستقبل (يتلقّى) | irrégulier : il reçoit, reçu | | Le module reçoit les ordres du téléphone. | J'ai reçu mes notes du premier semestre.
+COM-049 | B1 | verbe | | signaler | | يُشير إلى (يُنبِّه) | | | Le voyant rouge signale un défaut. | Signalez toute anomalie au professeur.
+COM-050 | B1 | verbe | | allumer | | يُشعِل (يُضيء) | ≠ éteindre | | La sortie allume la LED. | J'allume la lumière de ma chambre.
+COM-051 | B1 | verbe | | éteindre | | يُطفئ | irrégulier : il éteint, éteint ; ≠ allumer | | Éteignez l'écran avant de partir. | La LED s'éteint au bout de cinq secondes.
+COM-052 | B1 | verbe | | clignoter | | يومض | | | La LED clignote deux fois par seconde. | Le feu orange clignote la nuit.
+COM-053 | B2 | verbe | | diffuser | | يبثّ (ينشر) | | | Le haut-parleur diffuse une alarme sonore. | La chaîne diffuse le match en direct.
+COM-054 | B1 | verbe | | transférer | | يُحوِّل (ينقل الملفات) | | | Transférez les mesures vers l'ordinateur. | Je transfère les photos de mon téléphone sur l'ordinateur.
+COM-055 | B2 | verbe | | décoder | | يفكّ الترميز | | | Le décodeur décode le nombre binaire. | Le récepteur décode la trame reçue.
+COM-056 | B1 | verbe | | connecter | | يربط (يوصل بالشبكة) | se connecter à | | Connectez la carte au réseau Wi-Fi. | Je me connecte à la plateforme du lycée.
+COM-057 | B2 | verbe | | télécharger | | يُنزِّل (يُحمِّل) | | | Téléchargez le programme dans le microcontrôleur. | Je télécharge les sujets du bac des années passées.
+COM-058 | B2 | verbe | | partager | | يتقاسم (يشارك) | | | L'imprimante est partagée sur le réseau. | Je partage mes résumés avec mes camarades.
+COM-059 | B1 | adjectif | | sonore | | صوتي | | | Le système émet un signal sonore. | La salle de sport est très sonore.
+COM-060 | B1 | adjectif | | lumineux | | ضوئي (مُضيء) | féminin : lumineuse | lumineuse | Un signal lumineux indique la fin du cycle. | Ma chambre est grande et lumineuse.
+COM-061 | B1 | adjectif | | visuel | | بصري | féminin : visuelle ; pluriel : visuels | visuelle | L'afficheur donne une information visuelle. | J'ai une bonne mémoire visuelle.
+COM-062 | B2 | adjectif | | tactile | | لمسي | | | L'écran tactile remplace les boutons. | Mon téléphone a un écran tactile.
+COM-063 | B2 | adjectif | | sans fil | | لاسلكي | invariable | | Le capteur sans fil envoie ses mesures toutes les minutes. | J'utilise des écouteurs sans fil.
+COM-064 | B2 | adjectif | | série | | تسلسلي | invariable : une liaison série | | La transmission série utilise un seul fil de données. | Le port série relie la carte à l'ordinateur.
+COM-065 | B1 | adjectif | | connecté | | متَّصل | féminin : connectée | connectée | La maison connectée se commande avec un téléphone. | Mon frère reste connecté toute la nuit.
+COM-066 | B1 | expression | | en temps réel | | في الوقت الحقيقي | | | L'écran affiche la température en temps réel. | Je suis le résultat du match en temps réel.
+COM-067 | B1 | expression | | en ligne | | عبر الإنترنت (مُتَّصل) | | | Les mesures sont consultables en ligne. | Je fais mes exercices en ligne.
+COM-068 | B2 | expression | | hors ligne | | دون اتصال بالإنترنت | | | Cette application fonctionne hors ligne. | Télécharge les vidéos pour les regarder hors ligne.
+COM-069 | B2 | expression | | bit de start | | بِت البداية | | | Chaque trame commence par un bit de start. | Le bit de start vaut toujours 0.
+COM-070 | B1 | expression | | à l'écran | | على الشاشة | | | Le message d'erreur apparaît à l'écran. | Je passe trop de temps à l'écran.

@@ -1,0 +1,79 @@
+# THEME: acquerir
+# PREFIXE: ACQ
+# DOMAINE: technique
+# TITRE: Acquérir
+# COMPETENCE: Expliquer comment un capteur acquiert une information
+# B2: oui
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+ACQ-001 | B1 | nom | m | le capteur | | المُلتقِط (الحسّاس) | ≠ l'actionneur (confusion fréquente) | | Le capteur transforme une grandeur physique en signal électrique. | Le capteur de fumée sonne dans la cuisine.
+ACQ-002 | B1 | nom | m | le détecteur | | الكاشف | détecteur TOR | | Le détecteur signale la présence d'une pièce. | Le détecteur de métaux sonne à l'aéroport.
+ACQ-003 | B1 | nom | f | l'acquisition | | الاكتساب (التقاط المعلومة) | fonction acquérir | | L'acquisition de la température se fait chaque seconde. | La carte d'acquisition est reliée à l'ordinateur.
+ACQ-004 | B1 | nom | f | la grandeur physique | | المقدار الفيزيائي | | | La température est une grandeur physique. | Le capteur mesure une grandeur physique.
+ACQ-005 | B1 | nom | m | le signal | des signaux | الإشارة | | | Le capteur délivre un signal électrique. | Le signal du réseau téléphonique est faible au village.
+ACQ-006 | B2 | nom | m | le signal analogique | des signaux analogiques | الإشارة التماثلية | | | Un signal analogique varie de façon continue. | La sortie du capteur LM35 est un signal analogique.
+ACQ-007 | B2 | nom | m | le signal numérique | des signaux numériques | الإشارة الرقمية | | | Un signal numérique est codé en binaire. | Le microcontrôleur traite un signal numérique.
+ACQ-008 | B2 | nom | m | le signal logique | des signaux logiques | الإشارة المنطقية | ne prend que deux valeurs : 0 ou 1 | | Le détecteur délivre un signal logique. | Un signal logique vaut 0 ou 1.
+ACQ-009 | B2 | nom | m | le capteur tout ou rien | des capteurs tout ou rien | الملتقط «كل شيء أو لا شيء» | abréviation TOR | | Le capteur tout ou rien indique seulement la présence ou l'absence. | Un interrupteur de position est un capteur tout ou rien.
+ACQ-010 | B1 | nom | m | l'interrupteur de position | | قاطعة الوضعية (مفتاح نهاية الشوط) | | | L'interrupteur de position détecte la fin de course du vérin. | Le chariot actionne l'interrupteur de position.
+ACQ-011 | B2 | nom | m | le capteur inductif | | الملتقط التحريضي | détecte seulement les métaux | | Le capteur inductif détecte seulement les pièces métalliques. | Le capteur inductif fonctionne sans contact.
+ACQ-012 | B2 | nom | m | le capteur capacitif | | الملتقط السَّعوي | détecte aussi le bois et le plastique | | Le capteur capacitif détecte aussi le bois et le plastique. | Le niveau de blé est contrôlé par un capteur capacitif.
+ACQ-013 | B2 | nom | m | le capteur photoélectrique | | الملتقط الكهروضوئي | | | Le capteur photoélectrique utilise un faisceau lumineux. | Le colis coupe le faisceau du capteur photoélectrique.
+ACQ-014 | B2 | nom | m | le faisceau | des faisceaux | الحزمة الضوئية | | | Le faisceau infrarouge est invisible. | La pièce coupe le faisceau lumineux.
+ACQ-015 | B2 | nom | f | la photodiode | | الصمام الثنائي الضوئي | | | La photodiode réagit à la lumière. | Le courant de la photodiode augmente avec la lumière.
+ACQ-016 | B2 | nom | f | la photorésistance | | المقاومة الضوئية | abréviation LDR | | La résistance de la photorésistance diminue à la lumière. | La photorésistance allume l'éclairage la nuit.
+ACQ-017 | B2 | nom | f | la thermistance | | المقاومة الحرارية | CTN ou CTP | | La thermistance mesure la température du moteur. | La résistance d'une thermistance CTN diminue quand elle chauffe.
+ACQ-018 | B1 | nom | m | le capteur de température | | ملتقط درجة الحرارة | ex. LM35 : 10 mV par degré | | Le capteur de température LM35 délivre 10 mV par degré. | Le climatiseur possède un capteur de température.
+ACQ-019 | A2 | nom | f | la température | | درجة الحرارة | | | La température du four ne doit pas dépasser 200 °C. | Ma mère prend ma température.
+ACQ-020 | B2 | nom | f | la pression | | الضغط | deux sens : pression d'un fluide / pression des examens | | Le capteur de pression surveille le réseau d'air comprimé. | Je sens la pression avant le bac.
+ACQ-021 | B1 | nom | f | l'humidité | | الرطوبة | | | Le capteur DHT11 mesure l'humidité de l'air. | L'humidité est forte à Casablanca.
+ACQ-022 | B1 | nom | f | la luminosité | | شدة الإضاءة | | | Le capteur mesure la luminosité de la pièce. | Je baisse la luminosité de mon écran le soir.
+ACQ-023 | B2 | nom | m | le capteur à ultrasons | | الملتقط بالموجات فوق الصوتية | mesure une distance | | Le capteur à ultrasons mesure la distance d'un obstacle. | Le robot évite les murs grâce au capteur à ultrasons.
+ACQ-024 | B1 | nom | m | l'obstacle | | العائق | | | Le robot s'arrête devant un obstacle. | Le manque de sommeil est un obstacle à la réussite.
+ACQ-025 | B2 | nom | m | le codeur | | المرمِّز | codeur incrémental / absolu ; mesure une position ou une vitesse | | Le codeur mesure la position de l'arbre. | Le codeur incrémental compte les impulsions.
+ACQ-026 | B2 | nom | f | l'impulsion | | النبضة | | | Le codeur envoie 500 impulsions par tour. | Chaque impulsion fait avancer le compteur.
+ACQ-027 | B2 | nom | f | la dynamo tachymétrique | | الدينامو التاكومتري (ملتقط السرعة) | | | La dynamo tachymétrique mesure la vitesse du moteur. | La tension de la dynamo tachymétrique est proportionnelle à la vitesse.
+ACQ-028 | B1 | nom | f | la sensibilité | | الحساسية | deux sens | | La sensibilité du capteur est de 10 mV par degré. | Ma sœur a une grande sensibilité.
+ACQ-029 | B2 | nom | f | l'étendue de mesure | | مجال القياس | | | L'étendue de mesure du capteur va de 0 à 100 °C. | Choisissez un capteur avec une étendue de mesure suffisante.
+ACQ-030 | B1 | nom | f | la précision | | الدقة | | | La précision du capteur est de 0,5 °C. | Il dessine avec une grande précision.
+ACQ-031 | B2 | nom | m | le conditionnement du signal | | تكييف الإشارة | amplifier, filtrer, convertir | | Le conditionnement du signal adapte la tension du capteur. | Le conditionnement du signal utilise un amplificateur.
+ACQ-032 | B2 | nom | m | le pont de Wheatstone | | قنطرة ويتستون | | | Le pont de Wheatstone mesure une petite variation de résistance. | La jauge de contrainte est montée dans un pont de Wheatstone.
+ACQ-033 | B2 | nom | f | la jauge de contrainte | | مقياس الانفعال | mesure une force ou une déformation | | La jauge de contrainte mesure la déformation de la pièce. | La balance électronique utilise une jauge de contrainte.
+ACQ-034 | B2 | nom | m | le convertisseur analogique-numérique | | المحوِّل التماثلي-الرقمي | abréviation CAN | le CAN | Le convertisseur analogique-numérique transforme une tension en nombre. | Le microcontrôleur possède un convertisseur analogique-numérique de 10 bits.
+ACQ-035 | B2 | nom | m | l'échantillonnage | | أخذ العيِّنات (الاعتيان) | | | L'échantillonnage prend des valeurs du signal à intervalles réguliers. | La fréquence d'échantillonnage doit être assez grande.
+ACQ-036 | B2 | nom | f | la résolution | | الدقة التمييزية ؛ القرار | deux sens : résolution d'un convertisseur / bonne résolution | | La résolution du convertisseur est de 5 mV. | Ma résolution pour cette année : lire chaque jour.
+ACQ-037 | A2 | nom | m | le bouton | | الزرّ | | | Appuyez sur le bouton pour lancer le cycle. | Le bouton de ma veste est tombé.
+ACQ-038 | A2 | nom | m | le clavier | | لوحة المفاتيح | clavier matriciel | | Le code est saisi sur un clavier de douze touches. | Le clavier de mon ordinateur est en arabe.
+ACQ-039 | B1 | nom | f | la touche | | المفتاح (في لوحة المفاتيح) | | | Appuyez sur la touche Entrée. | La touche A de mon clavier est cassée.
+ACQ-040 | B2 | nom | m | le potentiomètre | | المقاومة المتغيِّرة (مقسِّم الجهد) | | | Le potentiomètre règle la vitesse du moteur. | Tournez le potentiomètre pour changer le volume.
+ACQ-041 | B1 | nom | f | la présence | | الحضور (الوجود) | détecteur de présence ; deux sens | | Le détecteur de présence allume la lumière du couloir. | Le professeur vérifie la présence des élèves.
+ACQ-042 | B1 | nom | m | le seuil | | العتبة | seuil de détection | | Au-dessus du seuil, la sortie passe à 1. | Au bac, le seuil de réussite est de 10 sur 20.
+ACQ-043 | B1 | nom | f | la distance de détection | | مسافة الكشف | | | La distance de détection du capteur est de 8 mm. | Approchez la pièce à la distance de détection.
+ACQ-044 | A2 | nom | f | l'information | | المعلومة | | | Le capteur transmet une information à la partie commande. | J'ai cherché l'information sur Internet.
+ACQ-045 | B1 | nom | f | la mesure | | القياس ؛ المقاس | deux sens : mesure d'une grandeur / prendre les mesures d'un vêtement | | La mesure de la vitesse se fait avec un codeur. | Le tailleur prend mes mesures pour la djellaba.
+ACQ-046 | B2 | verbe | | acquérir | | يكتسب (يلتقط المعلومة) | irrégulier : il acquiert, acquis | | Le capteur acquiert la température de l'eau. | En atelier, nous acquérons de l'expérience.
+ACQ-047 | B1 | verbe | | détecter | | يكشف | | | Le capteur inductif détecte la pièce. | L'antivirus détecte un problème sur mon ordinateur.
+ACQ-048 | B1 | verbe | | capter | | يلتقط | | | La photodiode capte la lumière. | Mon téléphone capte mal le réseau ici.
+ACQ-049 | A2 | verbe | | mesurer | | يقيس | | | Le capteur mesure la pression. | Je mesure un mètre soixante-quinze.
+ACQ-050 | B2 | verbe | | délivrer | | يُعطي (يُخرِج إشارة) ؛ يُسلِّم (وثيقة) | | | Le capteur délivre une tension proportionnelle à la température. | Le lycée délivre une attestation de scolarité.
+ACQ-051 | B1 | verbe | | amplifier | | يُضخِّم | | | L'amplificateur amplifie le signal du capteur. | Le micro amplifie la voix du professeur.
+ACQ-052 | B2 | verbe | | échantillonner | | يأخذ عيِّنات | | | Le convertisseur échantillonne le signal. | On échantillonne la tension chaque milliseconde.
+ACQ-053 | B2 | verbe | | numériser | | يُرقمِن | | | Le convertisseur numérise la tension du capteur. | Je numérise mes cours avec mon téléphone.
+ACQ-054 | B1 | verbe | | surveiller | | يراقب | | | Le capteur surveille la température du moteur. | Le professeur surveille la salle d'examen.
+ACQ-055 | B1 | verbe | | réagir | | يتفاعل | | | La photorésistance réagit à la lumière. | Le public réagit au but de l'équipe.
+ACQ-056 | A2 | verbe | | appuyer | | يضغط | appuyer sur | | Appuyez sur le bouton marche. | J'appuie sur la touche Entrée.
+ACQ-057 | B2 | verbe | | étalonner | | يعاير | | | Étalonnez le capteur avant la mesure. | Le technicien étalonne la balance.
+ACQ-058 | B2 | adjectif | | analogique | | تماثلي | | | La sortie analogique du capteur varie de 0 à 5 V. | Ma montre analogique a des aiguilles.
+ACQ-059 | B1 | adjectif | | numérique | | رقمي | | | Le multimètre numérique affiche la valeur. | Le lycée prépare une bibliothèque numérique.
+ACQ-060 | B1 | adjectif | | logique | | منطقي | | | La sortie logique vaut 0 ou 1. | Ta réponse n'est pas logique.
+ACQ-061 | B1 | adjectif | | proportionnel | | متناسب | féminin : proportionnelle | proportionnelle | La tension est proportionnelle à la température. | Le prix est proportionnel au poids.
+ACQ-062 | B1 | adjectif | | infrarouge | | تحت الأحمر | | | Le capteur infrarouge détecte la chaleur du corps. | La télécommande envoie un signal infrarouge.
+ACQ-063 | B2 | adjectif | | inductif | | تحريضي | féminin : inductive | inductive | Le détecteur inductif repère les pièces métalliques. | Une charge inductive crée un déphasage.
+ACQ-064 | B2 | adjectif | | capacitif | | سَعوي | féminin : capacitive | capacitive | Le détecteur capacitif repère les objets non métalliques. | L'écran capacitif réagit au doigt.
+ACQ-065 | B1 | adjectif | | sensible | | حسّاس | | | Ce capteur est sensible à la lumière. | Mon frère est très sensible.
+ACQ-066 | B1 | adjectif | | précis | | دقيق | féminin : précise | précise | Ce capteur est précis au dixième de degré. | Donnez une réponse précise.
+ACQ-067 | B2 | expression | | tout ou rien | | كل شيء أو لا شيء | abréviation TOR | | Ce détecteur donne une information tout ou rien. | La sortie tout ou rien vaut 0 ou 1.
+ACQ-068 | B1 | expression | | sans contact | | بدون تماس | | | Le capteur inductif détecte la pièce sans contact. | La porte de la pharmacie s'ouvre sans contact.
+ACQ-069 | B2 | expression | | en fin de course | | في نهاية الشوط | | | Le vérin s'arrête en fin de course. | Le capteur détecte la tige en fin de course.
+ACQ-070 | B1 | expression | | à distance | | عن بُعد | | | Le capteur mesure la température à distance. | Je suis des cours à distance pendant les vacances.
+ACQ-071 | B1 | expression | | au-dessus de | | فوق (أكثر من) | ≠ au-dessous de | | Au-dessus de 30 °C, le ventilateur démarre. | L'horloge est au-dessus du tableau.
+ACQ-072 | B1 | expression | | au-dessous de | | تحت (أقل من) | ≠ au-dessus de | | Au-dessous de 10 °C, le chauffage démarre. | À Ifrane, la température descend au-dessous de zéro.

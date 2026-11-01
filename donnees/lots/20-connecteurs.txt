@@ -1,0 +1,73 @@
+# THEME: connecteurs
+# PREFIXE: ARG
+# DOMAINE: general
+# TITRE: Connecteurs logiques et argumentation
+# COMPETENCE: Construire une réponse argumentée
+# B2: oui
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+ARG-001 | A2 | expression | | parce que | | لأنّ | devient parce qu' devant une voyelle | | Le moteur chauffe parce qu'il est surchargé. | Je révise parce que le bac approche.
+ARG-002 | B1 | expression | | puisque | | بما أنّ | | | Puisque le circuit est ouvert, la lampe est éteinte. | Puisque tu es là, aide-moi.
+ARG-003 | B1 | expression | | car | | إذ (لأنّ) | | | Le relais ne colle pas, car la bobine est coupée. | Je suis fatigué, car j'ai mal dormi.
+ARG-004 | B1 | expression | | grâce à | | بفضل | cause positive | | Grâce au hacheur, la vitesse est réglable. | J'ai réussi grâce à mes efforts.
+ARG-005 | A2 | expression | | à cause de | | بسبب | cause négative | | Le moteur s'arrête à cause d'une surcharge. | Je suis en retard à cause des embouteillages.
+ARG-006 | B1 | expression | | en effet | | في الواقع | introduit une explication | | Le moteur est robuste. En effet, il n'a pas de balais. | Il est fatigué. En effet, il a mal dormi.
+ARG-007 | B1 | expression | | c'est pourquoi | | لهذا السبب | | | Le courant est trop fort, c'est pourquoi le fusible fond. | J'aime l'électricité, c'est pourquoi j'ai choisi STE.
+ARG-008 | B2 | expression | | par conséquent | | وبالتالي | | | La charge augmente ; par conséquent, la vitesse diminue. | Il n'a pas révisé ; par conséquent, il a échoué.
+ARG-009 | B2 | expression | | de sorte que | | بحيث | | | Réglez le potentiomètre de sorte que la LED s'allume. | Il parle fort de sorte que tout le monde l'entend.
+ARG-010 | B1 | expression | | afin de | | من أجل (لكي) | + infinitif | | On ajoute un radiateur afin de refroidir le transistor. | Je me lève tôt afin de réviser.
+ARG-011 | B1 | expression | | pour que | | لكي | + subjonctif | | Parle fort pour que tout le monde entende. | On filtre la tension pour qu'elle soit presque continue.
+ARG-012 | B2 | expression | | en revanche | | في المقابل | | par contre | Ce moteur est simple ; en revanche, il s'use vite. | Je suis faible en dessin ; en revanche, je suis fort en calcul.
+ARG-013 | B1 | expression | | par contre | | بالمقابل (لكن) | plus familier que en revanche | en revanche | Ce capteur est précis, par contre il coûte cher. | J'aime le football, par contre je déteste la natation.
+ARG-014 | B1 | expression | | alors que | | بينما | | tandis que | Le relais est lent, alors que le transistor est rapide. | Il joue alors qu'il doit réviser.
+ARG-015 | B2 | expression | | bien que | | رغم أنّ | + subjonctif | | Bien que ce moteur soit puissant, il consomme peu. | Bien qu'il soit fatigué, il continue.
+ARG-016 | B1 | expression | | malgré | | رغم | + nom | | Malgré la pluie, le match a lieu. | Il a réussi malgré ses difficultés.
+ARG-017 | B1 | expression | | au contraire | | على العكس | | | Ce n'est pas facile ; au contraire, c'est très difficile. | Il n'est pas timide, au contraire.
+ARG-018 | B2 | expression | | d'une part | | من جهة | souvent suivi de d'autre part | | D'une part, ce moteur est robuste ; d'autre part, il coûte peu. | D'une part, je dois réviser ; d'autre part, je dois dormir.
+ARG-019 | B2 | expression | | d'autre part | | من جهة أخرى | | | Ce capteur est précis ; d'autre part, il est bon marché. | D'autre part, il faut penser à la sécurité.
+ARG-020 | A2 | expression | | tout d'abord | | في البداية | | | Tout d'abord, je présente le besoin. | Tout d'abord, lisez l'énoncé.
+ARG-021 | B1 | expression | | en conclusion | | في الختام | | | En conclusion, le moteur asynchrone est le meilleur choix. | En conclusion, je remercie le jury.
+ARG-022 | B1 | expression | | en résumé | | باختصار | | | En résumé, le hacheur règle la vitesse. | En résumé, notre projet répond au besoin.
+ARG-023 | A2 | expression | | par exemple | | على سبيل المثال | | | Un détecteur, par exemple un capteur inductif, repère une pièce. | J'aime les sports collectifs, par exemple le basket.
+ARG-024 | B1 | expression | | c'est-à-dire | | أي (بمعنى) | | | Le MAS, c'est-à-dire le moteur asynchrone, est robuste. | Le bac est dans un mois, c'est-à-dire en juin.
+ARG-025 | B2 | expression | | en outre | | بالإضافة إلى ذلك | | | Ce moteur est robuste ; en outre, il est bon marché. | En outre, il faut prévoir la maintenance.
+ARG-026 | B1 | expression | | de plus | | علاوة على ذلك | | | Le capteur est fiable ; de plus, il est précis. | De plus, notre solution respecte le budget.
+ARG-027 | B2 | expression | | quant à | | أمّا (فيما يخصّ) | | | Quant au coût, il reste raisonnable. | Quant à moi, je préfère la physique.
+ARG-028 | B2 | expression | | en ce qui concerne | | فيما يتعلَّق بـ | | | En ce qui concerne la sécurité, le fusible protège le circuit. | En ce qui concerne le bac, je suis prêt.
+ARG-029 | B2 | expression | | à condition que | | بشرط أن | + subjonctif | | Le moteur démarre à condition que la porte soit fermée. | Je sors à condition que mes devoirs soient finis.
+ARG-030 | B2 | expression | | au cas où | | في حال | + conditionnel | | Prévoyez un fusible au cas où il y aurait un court-circuit. | Prends un parapluie au cas où il pleuvrait.
+ARG-031 | B1 | expression | | dès que | | بمجرَّد أن | | | Le moteur démarre dès que le capteur détecte la pièce. | Appelle-moi dès que tu arrives.
+ARG-032 | B2 | expression | | tandis que | | في حين أنّ | | alors que | Ma sœur aime lire, tandis que je préfère le sport. | Le MAS est robuste, tandis que le moteur pas à pas est précis.
+ARG-033 | B2 | expression | | en somme | | إجمالًا | | | En somme, cette solution répond au cahier des charges. | En somme, le voyage était réussi.
+ARG-034 | B1 | expression | | en fait | | في الحقيقة | | | En fait, le capteur n'était pas branché. | En fait, je préfère rester à la maison.
+ARG-035 | B2 | expression | | de même | | بالمثل | | | Le courant augmente ; de même, la puissance augmente. | Ton frère a réussi ; de même, tu vas réussir.
+ARG-036 | B2 | expression | | or | | والحالُ أنّ | introduit un fait qui fait avancer le raisonnement | | Le moteur doit tourner ; or, la tension est nulle. | Il voulait sortir ; or, il pleuvait.
+ARG-037 | B1 | adverbe | | cependant | | غير أنّ | | pourtant ; néanmoins | Le moteur est puissant ; cependant, il consomme beaucoup. | J'ai révisé ; cependant, j'ai eu une mauvaise note.
+ARG-038 | B1 | adverbe | | pourtant | | ومع ذلك | | cependant ; néanmoins | Il a beaucoup travaillé, pourtant il a échoué. | Pourtant, la solution semblait simple.
+ARG-039 | B2 | adverbe | | néanmoins | | رغم ذلك | | cependant ; pourtant | Le projet est cher ; néanmoins, il est utile. | Il est fatigué ; néanmoins, il continue.
+ARG-040 | B1 | adverbe | | ainsi | | وهكذا | | | Le courant diminue ; ainsi, les pertes baissent. | Ainsi, le moteur tourne plus vite.
+ARG-041 | A2 | adverbe | | ensuite | | بعد ذلك | | | Lisez l'énoncé, ensuite répondez. | D'abord je mange, ensuite je révise.
+ARG-042 | A2 | adverbe | | enfin | | أخيرًا | | | Enfin, je présente les résultats. | Enfin les vacances !
+ARG-043 | A2 | adverbe | | finalement | | في النهاية | | | Finalement, nous avons choisi le moteur pas à pas. | Finalement, il a réussi le bac.
+ARG-044 | B1 | adverbe | | également | | أيضًا | | | Le capteur mesure également l'humidité. | Je parle également anglais.
+ARG-045 | B2 | adverbe | | notamment | | لا سيّما (على وجه الخصوص) | | | Le Maroc produit de l'énergie solaire, notamment à Ouarzazate. | J'aime les sports, notamment le football.
+ARG-046 | B1 | adverbe | | effectivement | | فعلًا | | | Effectivement, la tension est trop faible. | Tu avais effectivement raison.
+ARG-047 | B1 | adverbe | | évidemment | | بطبيعة الحال | | | Évidemment, il faut couper le courant avant d'intervenir. | Évidemment, je viendrai à ta fête.
+ARG-048 | A2 | adverbe | | premièrement | | أوّلًا | | | Premièrement, le moteur doit être robuste. | Premièrement, lisez toutes les questions.
+ARG-049 | A2 | adverbe | | surtout | | خاصّةً (قبل كل شيء) | | | Révisez surtout les formules. | J'aime surtout les mathématiques.
+ARG-050 | B2 | adverbe | | certes | | صحيحٌ أنّ (لا شكّ) | souvent suivi de mais | | Certes, ce moteur est cher, mais il est fiable. | Certes, tu as raison.
+ARG-051 | B1 | verbe | | affirmer | | يؤكِّد | | | Le fabricant affirme que le moteur est fiable. | Il affirme avoir raison.
+ARG-052 | B2 | verbe | | nuancer | | يُلطِّف (يُدقِّق الرأي) | | | Il faut nuancer cette conclusion. | Je nuance mon avis après le débat.
+ARG-053 | B1 | verbe | | illustrer | | يوضِّح بمثال | | | Illustrez votre réponse par un exemple. | Ce schéma illustre le fonctionnement du système.
+ARG-054 | B1 | verbe | | défendre | | يدافع عن | | | Je défends mon projet devant le jury. | Il défend toujours son petit frère.
+ARG-055 | B1 | verbe | | prouver | | يُقيم الدليل على | | | Les mesures prouvent l'efficacité du système. | Prouve-moi que tu as raison.
+ARG-056 | B2 | verbe | | opposer | | يُقابل (يعارض) | | | On oppose souvent la sécurité et le coût. | Deux équipes de Casablanca s'opposent en finale.
+ARG-057 | B1 | verbe | | reconnaître | | يعترف بـ | irrégulier : il reconnaît, reconnu | | Je reconnais mon erreur. | Le jury reconnaît la qualité du travail.
+ARG-058 | B1 | nom | f | la conclusion | | الخلاصة | | | La conclusion doit répondre à la question posée. | Tirez une conclusion de l'expérience.
+ARG-059 | B1 | nom | f | l'introduction | | المقدِّمة | | | L'introduction présente le sujet. | Mon introduction est trop longue.
+ARG-060 | A2 | nom | m | l'exemple | | المثال | | | Donnez un exemple de capteur. | Cet exemple est clair.
+ARG-061 | B2 | nom | f | la thèse | | الأطروحة (الرأي المُدافَع عنه) | | | La thèse de l'auteur est claire. | Je défends une thèse dans mon texte.
+ARG-062 | B1 | nom | m | le connecteur logique | | أداة الربط المنطقي | | | Utilisez des connecteurs logiques dans votre réponse. | « Donc » est un connecteur logique.
+ARG-063 | B1 | nom | f | la cause | | السبب | | | La cause de la panne est un fusible grillé. | Quelle est la cause du retard ?
+ARG-064 | B1 | nom | f | la conséquence | | العاقبة (الأثر) | | | La surchauffe est la conséquence d'une surcharge. | Il accepte les conséquences de son choix.
+ARG-065 | B1 | nom | m | l'avantage | | الإيجابية (الفائدة) | ≠ l'inconvénient | | Le principal avantage du MAS est sa robustesse. | Habiter près du lycée est un avantage.
+ARG-066 | B1 | nom | m | l'inconvénient | | السلبية (العيب) | ≠ l'avantage | | Le principal inconvénient de ce moteur est son prix. | Quel est l'inconvénient de cette solution ?

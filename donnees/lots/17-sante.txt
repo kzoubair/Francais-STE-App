@@ -1,0 +1,78 @@
+# THEME: sante
+# PREFIXE: SAN
+# DOMAINE: general
+# TITRE: Santé et corps
+# COMPETENCE: Expliquer comment je me sens
+# B2: non
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+SAN-001 | A2 | nom | f | la santé | | الصحة | | | La santé est plus importante que tout. | Le sport est bon pour la santé.
+SAN-002 | A2 | nom | m | le corps | des corps | الجسم | | | Le corps a besoin de sommeil. | Le courant électrique peut traverser le corps.
+SAN-003 | A2 | nom | f | l'épaule | | الكتف | | | J'ai mal à l'épaule après le match. | Il porte son sac sur une épaule.
+SAN-004 | A2 | nom | m | le genou | des genoux | الركبة | | | Je me suis blessé au genou. | Le gardien a mal au genou.
+SAN-005 | B1 | nom | f | la cheville | | الكاحل | | | Je me suis tordu la cheville. | Ma cheville est gonflée.
+SAN-006 | B1 | nom | m | le poignet | | المِعصم | | | Je porte une montre au poignet. | Il s'est cassé le poignet en tombant.
+SAN-007 | B1 | nom | m | le coude | | المِرفق | | | Ne mets pas les coudes sur la table. | Je me suis cogné le coude contre la porte.
+SAN-008 | A2 | nom | f | la gorge | | الحلق | | | J'ai mal à la gorge. | Le médecin regarde ma gorge.
+SAN-009 | A2 | nom | m | le cœur | | القلب | | | Le cœur bat vite après la course. | Ma grand-mère a un problème de cœur.
+SAN-010 | B1 | nom | m | le poumon | | الرئة | | | Le tabac abîme les poumons. | Les poumons apportent l'oxygène au sang.
+SAN-011 | B1 | nom | m | le cerveau | des cerveaux | الدماغ | | | Le cerveau a besoin de sommeil pour mémoriser. | Le cerveau commande tout le corps.
+SAN-012 | B1 | nom | m | l'os | des os | العظم | | | Le squelette humain contient 206 os. | Il s'est cassé un os du bras.
+SAN-013 | A2 | nom | m | le muscle | | العضلة | | | Le sport renforce les muscles. | J'ai mal aux muscles après l'entraînement.
+SAN-014 | A2 | nom | f | la peau | | الجِلد (البشرة) | | | Le soleil abîme la peau. | Cette crème protège la peau.
+SAN-015 | A2 | nom | m | le sang | | الدم | | | Le cœur envoie le sang dans tout le corps. | Mon père donne son sang à l'hôpital.
+SAN-016 | A2 | nom | m | l'hôpital | des hôpitaux | المستشفى | | | Mon oncle travaille à l'hôpital. | L'ambulance l'a transporté à l'hôpital.
+SAN-017 | A2 | nom | m | le médecin | | الطبيب | | | Je prends rendez-vous chez le médecin. | Le médecin m'a donné un médicament.
+SAN-018 | A2 | nom | m | le dentiste | | طبيب الأسنان | | | Je vais chez le dentiste pour une carie. | Le dentiste soigne mes dents.
+SAN-019 | A2 | nom | m | l'infirmier | | الممرِّض | féminin : l'infirmière | l'infirmière | L'infirmier fait une piqûre au malade. | L'infirmière du lycée m'a aidé.
+SAN-020 | A2 | nom | m | le médicament | | الدواء | | | Prends ce médicament après le repas. | Les médicaments se rangent loin des enfants.
+SAN-021 | B1 | nom | f | l'ordonnance | | الوصفة الطبية | | | Le pharmacien lit l'ordonnance. | Sans ordonnance, il ne vend pas ce médicament.
+SAN-022 | A2 | nom | m | le rendez-vous | des rendez-vous | الموعد | | | J'ai un rendez-vous chez le médecin à 15 heures. | Le conseiller m'a donné un rendez-vous.
+SAN-023 | A2 | nom | f | la fièvre | | الحُمّى | | | J'ai de la fièvre depuis hier. | La fièvre est tombée ce matin.
+SAN-024 | A2 | nom | m | le rhume | | الزكام | | | J'ai attrapé un rhume. | Avec ce rhume, je ne sens rien.
+SAN-025 | A2 | nom | f | la grippe | | الأنفلونزا | | | La grippe m'empêche d'aller au lycée. | La grippe se transmet facilement en hiver.
+SAN-026 | B1 | nom | f | la toux | | السعال | | | Cette toux dure depuis une semaine. | Le sirop calme la toux.
+SAN-027 | A2 | nom | f | la douleur | | الألم | | | J'ai une douleur au ventre. | Le médicament calme la douleur.
+SAN-028 | B1 | nom | f | la blessure | | الإصابة (الجرح) | | | La blessure du joueur est grave. | Nettoie bien la blessure.
+SAN-029 | A2 | nom | f | la maladie | | المرض | | | Le diabète est une maladie fréquente. | La maladie l'empêche de venir.
+SAN-030 | B1 | nom | m | le sommeil | | النوم | | | Le sommeil aide à mémoriser. | Je manque de sommeil avant le bac.
+SAN-031 | A2 | nom | f | la fatigue | | التعب | | | La fatigue diminue la concentration. | Je ressens de la fatigue le soir.
+SAN-032 | B1 | nom | m | le régime | | الحِمية ؛ النظام | deux sens : régime alimentaire / régime d'un moteur | | Mon père suit un régime sans sucre. | Ce régime l'aide à perdre du poids.
+SAN-033 | A2 | nom | f | la nourriture | | الطعام | | | La nourriture de la cantine est bonne. | Évite la nourriture trop grasse.
+SAN-034 | B1 | nom | f | la vitamine | | الفيتامين | | | Les oranges contiennent de la vitamine C. | Je prends des vitamines en hiver.
+SAN-035 | A2 | nom | m | le poids | des poids | الوزن | | | Je surveille mon poids. | Le poids du cartable est trop lourd pour le dos.
+SAN-036 | A2 | nom | f | la taille | | القامة ؛ المقاس | deux sens | | Quelle est ta taille ? | Ce pantalon n'est pas à ma taille.
+SAN-037 | B1 | nom | m | le tabac | | التبغ | | | Le tabac est mauvais pour la santé. | La vente de tabac aux mineurs est interdite.
+SAN-038 | B1 | nom | f | l'hygiène | | النظافة الشخصية | | | L'hygiène des mains évite les maladies. | Une bonne hygiène de vie aide à réussir.
+SAN-039 | B1 | nom | m | les premiers secours | | الإسعافات الأولية | nom masculin pluriel | | J'ai suivi une formation aux premiers secours. | Les premiers secours sauvent des vies.
+SAN-040 | B1 | nom | f | les urgences | | المستعجلات | nom féminin pluriel | | Mon cousin est allé aux urgences. | Les urgences sont ouvertes la nuit.
+SAN-041 | A2 | nom | f | l'ambulance | | سيارة الإسعاف | | | L'ambulance arrive en dix minutes. | On appelle une ambulance.
+SAN-042 | B1 | nom | m | le vaccin | | اللقاح | | | Le vaccin protège contre la maladie. | Les enfants reçoivent des vaccins à l'école.
+SAN-043 | B1 | nom | f | l'allergie | | الحساسية المرضية (الأرجية) | | | J'ai une allergie au pollen. | Cette allergie me fait éternuer.
+SAN-044 | B1 | nom | f | la consultation | | الفحص الطبي (الاستشارة) | | | La consultation coûte deux cents dirhams. | La consultation dure quinze minutes.
+SAN-045 | B1 | nom | m | le pansement | | الضمادة | | | L'infirmière met un pansement sur ma blessure. | Change le pansement chaque jour.
+SAN-046 | A2 | verbe | | soigner | | يُعالِج | | | Le médecin soigne les malades. | Ma mère me soigne quand je suis malade.
+SAN-047 | B1 | verbe | | guérir | | يُشفى ؛ يَشفي | | | J'ai guéri en trois jours. | Ce médicament aide à guérir.
+SAN-048 | A2 | verbe | | tousser | | يسعل | | | Je tousse depuis hier. | Ne tousse pas sur les autres.
+SAN-049 | A2 | verbe | | se blesser | | يُصاب بجرح | | | Il s'est blessé pendant le match. | Attention, tu vas te blesser !
+SAN-050 | A2 | verbe | | se reposer | | يستريح | | | Repose-toi après le match. | Le médecin me demande de me reposer.
+SAN-051 | A2 | verbe | | respirer | | يتنفَّس | | | Respirez profondément. | J'ai du mal à respirer quand il fait chaud.
+SAN-052 | B1 | verbe | | maigrir | | ينحف | | | Mon oncle a maigri de cinq kilos. | Il fait du sport pour maigrir.
+SAN-053 | B1 | verbe | | grossir | | يسمن | | | J'ai grossi pendant les vacances. | Le sucre fait grossir.
+SAN-054 | A2 | verbe | | se sentir | | يشعر | irrégulier : je me sens | | Je me sens mieux aujourd'hui. | Elle se sent fatiguée.
+SAN-055 | B1 | verbe | | souffrir | | يتألَّم | irrégulier : il souffre, souffert ; souffrir de | | Il souffre du dos. | Ma grand-mère souffre de diabète.
+SAN-056 | B1 | verbe | | avaler | | يبتلع | | | Avale le comprimé avec de l'eau. | J'ai du mal à avaler.
+SAN-057 | B1 | verbe | | éternuer | | يعطس | | | J'éternue à cause de la poussière. | Mets ta main devant ta bouche quand tu éternues.
+SAN-058 | B1 | verbe | | vacciner | | يُلقِّح | | | On vaccine les enfants contre la rougeole. | Je me fais vacciner contre la grippe.
+SAN-059 | A2 | adjectif | | malade | | مريض | | | Je suis malade, je reste à la maison. | Mon frère malade ne va pas au lycée.
+SAN-060 | A2 | adjectif | | fatigué | | مُتعَب | féminin : fatiguée | fatiguée | Je suis fatigué après l'entraînement. | Elle a l'air fatiguée.
+SAN-061 | A2 | adjectif | | blessé | | مُصاب (جريح) | féminin : blessée | blessée | Le joueur blessé sort du terrain. | Deux personnes sont blessées dans l'accident.
+SAN-062 | B1 | adjectif | | enrhumé | | مزكوم | féminin : enrhumée | enrhumée | Je suis enrhumé depuis lundi. | Ma sœur enrhumée tousse beaucoup.
+SAN-063 | B1 | adjectif | | sain | | سليم (صحّي) | féminin : saine | saine | Mangez des aliments sains. | Un esprit sain dans un corps sain.
+SAN-064 | A2 | adjectif | | grave | | جسيم (خطير) | | | Ce n'est pas grave. | Il a eu un accident grave.
+SAN-065 | B1 | adjectif | | contagieux | | مُعدٍ | féminin : contagieuse | contagieuse | La grippe est contagieuse. | Reste chez toi, tu es contagieux.
+SAN-066 | B1 | adjectif | | épuisé | | مُنهَك | féminin : épuisée | épuisée | Après le bac blanc, je suis épuisé. | Les joueurs sont épuisés.
+SAN-067 | A2 | expression | | avoir mal à | | يشعر بألم في | | | J'ai mal à la tête. | Il a mal au dos.
+SAN-068 | A2 | expression | | en forme | | في صحة جيدة (نشيط) | | | Je suis en forme ce matin. | Le sport me garde en forme.
+SAN-069 | A2 | expression | | prendre rendez-vous | | يأخذ موعدًا | | | Je prends rendez-vous chez le dentiste. | Prenez rendez-vous par téléphone.
+SAN-070 | B1 | expression | | se faire mal | | يؤذي نفسه | | | Je me suis fait mal au genou. | Attention, tu vas te faire mal !
+SAN-071 | A2 | expression | | rester au lit | | يلزم الفراش | | | Le médecin m'a dit de rester au lit. | Avec la fièvre, je reste au lit.

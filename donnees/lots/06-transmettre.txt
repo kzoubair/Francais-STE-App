@@ -1,0 +1,78 @@
+# THEME: transmettre
+# PREFIXE: TRA
+# DOMAINE: technique
+# TITRE: Transmettre
+# COMPETENCE: Décrire une transmission de mouvement
+# B2: oui
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+TRA-001 | B1 | nom | f | la transmission | | نقل الحركة ؛ البثّ | deux sens : transmission du mouvement / transmission d'un match | | La transmission du mouvement se fait par engrenages. | La transmission du match commence à 20 heures.
+TRA-002 | A2 | nom | m | le mouvement | | الحركة | mouvement de rotation / de translation | | Le moteur produit un mouvement de rotation. | Ce mouvement de gymnastique est difficile.
+TRA-003 | B1 | nom | f | la rotation | | الدوران | | | La roue effectue une rotation complète. | La rotation de la Terre dure vingt-quatre heures.
+TRA-004 | B2 | nom | f | la translation | | الإزاحة (حركة مستقيمة) | | | Le chariot de l'imprimante a un mouvement de translation. | La tige du vérin se déplace en translation.
+TRA-005 | B1 | nom | m | l'engrenage | | المسنَّنات (التعشيق) | | | L'engrenage transmet le mouvement entre deux arbres. | Les engrenages de la boîte de vitesses sont usés.
+TRA-006 | B1 | nom | f | la roue dentée | | العجلة المسنَّنة | | | La roue dentée possède 40 dents. | Comptez les dents de chaque roue dentée.
+TRA-007 | B2 | nom | m | le pignon | | المسنَّن الصغير | petite roue dentée | | Le pignon moteur entraîne la grande roue. | Le pignon de mon vélo a perdu une dent.
+TRA-008 | A2 | nom | f | la dent | | السِّنّ | deux sens : dent d'une roue / dent de la bouche | | La roue A compte vingt dents. | J'ai mal à une dent depuis hier.
+TRA-009 | B1 | nom | f | la poulie | | البَكَرة | | | La courroie relie la poulie motrice à la poulie réceptrice. | Le vieux puits utilise une poulie et une corde.
+TRA-010 | B1 | nom | f | la courroie | | السَّير (الحزام الناقل) | | | La courroie transmet le mouvement sans bruit. | La courroie de la voiture est cassée.
+TRA-011 | B1 | nom | f | la chaîne | | السلسلة ؛ القناة التلفزية | deux sens : chaîne de vélo / chaîne de télévision | | La chaîne du vélo relie le pédalier à la roue arrière. | Je regarde le match sur une chaîne sportive.
+TRA-012 | B2 | nom | m | le rapport de réduction | | نسبة التخفيض | r = vitesse de sortie / vitesse d'entrée | | Calculez le rapport de réduction de l'engrenage. | Un rapport de réduction de 1/10 divise la vitesse par dix.
+TRA-013 | B1 | nom | m | le réducteur | | المُخفِّض | réduit la vitesse et augmente le couple | | Le réducteur diminue la vitesse du moteur. | Le réducteur augmente le couple de sortie.
+TRA-014 | B2 | nom | m | le système vis-écrou | | منظومة اللولب والصامولة | rotation → translation | | Le système vis-écrou transforme la rotation en translation. | La table de la perceuse monte grâce à un système vis-écrou.
+TRA-015 | A2 | nom | f | la vis | des vis | البُرغي (اللولب) | | | Serrez la vis avec un tournevis. | Il manque une vis sur le boîtier.
+TRA-016 | B1 | nom | m | l'écrou | | الصامولة | | | Bloquez l'écrou avec une clé plate. | L'écrou se déplace le long de la vis.
+TRA-017 | B2 | nom | m | l'accouplement | | القارِنة (وصلة بين عمودين) | relie deux arbres alignés | | L'accouplement relie l'arbre moteur à l'arbre de la pompe. | L'accouplement élastique absorbe les chocs.
+TRA-018 | B1 | nom | m | l'arbre | | عمود الدوران ؛ الشجرة | deux sens : arbre moteur / arbre du jardin | | L'arbre moteur transmet le couple à la poulie. | Il y a un grand arbre devant le lycée.
+TRA-019 | B2 | nom | m | le roulement | | المِدحرَجة (محمل الكريات) | roulement à billes | | Le roulement guide l'arbre en rotation. | Ce roulement fait du bruit, il faut le changer.
+TRA-020 | B2 | nom | m | le palier | | الركيزة (حامل العمود) | | | Le palier supporte l'arbre. | Graissez le palier une fois par mois.
+TRA-021 | B2 | nom | m | le guidage | | التوجيه الميكانيكي | guidage en rotation / en translation | | Le guidage en rotation utilise deux roulements. | Le tiroir a un guidage en translation.
+TRA-022 | B2 | nom | f | la liaison | | الوصلة (الربط) ؛ الصِّلة | liaison mécanique ; aussi liaison série (communiquer) | | La liaison entre l'arbre et la roue est complète. | Il y a une liaison logique entre ces deux idées.
+TRA-023 | B2 | nom | f | la liaison pivot | | الوصلة المحورية | une seule rotation possible | | La liaison pivot permet seulement une rotation. | Dessinez le symbole de la liaison pivot.
+TRA-024 | B2 | nom | f | la liaison glissière | | الوصلة الانزلاقية | une seule translation possible | | La liaison glissière permet une seule translation. | Le tiroir est monté en liaison glissière.
+TRA-025 | B2 | nom | m | l'encastrement | | الوصلة الثابتة (التثبيت الكلي) | liaison sans aucun mouvement | | L'encastrement supprime tout mouvement entre deux pièces. | Le moteur est fixé au bâti par un encastrement.
+TRA-026 | B2 | nom | m | le bâti | | الهيكل الحامل | | | Le moteur est fixé sur le bâti. | Le bâti de la machine est en acier.
+TRA-027 | B1 | nom | m | l'axe | | المحور | | | La roue tourne autour de son axe. | L'axe de la poulie est en acier.
+TRA-028 | B2 | nom | f | la came | | الحدبة (الكامة) | transforme la rotation en translation | | La came pousse le poussoir à chaque tour. | Le profil de la came détermine le mouvement.
+TRA-029 | B2 | nom | m | le système bielle-manivelle | | منظومة الذراع والمرفق | | | Le système bielle-manivelle transforme la rotation en translation alternée. | Le moteur de voiture utilise un système bielle-manivelle.
+TRA-030 | B2 | nom | m | le pignon-crémaillère | | المسنَّن والمسطرة المسنَّنة | | | Le pignon-crémaillère transforme la rotation en translation. | La porte coulissante utilise un pignon-crémaillère.
+TRA-031 | B2 | nom | m | l'embrayage | | القابض | | | L'embrayage relie ou sépare le moteur et la boîte de vitesses. | Mon père appuie sur l'embrayage pour changer de vitesse.
+TRA-032 | B1 | nom | m | le frottement | | الاحتكاك | | | Le frottement crée de la chaleur et des pertes. | Le frottement de mes mains me réchauffe en hiver.
+TRA-033 | B1 | nom | m | le lubrifiant | | مادة التشحيم | | | Le lubrifiant réduit le frottement. | Mettez un peu de lubrifiant sur la chaîne du vélo.
+TRA-034 | B2 | nom | m | le jeu | des jeux | الخُلوص (فراغ بين القطع) ؛ اللعبة | deux sens | | Il y a trop de jeu entre la vis et l'écrou. | Ce jeu vidéo est très populaire au lycée.
+TRA-035 | B2 | nom | m | le diamètre primitif | | القطر الابتدائي | d = m × Z | | Calculez le diamètre primitif de la roue. | Le diamètre primitif dépend du module et du nombre de dents.
+TRA-036 | B2 | nom | m | le module | | المعامل (للمسنَّن) ؛ الوحدة الدراسية | deux sens : module d'un engrenage / module d'un cours | | Deux roues qui engrènent ont le même module. | Ce module de mathématiques est difficile.
+TRA-037 | B1 | nom | m | le diamètre | | القُطر | | | Mesurez le diamètre de l'arbre avec le pied à coulisse. | Le diamètre du ballon est d'environ 22 cm.
+TRA-038 | B1 | nom | m | le rayon | | نصف القطر ؛ الشعاع ؛ الرفّ | plusieurs sens : rayon d'un cercle / rayon de soleil / rayon d'un magasin | | Le rayon de la poulie est de 5 cm. | Les fruits sont au rayon de gauche.
+TRA-039 | B2 | nom | m | l'entraxe | | المسافة بين المحورين | | | L'entraxe est la distance entre les deux axes. | Calculez l'entraxe des deux roues dentées.
+TRA-040 | B2 | nom | f | la roue et vis sans fin | | العجلة واللولب اللانهائي | grand rapport de réduction | | La roue et vis sans fin donne une forte réduction. | Le portail utilise une roue et vis sans fin.
+TRA-041 | B2 | nom | f | la boîte de vitesses | des boîtes de vitesses | علبة السرعات | | | La boîte de vitesses change le rapport de transmission. | La voiture de mon père a une boîte de vitesses automatique.
+TRA-042 | A2 | nom | f | la vitesse | | السرعة | | | La vitesse de sortie est plus faible que la vitesse d'entrée. | La vitesse est limitée à 40 km/h près du lycée.
+TRA-043 | B2 | nom | f | la chaîne cinématique | | السلسلة الحركية | | | La chaîne cinématique va du moteur jusqu'à la roue. | Tracez la chaîne cinématique du portail.
+TRA-044 | B2 | nom | m | le schéma cinématique | | المخطط الحركي | | | Complétez le schéma cinématique du mécanisme. | Le schéma cinématique utilise les symboles des liaisons.
+TRA-045 | B1 | nom | m | le mécanisme | | الآلية | | | Ce mécanisme transforme la rotation en translation. | Le mécanisme de la montre est très précis.
+TRA-046 | B1 | verbe | | transmettre | | يُبلِّغ ؛ ينقل الحركة | irrégulier (comme mettre) : il transmet, transmis | | La courroie transmet le mouvement à la pompe. | Transmettez ce message à vos parents.
+TRA-047 | B1 | verbe | | réduire | | يُقلِّل | irrégulier : il réduit, réduit | | Le réducteur réduit la vitesse du moteur. | Réduis le volume de la musique, s'il te plaît.
+TRA-048 | B1 | verbe | | transformer | | يُحوِّل (يُغيِّر طبيعة الشيء) | | | La came transforme la rotation en translation. | Mon père a transformé le garage en atelier.
+TRA-049 | B2 | verbe | | engrener | | يتعشَّق | | | Le pignon engrène avec la grande roue. | Les deux roues engrènent correctement.
+TRA-050 | B1 | verbe | | guider | | يوجِّه | | | Les roulements guident l'arbre en rotation. | Le professeur guide les élèves pendant le projet.
+TRA-051 | B1 | verbe | | graisser | | يشحِّم | | | Graissez les engrenages chaque mois. | Il graisse la chaîne de son vélo.
+TRA-052 | A2 | verbe | | serrer | | يشدّ (يربط بإحكام) | | | Serrez l'écrou avec la clé. | Ces chaussures me serrent les pieds.
+TRA-053 | B1 | verbe | | desserrer | | يُرخي | | | Desserrez les vis du capot. | Il desserre sa cravate après l'oral.
+TRA-054 | A2 | verbe | | fixer | | يُثبِّت (يُركِّب) ؛ يُحدِّد (موعدًا) | deux sens : fixer une pièce / fixer une date | | Fixez le moteur sur le bâti. | Nous fixons la date de la présentation.
+TRA-055 | A2 | verbe | | monter | | يُركِّب ؛ يصعد | deux sens : monter une pièce / monter l'escalier | | Montez la poulie sur l'arbre. | Je monte au troisième étage.
+TRA-056 | B1 | verbe | | démonter | | يُفكِّك (القطع) | | | Démontez le réducteur pour le nettoyer. | Mon frère démonte son vieux téléphone.
+TRA-057 | A2 | verbe | | glisser | | ينزلق | | | La courroie glisse sur la poulie. | Attention, le sol glisse !
+TRA-058 | B1 | verbe | | tendre | | يُوتِّر (يشدّ) ؛ يمدّ (اليد) | deux sens : tendre une courroie / tendre la main | | Tendez la courroie avant de démarrer. | Il me tend la main pour me dire bonjour.
+TRA-059 | B2 | adjectif | | menant | | قائد (في المسنَّنات) | féminin : menante | menante | La roue menante est fixée sur l'arbre moteur. | Le pignon menant a quinze dents.
+TRA-060 | B2 | adjectif | | mené | | مَقود (في المسنَّنات) | féminin : menée | menée | La roue menée tourne moins vite. | Calculez la vitesse de l'arbre mené.
+TRA-061 | B2 | adjectif | | réversible | | قابل للانعكاس | | | Ce système vis-écrou est réversible. | Cette veste est réversible.
+TRA-062 | B2 | adjectif | | irréversible | | غير قابل للانعكاس | | | La roue et vis sans fin est souvent irréversible. | Cette décision est irréversible.
+TRA-063 | A2 | adjectif | | usé | | مُهترئ | féminin : usée | usée | La courroie est usée, il faut la remplacer. | Mes baskets sont usées.
+TRA-064 | B1 | adjectif | | élastique | | مرن (مطّاطي) | | | L'accouplement élastique absorbe les vibrations. | Le tissu de ce maillot est élastique.
+TRA-065 | B1 | adjectif | | parallèle | | موازٍ | | | Les deux arbres sont parallèles. | La rue du lycée est parallèle à l'avenue principale.
+TRA-066 | B1 | adjectif | | perpendiculaire | | عمودي (متعامد) | | | Les deux arbres sont perpendiculaires. | Tracez une droite perpendiculaire à l'axe.
+TRA-067 | B2 | expression | | par l'intermédiaire de | | بواسطة | | | Le moteur entraîne la roue par l'intermédiaire d'une courroie. | Je contacte le professeur par l'intermédiaire du délégué.
+TRA-068 | B2 | expression | | sans glissement | | بدون انزلاق | | | La courroie crantée transmet le mouvement sans glissement. | Les roues roulent sans glissement.
+TRA-069 | B1 | expression | | à billes | | بالكُرَيَّات | roulement à billes ; stylo à billes | | Le roulement à billes réduit le frottement. | Mon stylo à billes ne marche plus.
+TRA-070 | B2 | expression | | en prise | | مُتعشِّق | | | Les deux roues sont en prise. | Le pignon reste en prise avec la crémaillère.
+TRA-071 | B1 | expression | | dans le sens horaire | | في اتجاه عقارب الساعة | ≠ dans le sens antihoraire | | La poulie tourne dans le sens horaire. | Tournez la vis dans le sens horaire pour la serrer.

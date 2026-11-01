@@ -1,0 +1,73 @@
+# THEME: sentiments
+# PREFIXE: SEN
+# DOMAINE: general
+# TITRE: Sentiments et opinions
+# COMPETENCE: Donner mon avis et le justifier
+# B2: non
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+SEN-001 | B1 | nom | m | le sentiment | | الشعور | | | Il exprime ses sentiments avec difficulté. | J'ai le sentiment d'avoir bien réussi.
+SEN-002 | B1 | nom | f | l'émotion | | العاطفة (الانفعال) | | | Ma mère pleure d'émotion. | Il cache ses émotions.
+SEN-003 | A2 | nom | f | la joie | | الفرح | | | Les supporters crient de joie. | Quelle joie de te revoir !
+SEN-004 | A2 | nom | f | la tristesse | | الحزن | | | Je ressens de la tristesse après le départ de mon ami. | Sa tristesse se voit sur son visage.
+SEN-005 | A2 | nom | f | la colère | | الغضب | | | Il ne contrôle pas sa colère. | Calme ta colère avant de parler.
+SEN-006 | A2 | nom | f | la peur | | الخوف | | | La peur de l'échec me bloque. | Il cache sa peur.
+SEN-007 | B1 | nom | f | l'angoisse | | القلق الشديد | | | L'angoisse monte avant les résultats. | Il parle de son angoisse à sa mère.
+SEN-008 | B1 | nom | f | l'inquiétude | | القلق | | | L'inquiétude de mes parents est normale. | Il n'y a aucune raison d'inquiétude.
+SEN-009 | A2 | nom | f | la confiance | | الثقة | | | La confiance en soi aide à l'oral. | Il a gagné la confiance de ses camarades.
+SEN-010 | B1 | nom | f | la fierté | | الفخر | | | Mes parents parlent de moi avec fierté. | Ma réussite est une fierté pour la famille.
+SEN-011 | B1 | nom | f | la honte | | العار (الخجل الشديد) | h aspiré : la honte | | La honte l'empêche de parler. | Il n'y a pas de honte à se tromper.
+SEN-012 | B1 | nom | f | la timidité | | الخجل | | | Sa timidité l'empêche de parler en classe. | Je combats ma timidité au club de théâtre.
+SEN-013 | B1 | nom | f | la déception | | خيبة الأمل | | | Le score final est une grande déception. | J'ai caché ma déception.
+SEN-014 | A2 | nom | f | la surprise | | المفاجأة | | | Quelle bonne surprise ! | Ma note est une vraie surprise.
+SEN-015 | A2 | nom | f | la patience | | الصبر | | | La patience est nécessaire pour apprendre. | Il manque de patience.
+SEN-016 | A2 | nom | m | le courage | | الشجاعة | | | Il faut du courage pour parler devant le jury. | Bon courage pour ton examen !
+SEN-017 | B1 | nom | f | la motivation | | الحافز (الدافع) | | | Ma motivation augmente avant l'examen. | Le sport me donne de la motivation.
+SEN-018 | B1 | nom | f | l'opinion | | الرأي | | | Chacun peut donner son opinion. | Quelle est ton opinion sur ce film ?
+SEN-019 | B1 | nom | m | le point de vue | des points de vue | وجهة النظر | | | Je respecte ton point de vue. | De mon point de vue, ce choix est bon.
+SEN-020 | B1 | nom | m | le débat | | النقاش (المناظرة) | | | Nous organisons un débat en classe. | Le débat porte sur les réseaux sociaux.
+SEN-021 | B1 | nom | m | l'accord | | الاتفاق | | | Nous sommes arrivés à un accord. | Mon père a donné son accord pour le voyage.
+SEN-022 | B1 | nom | m | le désaccord | | الخلاف | | | Il y a un désaccord entre les deux groupes. | J'exprime mon désaccord poliment.
+SEN-023 | B1 | nom | m | l'argument | | الحُجّة | | | Ton argument est convaincant. | Donnez deux arguments pour défendre votre idée.
+SEN-024 | A2 | nom | m | le respect | | الاحترام | | | Le respect des autres est important. | Le professeur mérite notre respect.
+SEN-025 | A2 | nom | f | l'amitié | | الصداقة | | | Notre amitié dure depuis le primaire. | L'amitié est précieuse.
+SEN-026 | B1 | nom | f | la jalousie | | الغيرة | | | La jalousie détruit l'amitié. | Il ressent de la jalousie.
+SEN-027 | B1 | nom | m | l'ennui | | الملل | | | L'ennui me pousse vers mon téléphone. | Pendant les vacances, je lutte contre l'ennui.
+SEN-028 | B1 | nom | m | le regret | | الندم | | | Je n'ai aucun regret. | Il exprime ses regrets à son ami.
+SEN-029 | A2 | nom | m | l'espoir | | الأمل | | | J'ai l'espoir de devenir ingénieur. | Ne perds pas espoir.
+SEN-030 | B1 | nom | f | la solitude | | الوحدة (العزلة) | | | La solitude pèse sur certains internes. | J'aime parfois la solitude pour réviser.
+SEN-031 | B1 | nom | f | la gentillesse | | اللُّطف | | | Merci pour ta gentillesse. | Sa gentillesse plaît à tout le monde.
+SEN-032 | B1 | verbe | | ressentir | | يُحسّ بـ | irrégulier (comme sentir) : je ressens | | Je ressens une grande joie. | Il ressent de la fatigue.
+SEN-033 | A2 | verbe | | s'inquiéter | | يقلق | | | Ne t'inquiète pas, tout va bien. | Mes parents s'inquiètent pour moi.
+SEN-034 | B1 | verbe | | s'énerver | | يغضب (ينفعل) | | | Il s'énerve facilement. | Ne t'énerve pas !
+SEN-035 | A2 | verbe | | regretter | | يندم | | | Je regrette mes paroles. | Tu ne vas pas regretter ce choix.
+SEN-036 | B1 | verbe | | apprécier | | يُقدِّر (يستحسن) | | | J'apprécie l'aide de mes camarades. | Le jury apprécie une présentation claire.
+SEN-037 | A2 | verbe | | détester | | يكره | | | Je déteste les retards. | Il déteste se lever tôt.
+SEN-038 | A2 | verbe | | préférer | | يُفضِّل | | | Je préfère réviser le matin. | Tu préfères le thé ou le café ?
+SEN-039 | B1 | verbe | | approuver | | يوافق على | | | Mes parents approuvent mon choix. | Le professeur approuve notre idée.
+SEN-040 | B1 | verbe | | critiquer | | ينتقد | | | Il critique toujours les autres. | Ne critique pas sans proposer une solution.
+SEN-041 | B1 | verbe | | convaincre | | يُقنِع | irrégulier : il convainc, convaincu | | Il a convaincu le jury. | Je n'arrive pas à convaincre mon père.
+SEN-042 | B1 | verbe | | se méfier | | يحذر من | se méfier de | | Méfie-toi des fausses informations. | Je me méfie des inconnus sur Internet.
+SEN-043 | A2 | verbe | | souhaiter | | يتمنّى | | | Je te souhaite bonne chance. | Je souhaite devenir ingénieur.
+SEN-044 | A2 | verbe | | espérer | | يأمل | | | J'espère avoir une bonne note. | Nous espérons gagner le match.
+SEN-045 | B1 | verbe | | se plaindre | | يشتكي | irrégulier : il se plaint, plaint ; se plaindre de | | Il se plaint toujours du bruit. | Ne te plains pas, travaille !
+SEN-046 | B1 | verbe | | rassurer | | يُطمئن | | | Le médecin me rassure. | Ses mots m'ont rassuré.
+SEN-047 | A2 | verbe | | remercier | | يشكر | | | Je remercie mon professeur. | Remercie ta tante pour le cadeau.
+SEN-048 | A2 | adjectif | | heureux | | سعيد | féminin : heureuse | heureuse | Je suis heureux de te voir. | Ma mère est heureuse de mes résultats.
+SEN-049 | A2 | adjectif | | inquiet | | قَلِق | féminin : inquiète | inquiète | Ma mère est inquiète quand je rentre tard. | Je suis inquiet pour l'examen.
+SEN-050 | A2 | adjectif | | fier | | فخور | féminin : fière | fière | Je suis fier de mon frère. | Mon père est fier de moi.
+SEN-051 | A2 | adjectif | | déçu | | خائب الأمل | féminin : déçue | déçue | Je suis déçu par ma note. | Elle est déçue du résultat.
+SEN-052 | B1 | adjectif | | jaloux | | غيور | féminin : jalouse | jalouse | Il est jaloux de son frère. | Ne sois pas *jalouse* de ta sœur.
+SEN-053 | A2 | adjectif | | timide | | خجول | | | Mon cousin est timide. | Les élèves timides parlent peu à l'oral.
+SEN-054 | B1 | adjectif | | généreux | | كريم | féminin : généreuse | généreuse | Mon grand-père est généreux. | C'est une personne généreuse.
+SEN-055 | B1 | adjectif | | égoïste | | أناني | | | Ne sois pas égoïste, partage. | Il est égoïste avec ses affaires.
+SEN-056 | B1 | adjectif | | honnête | | نزيه (صادق) | | | Sois honnête avec tes parents. | C'est un élève honnête.
+SEN-057 | A2 | adjectif | | surpris | | متفاجئ | féminin : surprise | surprise | Je suis surpris par la question. | Elle est surprise de ma visite.
+SEN-058 | B1 | adjectif | | nerveux | | عصبي (قَلِق) | féminin : nerveuse | nerveuse | Je suis nerveux avant l'oral. | Mon frère est nerveux le matin.
+SEN-059 | B1 | adjectif | | convaincu | | مُقتنِع | féminin : convaincue | convaincue | Je suis convaincu de mon choix. | Elle n'est pas convaincue.
+SEN-060 | A2 | expression | | avoir peur de | | يخاف من | | | J'ai peur de l'oral. | Il a peur des chiens.
+SEN-061 | B1 | expression | | avoir honte de | | يخجل من | | | J'ai honte de mon retard. | N'aie pas honte de poser une question.
+SEN-062 | A2 | expression | | à mon avis | | في رأيي | | | À mon avis, ce film est trop long. | À mon avis, il faut réviser tôt.
+SEN-063 | A2 | expression | | être d'accord | | يوافق | être d'accord avec quelqu'un | | Je suis d'accord avec toi. | Mes parents ne sont pas d'accord.
+SEN-064 | B1 | expression | | en avoir marre | | سئم (ضاق ذرعًا) | familier | | J'en ai marre des embouteillages. | Il en a marre de perdre.
+SEN-065 | B1 | expression | | faire confiance à | | يثق بـ | | | Je fais confiance à mon ami. | Fais confiance à ton travail.
+SEN-066 | B1 | expression | | avoir le moral | | معنوياته مرتفعة | familier | | Après ce résultat, j'ai le moral. | Elle n'a pas le moral aujourd'hui.

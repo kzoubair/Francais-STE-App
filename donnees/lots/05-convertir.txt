@@ -1,0 +1,75 @@
+# THEME: convertir
+# PREFIXE: CON
+# DOMAINE: technique
+# TITRE: Convertir
+# COMPETENCE: Choisir un moteur et justifier ce choix
+# B2: oui
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+CON-001 | B1 | nom | m | l'actionneur | | المُشغِّل (المُنفِّذ) | convertit l'énergie ; ≠ le capteur ; ≠ le préactionneur (confusions fréquentes) | | Le moteur est un actionneur électrique. | Le vérin est l'actionneur de la porte.
+CON-002 | A2 | nom | m | le moteur | | المحرِّك | | | Le moteur entraîne le tapis roulant. | Le moteur de la moto de mon frère est en panne.
+CON-003 | B1 | nom | m | le moteur à courant continu | | محرِّك التيار المستمر | abréviation MCC | | Le moteur à courant continu est commandé par un hacheur. | La vitesse du moteur à courant continu dépend de la tension.
+CON-004 | B2 | nom | m | le moteur asynchrone | | المحرِّك اللاتزامني | abréviation MAS | | Le moteur asynchrone est le plus utilisé dans l'industrie. | Ce moteur asynchrone triphasé tourne à 1450 tr/min.
+CON-005 | B2 | nom | m | le moteur pas à pas | des moteurs pas à pas | المحرِّك خطوة بخطوة | | | Le moteur pas à pas tourne d'un angle précis. | L'imprimante 3D utilise des *moteurs pas à pas*.
+CON-006 | B2 | nom | m | le servomoteur | | المحرِّك المؤازِر | | | Le servomoteur règle la position du bras. | Le servomoteur reçoit un signal MLI.
+CON-007 | B1 | nom | m | le rotor | | الدوّار | partie tournante | | Le rotor tourne à l'intérieur du stator. | Le rotor est lié à l'arbre moteur.
+CON-008 | B1 | nom | m | le stator | | الساكن (الجزء الثابت) | partie fixe | | Le stator crée un champ magnétique tournant. | Les enroulements du stator sont couplés en étoile.
+CON-009 | B2 | nom | m | l'induit | | المتحرِّض | MCC : partie qui reçoit le courant par les balais | | L'induit du moteur est alimenté par les balais. | Mesurez la résistance de l'induit.
+CON-010 | B2 | nom | m | l'inducteur | | المحرِّض | crée le champ magnétique | | L'inducteur crée le champ magnétique du moteur. | Dans ce moteur, l'inducteur est un aimant permanent.
+CON-011 | B2 | nom | m | le balai | | الفرشاة الكربونية ؛ المِكنسة | deux sens : balai d'un moteur / balai pour nettoyer | | Les balais frottent sur le collecteur du moteur. | Passe le balai dans ta chambre.
+CON-012 | B1 | nom | m | l'aimant | | المغناطيس | aimant permanent | | L'aimant attire les pièces en fer. | Ce petit moteur contient deux aimants.
+CON-013 | B2 | nom | f | la force électromotrice | | القوة الكهرمحرِّكة | abréviation f.é.m. ; symbole E | | La force électromotrice est proportionnelle à la vitesse. | Calculez la force électromotrice du moteur.
+CON-014 | B1 | nom | m | le couple | | العزم ؛ الزوج | deux sens : couple moteur en N·m / deux personnes | | Le couple moteur s'exprime en newtons-mètres. | Un jeune couple habite à côté de chez nous.
+CON-015 | B1 | nom | f | la vitesse de rotation | | سرعة الدوران | n en tr/min ; Ω en rad/s | | La vitesse de rotation est mesurée en tours par minute. | Le variateur règle la vitesse de rotation.
+CON-016 | B1 | nom | m | le sens de rotation | | اتجاه الدوران | | | Inversez deux phases pour changer le sens de rotation. | Le sens de rotation est indiqué par une flèche.
+CON-017 | B2 | nom | m | le glissement | | الانزلاق | g, moteur asynchrone | | Le glissement d'un moteur asynchrone est faible. | Calculez le glissement en pourcentage.
+CON-018 | B2 | nom | f | la vitesse de synchronisme | | سرعة التزامن | ns | | La vitesse de synchronisme dépend de la fréquence. | Le rotor tourne moins vite que la vitesse de synchronisme.
+CON-019 | B2 | nom | m | le couplage | | التقرين | étoile (Y) ou triangle (Δ) | | Le couplage du moteur dépend de la tension du réseau. | Réalisez le couplage sur la plaque à bornes.
+CON-020 | B2 | nom | m | l'appel de courant | | تيار الإقلاع المرتفع | au démarrage | | Le démarrage direct provoque un fort appel de courant. | L'appel de courant peut faire déclencher le disjoncteur.
+CON-021 | B1 | nom | m | le vérin | | الرافعة (المكبس) | vérin pneumatique / hydraulique | | Le vérin pousse la pièce vers le poste de perçage. | Le vérin double effet sort et rentre grâce à l'air comprimé.
+CON-022 | B2 | nom | f | la tige | | الساق (ذراع المكبس) | | | La tige du vérin sort en deux secondes. | La tige de la plante est fragile.
+CON-023 | B2 | nom | m | le piston | | المكبس | | | Le piston se déplace dans le corps du vérin. | Le piston du moteur de voiture monte et descend.
+CON-024 | B2 | nom | m | le ressort | | النابض | | | Le ressort ramène la tige du vérin simple effet. | Le ressort de mon stylo est cassé.
+CON-025 | B2 | nom | f | la course | | الشوط (مسافة الحركة) ؛ السباق | deux sens : course d'un vérin / course à pied | | La course du vérin est de 100 mm. | Il a gagné la course du 100 mètres.
+CON-026 | B1 | nom | f | la résistance chauffante | | المقاومة المسخِّنة | | | La résistance chauffante convertit l'énergie électrique en chaleur. | Le chauffe-eau contient une résistance chauffante.
+CON-027 | B1 | nom | m | l'éclairage | | الإنارة | | | L'éclairage de l'atelier utilise des lampes LED. | L'éclairage de notre rue est faible.
+CON-028 | B1 | nom | m | l'électroaimant | | المغناطيس الكهربائي | | | L'électroaimant soulève les pièces en acier. | La serrure électrique contient un électroaimant.
+CON-029 | B2 | nom | f | l'énergie mécanique | | الطاقة الميكانيكية | | | Le moteur fournit de l'énergie mécanique. | L'énergie mécanique fait tourner la poulie.
+CON-030 | B2 | nom | f | l'énergie thermique | | الطاقة الحرارية | | | Le four produit de l'énergie thermique. | Les pertes deviennent de l'énergie thermique.
+CON-031 | A2 | nom | f | la chaleur | | الحرارة | | | Le moteur dégage de la chaleur. | La chaleur est forte à Marrakech en été.
+CON-032 | A2 | nom | m | le ventilateur | | المِروحة | | | Le ventilateur refroidit le moteur. | J'allume le ventilateur quand il fait chaud.
+CON-033 | B2 | nom | m | le refroidissement | | التبريد | | | Le refroidissement du moteur se fait par un ventilateur. | Le refroidissement de l'ordinateur est bruyant.
+CON-034 | B1 | nom | m | l'échauffement | | ارتفاع الحرارة ؛ الإحماء (في الرياضة) | deux sens | | Un échauffement anormal indique une surcharge. | Avant le match, nous faisons un échauffement.
+CON-035 | B2 | nom | m | le pas | | الخطوة | deux sens : pas d'un moteur ou d'une vis / pas en marchant | | Ce moteur fait un pas de 1,8 degré. | Mon petit frère marche à petits pas.
+CON-036 | B2 | nom | f | la puissance mécanique | | القدرة الميكانيكية | P = C × Ω | | La puissance mécanique est égale au couple fois la vitesse angulaire. | Le moteur fournit une puissance mécanique de 3 kW.
+CON-037 | B2 | nom | f | la vitesse angulaire | | السرعة الزاوية | Ω en rad/s | | La vitesse angulaire s'exprime en radians par seconde. | Calculez la vitesse angulaire du moteur.
+CON-038 | B1 | nom | m | le tour | | الدورة ؛ الدَّور (النوبة) | tr/min = tours par minute ; deux sens | | Le moteur pas à pas fait un tour en 200 pas. | C'est ton tour de lire le texte.
+CON-039 | B2 | nom | f | la machine électrique | | الآلة الكهربائية | | | Une machine électrique peut être moteur ou génératrice. | Le TP porte sur les machines électriques.
+CON-040 | B2 | nom | f | la génératrice | | المولِّدة | | | La génératrice transforme l'énergie mécanique en énergie électrique. | La dynamo du vélo est une petite génératrice.
+CON-041 | B2 | nom | m | l'alternateur | | المُناوِب (مولِّد التيار المتناوب) | | | L'alternateur de la voiture recharge la batterie. | La centrale utilise un grand alternateur.
+CON-042 | A2 | nom | f | la pompe | | المضخة | | | La pompe envoie l'eau dans le réservoir. | La pompe du puits de mon grand-père est en panne.
+CON-043 | B1 | nom | m | le frein | | المكبح (الفرامل) | | | Le frein arrête le moteur rapidement. | Les freins de mon vélo sont usés.
+CON-044 | B2 | nom | f | la plaque à bornes | | لوحة مرابط المحرِّك | | | Ouvrez la plaque à bornes du moteur. | Le couplage se fait sur la plaque à bornes.
+CON-045 | B2 | nom | f | la barrette | | الوصلة (قضيب الربط) | | | Placez les barrettes pour coupler le moteur en triangle. | Les barrettes relient les bornes du moteur.
+CON-046 | B1 | verbe | | convertir | | يحوِّل (من شكل إلى آخر) | | | Le moteur convertit l'énergie électrique en énergie mécanique. | Convertissez deux heures en minutes.
+CON-047 | B1 | verbe | | entraîner | | يُدير (يجرّ) ؛ يتدرَّب (s'entraîner) | deux sens | | Le moteur entraîne la pompe. | Je m'entraîne au football le samedi.
+CON-048 | A2 | verbe | | tourner | | يدور | | | Le moteur tourne à 1500 tr/min. | Tournez à droite après la mosquée.
+CON-049 | B1 | verbe | | démarrer | | يُقلِع (يبدأ الاشتغال) | | | Le moteur démarre en étoile. | Le cours démarre à huit heures.
+CON-050 | B1 | verbe | | ralentir | | يُبطئ | | | Le moteur ralentit quand la charge augmente. | Ralentis, il y a une école ici !
+CON-051 | B1 | verbe | | accélérer | | يُسرِّع | | | Le moteur accélère jusqu'à sa vitesse nominale. | Le bus accélère sur l'autoroute.
+CON-052 | B1 | verbe | | freiner | | يفرمل (يكبح) | | | Le moteur freine la charge à l'arrêt. | Le chauffeur freine devant le passage piéton.
+CON-053 | B2 | verbe | | coupler | | يُقرِن | coupler en étoile / en triangle | | Couplez le moteur en étoile. | Ce moteur est couplé en triangle.
+CON-054 | A2 | verbe | | chauffer | | يسخِّن ؛ يسخن | | | La résistance chauffe l'eau. | Ma mère chauffe le lait le matin.
+CON-055 | B1 | verbe | | refroidir | | يبرِّد | | | Le ventilateur refroidit le moteur. | Laisse refroidir le fer à souder.
+CON-056 | A2 | verbe | | pousser | | يدفع | | | La tige du vérin pousse le colis. | Ne poussez pas dans le couloir !
+CON-057 | B1 | verbe | | soulever | | يرفع إلى الأعلى | | | L'électroaimant soulève les pièces. | Il soulève le carton de livres.
+CON-058 | B1 | verbe | | déplacer | | يُحرِّك (ينقل من مكانه) | | | Le vérin déplace la pièce. | Nous déplaçons les tables pour le contrôle.
+CON-059 | B2 | adjectif | | asynchrone | | لاتزامني | | | Le moteur asynchrone tourne moins vite que le champ. | Une liaison asynchrone n'utilise pas d'horloge commune.
+CON-060 | B2 | adjectif | | synchrone | | تزامني | | | Le moteur synchrone tourne à la vitesse du champ. | L'alternateur est une machine synchrone.
+CON-061 | A2 | adjectif | | mécanique | | ميكانيكي | | | Mon frère répare les pannes mécaniques. | Le frein mécanique bloque la roue.
+CON-062 | B2 | adjectif | | rotatif | | دوراني | féminin : rotative | rotative | Le moteur produit un mouvement rotatif. | Le vérin rotatif tourne d'un quart de tour.
+CON-063 | B1 | adjectif | | linéaire | | خطّي | | | Le vérin produit un mouvement linéaire. | La caractéristique de la résistance est linéaire.
+CON-064 | B1 | adjectif | | robuste | | متين | | | Le moteur asynchrone est robuste et peu cher. | Ce téléphone est robuste.
+CON-065 | B2 | expression | | simple effet | | أحادي المفعول | vérin simple effet | | Le vérin simple effet revient grâce à un ressort. | Un vérin simple effet consomme peu d'air.
+CON-066 | B2 | expression | | double effet | | ثنائي المفعول | vérin double effet | | Le vérin double effet est commandé par un distributeur 5/2. | Ce vérin double effet sort et rentre avec l'air comprimé.
+CON-067 | B2 | expression | | en étoile | | تقرين نجمي (Y) | | | Les enroulements sont couplés en étoile. | Au démarrage, le moteur est branché en étoile.
+CON-068 | B2 | expression | | en triangle | | تقرين مثلثي (Δ) | | | Après la temporisation, le moteur passe en triangle. | En triangle, chaque enroulement reçoit 380 V.

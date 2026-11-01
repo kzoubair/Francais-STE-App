@@ -1,0 +1,87 @@
+# THEME: analyse
+# PREFIXE: ANF
+# DOMAINE: technique
+# TITRE: Analyse fonctionnelle et dossier technique
+# COMPETENCE: Présenter mon projet PE et son dossier technique
+# B2: oui
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+ANF-001 | A2 | nom | m | le besoin | | الحاجة | exprimer un besoin ; avoir besoin de | | Le produit doit satisfaire le besoin de l'utilisateur. | J'ai besoin de ton cahier pour réviser le cours d'ADC.
+ANF-002 | B1 | nom | f | la fonction | | الوظيفة | | | Quelle est la fonction de ce capteur dans le système ? | Le professeur nous demande d'écrire la fonction de chaque élément.
+ANF-003 | B1 | nom | f | la fonction principale | | الوظيفة الرئيسية | abréviation FP | | La fonction principale met en relation deux éléments du milieu extérieur. | Énoncez la fonction principale du portail automatique.
+ANF-004 | B2 | nom | f | la fonction contrainte | | وظيفة الإكراه (القيد) | abréviation FC | | Une fonction contrainte impose une limite au concepteur. | Le respect des normes de sécurité est une fonction contrainte.
+ANF-005 | B1 | nom | f | la fonction de service | | وظيفة الخدمة | | | Une fonction de service décrit l'action attendue du produit. | Le diagramme pieuvre montre toutes les fonctions de service.
+ANF-006 | B2 | nom | f | la fonction technique | | الوظيفة التقنية | | | Le diagramme FAST décompose une fonction de service en fonctions techniques. | Chaque fonction technique est associée à une solution technique.
+ANF-007 | A2 | nom | m | le système | | النظام (المنظومة) | | | Ce système contient une chaîne d'énergie et une chaîne d'information. | Le système automatique ouvre le portail du lycée.
+ANF-008 | A2 | nom | m | le produit | | المنتوج | | | Le produit doit respecter le cahier des charges. | Ma mère achète ses produits au marché du quartier.
+ANF-009 | A2 | nom | m | l'utilisateur | | المستعمِل | féminin : l'utilisatrice | l'utilisatrice | L'utilisateur appuie sur le bouton pour démarrer la machine. | Le produit rend service à l'utilisateur.
+ANF-010 | B1 | nom | m | le cahier des charges | des cahiers des charges | دفتر التحمُّلات | abréviation CdCF (cahier des charges fonctionnel) | | Le cahier des charges fixe les critères et les niveaux. | Lisez le cahier des charges avant de choisir le moteur.
+ANF-011 | B1 | nom | m | le dossier technique | | الملف التقني | abréviation DT | | Le dossier technique contient les schémas et la nomenclature. | Au bac, le dossier technique compte souvent dix pages.
+ANF-012 | B1 | nom | m | le diagramme | | المخطَّط | | | Complétez le diagramme à partir du texte. | Ce diagramme représente les fonctions du système.
+ANF-013 | A2 | nom | m | le schéma | | التبيانة (الرسم التخطيطي) | | | Le professeur dessine le schéma au tableau. | Sur ce schéma, le moteur est relié au relais.
+ANF-014 | B2 | nom | f | la bête à cornes | des bêtes à cornes | مخطط «الحيوان ذو القرنين» (أداة لصياغة الحاجة) | trois questions : à qui ? sur quoi ? dans quel but ? | | La bête à cornes permet d'exprimer le besoin. | Complétez la bête à cornes du distributeur de boissons.
+ANF-015 | B2 | nom | m | le diagramme pieuvre | | المخطط الأخطبوطي (مخطط وظائف الخدمة) | | | Le diagramme pieuvre relie le produit aux éléments du milieu extérieur. | Tracez le diagramme pieuvre de la perceuse.
+ANF-016 | B2 | nom | m | le diagramme FAST | | مخطط FAST (تفريع الوظائف التقنية) | FAST : Function Analysis System Technique | le FAST | Le diagramme FAST relie chaque fonction technique à une solution. | Complétez le diagramme FAST du document réponse.
+ANF-017 | B2 | nom | m | l'actigramme | | مخطط النشاط (في طريقة SADT) | méthode SADT ; à ne pas confondre avec le GRAFCET | | L'actigramme A-0 montre la fonction globale du système. | Sur l'actigramme, la matière d'œuvre entre à gauche.
+ANF-018 | B1 | nom | f | la matière d'œuvre | | مادة العمل | abréviation MO | | Le système agit sur la matière d'œuvre. | Ici, la matière d'œuvre est le colis à trier.
+ANF-019 | B1 | nom | f | la valeur ajoutée | | القيمة المضافة | abréviation VA | | La valeur ajoutée est la modification de la matière d'œuvre. | Le perçage du trou est la valeur ajoutée du système.
+ANF-020 | B2 | nom | f | la donnée de contrôle | | معطى المراقبة (في SADT) | souvent au pluriel : les données de contrôle (W, C, R, E) | | Les données de contrôle déclenchent ou modifient l'activité. | L'énergie électrique est une donnée de contrôle de l'actigramme.
+ANF-021 | B1 | nom | f | la chaîne d'énergie | | سلسلة الطاقة | alimenter, distribuer, convertir, transmettre | | La chaîne d'énergie fait agir le système sur la matière d'œuvre. | Le moteur appartient à la chaîne d'énergie.
+ANF-022 | B1 | nom | f | la chaîne d'information | | سلسلة المعلومات | acquérir, traiter, communiquer | | La chaîne d'information commande la chaîne d'énergie. | Le capteur est le premier élément de la chaîne d'information.
+ANF-023 | A2 | nom | m | l'élément | | العنصر | | | Identifiez chaque élément du milieu extérieur. | Le relais est un élément de la chaîne d'énergie.
+ANF-024 | B1 | nom | m | le composant | | المكوِّن | | | Ce composant électronique est soudé sur la carte. | Cherchez la référence du composant dans la nomenclature.
+ANF-025 | B1 | nom | f | la solution technique | | الحل التقني | | | Proposez une solution technique pour cette fonction. | Le moteur pas à pas est la solution technique retenue.
+ANF-026 | B1 | nom | m | le critère | | المعيار | | | Chaque fonction de service possède un critère et un niveau. | Le prix est un critère important pour mon père.
+ANF-027 | B2 | nom | f | la flexibilité | | المرونة | flexibilité d'un niveau : F0 à F3 | | La flexibilité indique si le niveau peut changer. | Une flexibilité F0 signifie que le niveau est impératif.
+ANF-028 | B1 | nom | m | le milieu extérieur | | الوسط الخارجي | abréviation ME ; un élément du milieu extérieur (EME) | | L'utilisateur fait partie du milieu extérieur. | Placez les éléments du milieu extérieur autour du produit.
+ANF-029 | B1 | nom | f | la nomenclature | | قائمة القطع (جدول التسميات) | | | La nomenclature donne le nom et la matière de chaque pièce. | Cherchez le repère 5 dans la nomenclature.
+ANF-030 | B2 | nom | m | le dessin d'ensemble | | رسم التجميع | | | Le dessin d'ensemble montre toutes les pièces montées. | Coloriez la pièce 3 sur le dessin d'ensemble.
+ANF-031 | A2 | nom | f | la pièce | | القطعة (تقنيًا) ؛ الغرفة (في المنزل) | deux sens : pièce mécanique / pièce d'une maison | | Cette pièce mécanique est en acier. | Notre appartement a quatre pièces.
+ANF-032 | B1 | nom | f | l'échelle | | السُّلَّم: مقياس الرسم ؛ سلّم للصعود | deux sens ; échelle 1:2 | | Ce dessin est à l'échelle 1:2. | L'électricien monte sur une échelle pour changer la lampe.
+ANF-033 | B2 | nom | f | la cote | | البُعد (قياس مكتوب على الرسم) | ne pas confondre avec la côte (le bord de la mer) | | Relevez la cote du diamètre sur le dessin. | Cette cote est donnée en millimètres.
+ANF-034 | B1 | nom | f | la vue de face | | المنظر الأمامي | | | Complétez la vue de face de la pièce. | La vue de face montre la forme principale.
+ANF-035 | B1 | nom | f | la coupe | | المقطع (في الرسم) ؛ الكأس (في الرياضة) | deux sens | | La coupe montre l'intérieur de la pièce. | Le Maroc joue la Coupe d'Afrique cette année.
+ANF-036 | B1 | nom | m | le croquis | des croquis | الرسم الأولي باليد | | | Faites un croquis rapide avant le dessin final. | Il présente un croquis de son projet.
+ANF-037 | B1 | nom | f | la maquette | | المجسَّم (النموذج المصغَّر) | | | Notre groupe construit la maquette d'un portail automatique. | La maquette fonctionne avec une batterie de 12 V.
+ANF-038 | B1 | nom | m | le prototype | | النموذج الأولي | | | Le prototype est testé avant la fabrication en série. | Nous présentons notre prototype au jury du PE.
+ANF-039 | B1 | nom | m | le projet encadré | | المشروع المؤطَّر | abréviation PE | le PE | Le projet encadré dure plusieurs mois. | Je présente mon projet encadré devant le jury.
+ANF-040 | B1 | nom | f | la contrainte | | الإكراه (القيد) | | | Le prix est une contrainte importante du projet. | Le manque de temps est une vraie contrainte pendant le bac.
+ANF-041 | A2 | nom | m | le coût | | التكلفة | | | Le coût du projet ne doit pas dépasser 500 dirhams. | Nous comparons le coût des deux solutions.
+ANF-042 | B1 | nom | m | le délai | | الأجل (المهلة) | | | Le délai pour rendre le dossier est d'une semaine. | Respectez le délai indiqué dans le cahier des charges.
+ANF-043 | B1 | nom | f | la maintenance | | الصيانة | | | La maintenance du moteur se fait chaque mois. | Le technicien de maintenance remplace le relais.
+ANF-044 | B2 | nom | f | la fiabilité | | الموثوقية | | | La fiabilité du capteur est très importante pour la sécurité. | On choisit ce composant pour sa fiabilité.
+ANF-045 | B2 | nom | f | l'ergonomie | | سهولة الاستعمال (الأرغونوميا) | | | L'ergonomie du boîtier facilite son utilisation. | Le jury apprécie l'ergonomie de notre interface.
+ANF-046 | A2 | nom | f | l'énergie | | الطاقة | | | Le moteur transforme l'énergie électrique en énergie mécanique. | Après le sport, je n'ai plus d'énergie.
+ANF-047 | B1 | nom | m | le cycle de vie | | دورة الحياة | | | Le recyclage fait partie du cycle de vie du produit. | On étudie le cycle de vie d'une batterie.
+ANF-048 | B2 | nom | f | la frontière d'isolement | | حدّ العزل (حدود المنظومة المدروسة) | | | Tracez la frontière d'isolement autour du système. | Hors de la frontière d'isolement, on trouve le milieu extérieur.
+ANF-049 | B1 | nom | m | l'automatisme | | النظام الآلي | | | Cet automatisme commande l'ouverture de la porte. | Le technicien répare un automatisme de l'usine.
+ANF-050 | B1 | nom | f | la fiche technique | | البطاقة التقنية | | | La fiche technique indique la tension d'alimentation. | Lisez la fiche technique du moteur dans le dossier.
+ANF-051 | B1 | nom | m | le fabricant | | الصانع (الشركة المصنِّعة) | | | Le fabricant donne les caractéristiques du capteur. | Le nom du fabricant est écrit sur le moteur.
+ANF-052 | B1 | nom | m | le repère | | الرقم المرجعي (في الرسم) ؛ العلامة | deux sens | | Le repère 4 désigne la vis sur le dessin d'ensemble. | La mosquée est un bon repère dans le quartier.
+ANF-053 | B1 | nom | f | la caractéristique | | الخاصية المميِّزة | | | Relevez les caractéristiques du moteur sur la plaque. | La rapidité est la principale caractéristique de ce processeur.
+ANF-054 | B1 | nom | f | la performance | | الأداء | | | Ce moteur offre de bonnes performances. | Les performances du système sont mesurées en TP.
+ANF-055 | B1 | verbe | | analyser | | يحلِّل | | | Analysez le fonctionnement du système à partir du schéma. | Nous analysons les résultats de la mesure.
+ANF-056 | B1 | verbe | | identifier | | يتعرَّف على (يُعيِّن) | | | Identifiez les éléments de la chaîne d'énergie. | Le professeur identifie l'erreur dans mon schéma.
+ANF-057 | B1 | verbe | | satisfaire | | يلبِّي | irrégulier (comme faire) ; satisfaire un besoin | | Ce produit satisfait le besoin de l'utilisateur. | La solution proposée satisfait toutes les contraintes.
+ANF-058 | B1 | verbe | | concevoir | | يصمِّم | irrégulier : je conçois, ils conçoivent, conçu | | Les ingénieurs conçoivent un nouveau système de tri. | Ce robot est conçu pour porter des charges.
+ANF-059 | A2 | verbe | | réaliser | | يُنجِز | | | Nous réalisons une maquette pour le PE. | Réalisez le câblage selon le schéma.
+ANF-060 | A2 | verbe | | fabriquer | | يصنع | | | Cette usine fabrique des moteurs électriques. | Nous fabriquons le support en bois.
+ANF-061 | B1 | verbe | | assurer | | يضمن (يؤدّي) | assurer une fonction | | Le relais assure la commande du moteur. | Le professeur assure le cours d'ATC le lundi.
+ANF-062 | B2 | verbe | | modéliser | | يُنمذِج | | | On modélise le système par un actigramme. | Modélisez le besoin avec la bête à cornes.
+ANF-063 | B1 | verbe | | décomposer | | يُجزِّئ (يفكِّك) | | | Le diagramme FAST décompose une fonction en fonctions techniques. | Décomposez le problème en petites étapes.
+ANF-064 | B1 | verbe | | exprimer | | يعبِّر عن | | | La bête à cornes exprime le besoin. | Je n'arrive pas à exprimer mon idée en français.
+ANF-065 | B1 | verbe | | valider | | يصادق على (يتحقَّق من الصحة) | | | Le professeur valide notre schéma avant le câblage. | Validez la solution par un calcul.
+ANF-066 | B1 | verbe | | entretenir | | يصون (يقوم بالصيانة) | irrégulier (comme tenir) | | Le technicien entretient les machines de l'atelier. | Il faut entretenir le moteur régulièrement.
+ANF-067 | B1 | verbe | | représenter | | يمثِّل | | | Ce symbole représente un contacteur. | Représentez le schéma de la chaîne d'énergie.
+ANF-068 | B2 | verbe | | dimensionner | | يحدِّد مواصفات العنصر بالحساب | | | On dimensionne le moteur selon la charge à déplacer. | Dimensionnez le câble d'alimentation de la machine.
+ANF-069 | B1 | adjectif | | fonctionnel | | وظيفي | féminin : fonctionnelle | fonctionnelle | L'analyse fonctionnelle décrit les fonctions du produit. | Le prototype est enfin fonctionnel.
+ANF-070 | B1 | adjectif | | fiable | | موثوق | | | Ce capteur est fiable même sous la pluie. | Mon téléphone n'est plus fiable.
+ANF-071 | B1 | adjectif | | autonome | | مستقل (ذاتي التشغيل) | | | Le robot est autonome pendant deux heures. | Au lycée, on apprend à être autonome.
+ANF-072 | A2 | adjectif | | automatique | | آلي (أوتوماتيكي) | | | La porte automatique s'ouvre seule. | Le système passe en mode automatique.
+ANF-073 | A2 | adjectif | | manuel | | يدوي | féminin : manuelle ; nom : le manuel = الكتاب المدرسي | manuelle | Le mode manuel sert au réglage de la machine. | Le travail manuel en atelier me plaît beaucoup.
+ANF-074 | B2 | adjectif | | ergonomique | | مريح وسهل الاستعمال | | | Le boîtier est ergonomique et léger. | Choisissez une interface ergonomique pour l'utilisateur.
+ANF-075 | B1 | expression | | rendre service à | | يقدِّم خدمة لـ | bête à cornes : à qui le produit rend-il service ? | | Le produit rend service à l'utilisateur. | Mon voisin m'a rendu service hier.
+ANF-076 | B1 | expression | | avoir pour fonction de | | مهمّته أن (له وظيفة) | | | Le capteur a pour fonction de détecter la présence. | Le fusible a pour fonction de protéger le circuit.
+ANF-077 | B1 | expression | | dans quel but | | لأيّ غرض؟ | bête à cornes : dans quel but le produit existe-t-il ? | | Dans quel but ce système existe-t-il ? | Dans quel but fais-tu ces exercices ?
+ANF-078 | B2 | expression | | mettre en œuvre | | يُنفِّذ (يضع موضع التنفيذ) | | | Nous mettons en œuvre la solution choisie. | Mettez en œuvre le protocole de mesure.
+ANF-079 | B1 | expression | | prendre en compte | | يأخذ بعين الاعتبار | | | Le concepteur prend en compte la sécurité. | Prenez en compte les pertes dans le calcul.
+ANF-080 | B1 | expression | | répondre au besoin | | يستجيب للحاجة | | | Ce produit répond au besoin de l'utilisateur. | La solution ne répond pas au besoin.

@@ -1,0 +1,78 @@
+# THEME: examens
+# PREFIXE: EXA
+# DOMAINE: general
+# TITRE: Examens, orientation et études
+# COMPETENCE: Parler de mes études après le bac
+# B2: non
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+EXA-001 | A2 | nom | m | le baccalauréat | | الباكالوريا | familier : le bac | le bac | Je passe le baccalauréat en juin. | Mon frère a eu son baccalauréat avec mention.
+EXA-002 | B1 | nom | m | l'examen national | | الامتحان الوطني | | | L'examen national a lieu en juin. | Je prépare l'examen national depuis septembre.
+EXA-003 | B1 | nom | m | l'examen régional | | الامتحان الجهوي | en 1re année du bac | | L'examen régional compte pour 25 % de la note. | J'ai eu 13 à l'examen régional.
+EXA-004 | B1 | nom | f | l'épreuve | | الاختبار (مادة في الامتحان) | | | L'épreuve de sciences de l'ingénieur dure quatre heures. | Après l'épreuve, je suis fatigué.
+EXA-005 | B1 | nom | f | la convocation | | الاستدعاء | | | J'ai reçu ma convocation pour le bac. | N'oubliez pas votre convocation le jour de l'examen.
+EXA-006 | B1 | nom | m | le centre d'examen | | مركز الامتحان | | | Mon centre d'examen est dans un autre lycée. | Arrive au centre d'examen à 7 h 30.
+EXA-007 | B1 | nom | f | la mention | | الميزة | mention assez bien, bien, très bien | | J'espère avoir une mention bien. | Elle a eu le bac avec la mention très bien.
+EXA-008 | B1 | nom | f | la session | | الدورة (دورة الامتحان) | session normale, session de rattrapage | | La session normale a lieu en juin. | La session de rattrapage est en juillet.
+EXA-009 | B1 | nom | m | le rattrapage | | الدورة الاستدراكية | | | Il passe le rattrapage en juillet. | Je ne veux pas aller au rattrapage.
+EXA-010 | B1 | nom | f | la fraude | | الغشّ | | | La fraude est sévèrement punie au bac. | Le téléphone est interdit pour éviter la fraude.
+EXA-011 | A2 | nom | m | le diplôme | | الشهادة (الدبلوم) | | | Le diplôme du bac ouvre les portes des études supérieures. | Mon père a encadré son diplôme.
+EXA-012 | B1 | nom | f | l'orientation | | التوجيه | | | L'orientation après le bac est une décision importante. | Le lycée organise une journée d'orientation.
+EXA-013 | B1 | nom | m | le conseiller d'orientation | | المستشار في التوجيه | féminin : la conseillère d'orientation | | Le conseiller d'orientation vient au lycée le jeudi. | J'ai un rendez-vous avec le conseiller d'orientation.
+EXA-014 | B1 | nom | f | les études supérieures | | الدراسات العليا | nom féminin pluriel | | Je veux faire des études supérieures en électronique. | Les études supérieures coûtent cher loin de la maison.
+EXA-015 | B1 | nom | f | l'école d'ingénieurs | des écoles d'ingénieurs | مدرسة المهندسين | | | Je veux entrer dans une école d'ingénieurs. | L'école d'ingénieurs recrute après les classes préparatoires.
+EXA-016 | B1 | nom | f | la classe préparatoire | | القسم التحضيري | familier : la prépa | la prépa | Après le bac, je vais en classe préparatoire. | La classe préparatoire demande beaucoup de travail.
+EXA-017 | B1 | nom | m | le BTS | des BTS | شهادة التقني العالي | brevet de technicien supérieur | le brevet de technicien supérieur | Le BTS en électrotechnique dure deux ans. | Mon cousin prépare un BTS au lycée technique.
+EXA-018 | A2 | nom | f | l'université | | الجامعة | | | L'université de Rabat est très grande. | Ma sœur étudie la physique à l'université.
+EXA-019 | B1 | nom | f | la faculté | | الكلية | familier : la fac | la fac | La faculté des sciences est près de chez nous. | Il s'inscrit à la faculté des sciences et techniques.
+EXA-020 | B1 | nom | m | l'institut | | المعهد | | | L'institut forme des techniciens en électricité. | Je veux m'inscrire dans un institut spécialisé.
+EXA-021 | B1 | nom | f | la formation professionnelle | | التكوين المهني | | | La formation professionnelle prépare rapidement à un métier. | Mon frère a choisi la formation professionnelle.
+EXA-022 | B1 | nom | m | le concours | des concours | المباراة | | | Le concours d'entrée est très sélectif. | Je prépare le concours de l'ENSAM.
+EXA-023 | B1 | nom | f | la candidature | | الترشيح | | | J'envoie ma candidature en ligne. | Les candidatures ferment le 15 juillet.
+EXA-024 | B1 | nom | m | le dossier d'inscription | | ملف التسجيل | | | Le dossier d'inscription contient le relevé de notes. | Déposez votre dossier d'inscription avant la date limite.
+EXA-025 | B1 | nom | f | la présélection | | الانتقاء الأولي | | | La présélection se fait sur les notes du bac. | Je suis retenu à la présélection.
+EXA-026 | B1 | nom | f | la bourse | | المنحة ؛ البورصة | deux sens | | J'ai obtenu une bourse d'études. | La Bourse de Casablanca est fermée le dimanche.
+EXA-027 | B1 | nom | m | le stage | | التدريب الميداني | | | Je fais un stage dans une entreprise d'électricité. | Le stage dure un mois.
+EXA-028 | A2 | nom | m | le métier | | المهنة | | | Électricien est un beau métier. | Quel métier veux-tu faire plus tard ?
+EXA-029 | B1 | nom | f | la carrière | | المسار المهني | | | Il a fait carrière dans l'énergie solaire. | Je pense déjà à ma carrière.
+EXA-030 | A2 | nom | m | l'avenir | | المستقبل | | | Je prépare mon avenir dès maintenant. | L'avenir appartient aux énergies propres.
+EXA-031 | A2 | nom | m | l'ingénieur | | المهندس | féminin : l'ingénieure | l'ingénieure | Mon rêve est de devenir ingénieur. | L'ingénieur dirige le projet.
+EXA-032 | A2 | nom | m | le technicien | | التقني | féminin : la technicienne | la technicienne | Mon oncle est technicien dans une usine. | Un technicien supérieur trouve vite du travail.
+EXA-033 | A2 | nom | m | l'électricien | | الكهربائي | féminin : l'électricienne | l'électricienne | L'électricien installe les prises de la maison. | Mon voisin est électricien.
+EXA-034 | A2 | nom | m | l'emploi | | الشغل (منصب العمل) | | | Il cherche un emploi dans l'industrie. | Les emplois techniques sont nombreux.
+EXA-035 | A2 | nom | m | le salaire | | الأجر | | | Le salaire d'un ingénieur est élevé. | Mon frère reçoit son premier salaire.
+EXA-036 | A2 | nom | f | l'entreprise | | المقاولة (الشركة) | | | Cette entreprise fabrique des câbles. | Je fais mon stage dans une grande entreprise.
+EXA-037 | A2 | nom | m | le choix | des choix | الاختيار | | | Le choix de la filière est difficile. | J'ai fait le bon choix.
+EXA-038 | B1 | nom | m | le projet personnel | | المشروع الشخصي | | | Mon projet personnel est de devenir ingénieur. | Le conseiller m'aide à construire mon projet personnel.
+EXA-039 | B1 | nom | f | la réussite | | النجاح | | | La réussite au bac demande un travail régulier. | Je te souhaite une bonne réussite !
+EXA-040 | B1 | nom | m | l'échec | | الفشل (الرسوب) | | | Un échec n'est pas la fin du monde. | Après son échec, il a recommencé.
+EXA-041 | B1 | nom | m | le stress | | التوتُّر النفسي | | | Le stress monte avant l'examen. | Je fais du sport pour réduire le stress.
+EXA-042 | B1 | nom | f | la préparation | | التحضير | | | La préparation du bac commence en septembre. | Ma préparation est presque terminée.
+EXA-043 | B1 | nom | m | le planning de révision | | برنامج المراجعة | | | Je suis mon planning de révision chaque jour. | Mon planning de révision est affiché sur le mur.
+EXA-044 | B1 | nom | f | les annales | | مواضيع الامتحانات السابقة | nom féminin pluriel | | Je travaille les annales du bac. | Les annales sont disponibles en ligne.
+EXA-045 | A2 | nom | f | la date limite | des dates limites | آخر أجل | | | La date limite d'inscription est le 30 juin. | Ne dépasse pas la date limite !
+EXA-046 | A2 | verbe | | passer | | يجتاز (امتحانًا) ؛ يمرّ | deux sens : passer un examen / passer devant | | Je passe le bac cette année. | Il passe un concours d'entrée.
+EXA-047 | A2 | verbe | | réussir | | ينجح | réussir un examen ; réussir à faire | | J'ai réussi mon examen régional. | Pour réussir, il faut travailler régulièrement.
+EXA-048 | B1 | verbe | | échouer | | يفشل (يرسب) | échouer à un examen | | Il a échoué au concours. | Je ne veux pas échouer en français.
+EXA-049 | B1 | verbe | | s'orienter | | يتوجَّه | s'orienter vers | | Je veux m'orienter vers l'électronique. | Beaucoup d'élèves s'orientent vers les écoles d'ingénieurs.
+EXA-050 | B1 | verbe | | postuler | | يترشَّح | postuler à / pour | | Je postule à l'école d'ingénieurs. | Il postule pour un stage d'été.
+EXA-051 | B1 | verbe | | obtenir | | يحصل على | irrégulier (comme tenir) : il obtient, obtenu | | J'ai obtenu le bac avec mention. | Elle obtient une bourse d'études.
+EXA-052 | A2 | verbe | | étudier | | يدرس | | | Je veux étudier à Rabat. | Mon cousin étudie l'électrotechnique.
+EXA-053 | A2 | verbe | | se préparer | | يستعدّ | se préparer à | | Je me prépare au bac depuis septembre. | Prépare-toi pour l'oral.
+EXA-054 | B1 | verbe | | hésiter | | يتردَّد | | | J'hésite entre deux écoles. | N'hésite pas à poser des questions.
+EXA-055 | B1 | verbe | | envisager | | يعتزم (يفكِّر في) | envisager de + infinitif | | J'envisage des études d'ingénieur. | Il envisage de travailler à l'étranger.
+EXA-056 | B1 | verbe | | se renseigner | | يستعلم | se renseigner sur | | Je me renseigne sur les écoles d'ingénieurs. | Renseigne-toi auprès du conseiller.
+EXA-057 | A2 | verbe | | devenir | | يصبح | irrégulier (comme venir) : il devient, devenu | | Je veux devenir ingénieur. | Il est devenu technicien.
+EXA-058 | B1 | verbe | | recruter | | يُوظِّف | | | L'entreprise recrute des techniciens. | Cette école recrute sur concours.
+EXA-059 | B1 | adjectif | | admis | | ناجح (مقبول) | féminin : admise | admise | Je suis admis au bac ! | Elle est admise à l'école d'ingénieurs.
+EXA-060 | B1 | adjectif | | supérieur | | أعلى ؛ عالٍ | féminin : supérieure | supérieure | Ma note est supérieure à la moyenne. | L'enseignement supérieur commence après le bac.
+EXA-061 | B1 | adjectif | | sélectif | | انتقائي | féminin : sélective | sélective | Le concours est très sélectif. | Cette école est sélective.
+EXA-062 | A2 | adjectif | | public | | عمومي | féminin : publique | publique | L'université publique est gratuite. | Le jardin public ferme la nuit.
+EXA-063 | A2 | adjectif | | privé | | خصوصي | féminin : privée | privée | L'école privée coûte cher. | C'est une conversation privée.
+EXA-064 | B1 | adjectif | | professionnel | | مهني | féminin : professionnelle | professionnelle | Le bac professionnel prépare à un métier. | Il a un comportement très professionnel.
+EXA-065 | B1 | adjectif | | ambitieux | | طَموح | féminin : ambitieuse | ambitieuse | Ma sœur est ambitieuse. | Notre projet est ambitieux.
+EXA-066 | B1 | adjectif | | stressé | | متوتِّر | féminin : stressée | stressée | Je suis stressé avant les examens. | Ne sois pas stressé, tu es prêt.
+EXA-067 | B1 | expression | | avoir la moyenne | | يحصل على المعدَّل | | | J'ai eu la moyenne en français. | Il faut avoir la moyenne pour réussir.
+EXA-068 | A2 | expression | | faire des études | | يتابع الدراسة | | | Je veux faire des études d'ingénieur. | Mon frère fait des études à Fès.
+EXA-069 | B1 | expression | | trouver un emploi | | يجد عملًا | | | Avec un BTS, on trouve un emploi rapidement. | Il a trouvé un emploi après son stage.
+EXA-070 | A2 | expression | | à l'étranger | | في الخارج | | | Mon cousin étudie à l'étranger. | Je voudrais travailler à l'étranger.
+EXA-071 | B1 | expression | | le jour J | | اليوم الموعود | familier | | Le jour J, arrive en avance au centre. | Tout est prêt pour le jour J.

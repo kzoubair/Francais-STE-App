@@ -1,0 +1,84 @@
+# THEME: mesures
+# PREFIXE: MES
+# DOMAINE: technique
+# TITRE: Mesures, TP et sécurité électrique
+# COMPETENCE: Rédiger un compte rendu de TP
+# B2: oui
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+MES-001 | B1 | nom | m | le multimètre | | جهاز القياس المتعدِّد | | | Réglez le multimètre sur le calibre 20 V. | Le multimètre affiche une tension de 11,8 V.
+MES-002 | B1 | nom | m | le voltmètre | | الفولطمتر | se branche en parallèle | | Branchez le voltmètre aux bornes de la lampe. | Le voltmètre indique 6 V.
+MES-003 | B1 | nom | m | l'ampèremètre | | الأمبيرمتر | se branche en série | | L'ampèremètre se branche en série dans le circuit. | Lisez la valeur sur l'ampèremètre.
+MES-004 | B2 | nom | m | le wattmètre | | الواطمتر | | | Le wattmètre mesure la puissance active. | Branchez le wattmètre entre le réseau et le moteur.
+MES-005 | B2 | nom | m | l'ohmmètre | | الأوممتر | toujours hors tension | | Mesurez la résistance avec l'ohmmètre, circuit hors tension. | L'ohmmètre indique 220 ohms.
+MES-006 | B2 | nom | m | l'oscilloscope | | راسم التذبذب | | | L'oscilloscope affiche la forme de la tension. | Réglez l'oscilloscope pour voir deux périodes.
+MES-007 | B2 | nom | f | la pince ampèremétrique | | الكلّاب الأمبيرمتري | mesure le courant sans ouvrir le circuit | | La pince ampèremétrique mesure le courant sans couper le circuit. | Placez la pince ampèremétrique autour d'un seul fil.
+MES-008 | B2 | nom | m | le tachymètre | | مقياس سرعة الدوران | | | Le tachymètre mesure la vitesse de rotation. | Le tachymètre indique 1450 tr/min.
+MES-009 | B2 | nom | f | la base de temps | | قاعدة الزمن | oscilloscope : en ms par division | | La base de temps est réglée sur 5 ms par division. | Changez la base de temps pour voir deux périodes.
+MES-010 | B2 | nom | f | la sensibilité verticale | | الحساسية الرأسية | oscilloscope : en V par division | | La sensibilité verticale est de 2 V par division. | Réglez la sensibilité verticale de la voie 1.
+MES-011 | B2 | nom | f | la division | | التدريجة ؛ القسمة | deux sens : division d'un écran / opération | | Le signal occupe quatre divisions. | Mon petit frère apprend la division.
+MES-012 | B2 | nom | f | la voie | | المدخل (القناة) ؛ الطريق | deux sens : voie d'un oscilloscope / voie ferrée | | Branchez la tension du moteur sur la voie 1. | La voie ferrée passe près de notre quartier.
+MES-013 | B1 | nom | m | le relevé | | الكشف (القيم المسجَّلة) | relevé de mesures ; relevé de notes | | Notez le relevé des mesures dans le tableau. | Le relevé de notes arrive à la fin du semestre.
+MES-014 | B1 | nom | m | le tableau de mesures | des tableaux de mesures | جدول القياسات | | | Complétez le tableau de mesures. | Le tableau de mesures contient dix lignes.
+MES-015 | B1 | nom | f | la courbe | | المنحنى | | | Tracez la courbe de la tension en fonction du courant. | La courbe montre que la vitesse augmente.
+MES-016 | B1 | nom | m | le graphique | | الرسم البياني | | | Le graphique montre la variation de la vitesse. | Ce graphique compare les notes de la classe.
+MES-017 | B2 | nom | f | l'incertitude | | الارتياب (هامش الشك في القياس) | | | L'incertitude de mesure est de 0,1 V. | Il y a une incertitude sur la date du voyage.
+MES-018 | A2 | nom | f | l'erreur | | الخطأ | erreur de mesure | | L'erreur vient du mauvais calibre. | J'ai fait une erreur dans le calcul.
+MES-019 | B1 | nom | m | le compte rendu | des comptes rendus | التقرير (محضر التجربة) | | | Rédigez le compte rendu du TP. | Le compte rendu doit être rendu lundi.
+MES-020 | B1 | nom | m | le protocole expérimental | | البروتوكول التجريبي | | | Suivez le protocole expérimental étape par étape. | Rédigez un protocole expérimental pour mesurer le rendement.
+MES-021 | B1 | nom | f | la manipulation | | المناولة (التجربة العملية) | | | Pendant la manipulation, ne touchez pas les fils nus. | La manipulation dure une heure.
+MES-022 | B1 | nom | m | le travail pratique | des travaux pratiques | الأشغال التطبيقية | abréviation TP | le TP | Le travail pratique se fait par groupes de trois. | Le prochain travail pratique porte sur le transformateur.
+MES-023 | A2 | nom | m | l'atelier | | الورشة | | | L'atelier contient des machines dangereuses. | Le professeur ferme l'atelier à 18 heures.
+MES-024 | B2 | nom | f | la paillasse | | طاولة المختبر | | | Rangez la paillasse à la fin du TP. | Les appareils de mesure sont sur la paillasse.
+MES-025 | B1 | nom | m | le fer à souder | des fers à souder | كاوية اللحام | | | Le fer à souder chauffe à 350 °C. | Posez le fer à souder sur son support.
+MES-026 | B1 | nom | f | la soudure | | اللِّحام | | | La soudure doit être brillante et propre. | Cette soudure est mal faite, recommencez.
+MES-027 | A2 | nom | m | le tournevis | des tournevis | المِفكّ | | | Utilisez un tournevis isolé. | Il me faut un tournevis cruciforme.
+MES-028 | A2 | nom | f | la pince | | الكمّاشة | pince coupante, pince à dénuder | | Coupez le fil avec la pince coupante. | La pince à dénuder enlève l'isolant du fil.
+MES-029 | B1 | nom | f | la plaque d'essai | | لوحة التجارب | | | Montez le circuit sur la plaque d'essai. | Les trous de la plaque d'essai sont reliés par colonnes.
+MES-030 | B1 | nom | m | le risque | | المخاطرة (احتمال الضرر) | | | Le risque électrique existe dès 50 V. | Il y a un risque de pluie demain.
+MES-031 | A2 | nom | m | le danger | | الخطر | | | Ce panneau signale un danger électrique. | Le danger est grand sur cette route.
+MES-032 | B1 | nom | f | l'électrocution | | الصعق الكهربائي المميت | ≠ électrisation | | L'électrocution peut causer la mort. | Respectez les consignes pour éviter l'électrocution.
+MES-033 | B2 | nom | f | l'électrisation | | الصعق الكهربائي (مرور التيار في الجسم) | ≠ électrocution (mortelle) | | L'électrisation est le passage du courant dans le corps. | Il a subi une électrisation légère en touchant le fil.
+MES-034 | B1 | nom | f | la brûlure | | الحَرْق | | | Le fer à souder peut causer une brûlure. | Mets de l'eau froide sur la brûlure.
+MES-035 | A2 | nom | f | la sécurité | | السلامة | | | La sécurité est la priorité dans l'atelier. | La sécurité routière est importante.
+MES-036 | B1 | nom | f | la consigne de sécurité | | تعليمة السلامة | | | Lisez les consignes de sécurité avant le TP. | Respectez chaque consigne de sécurité.
+MES-037 | B1 | nom | m | le gant isolant | des gants isolants | القفّاز العازل | | | Portez des gants isolants. | Le gant isolant protège la main.
+MES-038 | A2 | nom | f | les lunettes | | النظّارات (واقية أو طبية) | nom féminin pluriel | | Portez des lunettes pendant le perçage. | J'ai oublié mes lunettes à la maison.
+MES-039 | B1 | nom | m | le fusible | | المنصهِر | | | Le fusible fond en cas de surintensité. | Changez le fusible grillé.
+MES-040 | B2 | nom | m | le disjoncteur différentiel | | القاطع التفاضلي | protège les personnes ; 30 mA | | Le disjoncteur différentiel protège les personnes. | Le disjoncteur différentiel coupe dès 30 mA de fuite.
+MES-041 | B2 | nom | m | le courant de fuite | | تيار التسرُّب | | | Un courant de fuite passe par la terre. | Le disjoncteur détecte le courant de fuite.
+MES-042 | B2 | nom | f | la mise à la terre | | التأريض | | | La mise à la terre protège contre les contacts indirects. | Vérifiez la mise à la terre de la machine.
+MES-043 | B2 | nom | f | la surintensité | | فرط شدة التيار | | | Le fusible protège contre les surintensités. | Une surintensité peut détruire le moteur.
+MES-044 | B2 | nom | f | la consignation | | التأمين قبل التدخل (الفصل والإقفال) | séparer, condamner, identifier, vérifier | | La consignation est obligatoire avant une intervention. | Le technicien réalise la consignation de l'armoire.
+MES-045 | B1 | nom | f | l'armoire électrique | | الخزانة الكهربائية | | | L'armoire électrique contient les contacteurs. | Seul le technicien ouvre l'armoire électrique.
+MES-046 | B1 | nom | m | l'extincteur | | مطفأة الحريق | | | L'extincteur est près de la porte de l'atelier. | Apprenez à utiliser l'extincteur.
+MES-047 | A2 | nom | m | l'incendie | | الحريق | | | En cas d'incendie, sortez dans le calme. | L'incendie de la forêt a duré deux jours.
+MES-048 | A2 | nom | f | la panne | | العُطل (التوقف عن العمل) | | | Le technicien cherche la panne. | La panne d'électricité a duré une heure.
+MES-049 | B1 | nom | m | le dépannage | | الإصلاح (إصلاح الأعطال) | | | Le dépannage commence par une vérification de l'alimentation. | Mon oncle fait du dépannage informatique.
+MES-050 | B1 | nom | f | la valeur mesurée | | القيمة المقيسة | | | Comparez la valeur mesurée à la valeur calculée. | La valeur mesurée est proche de la théorie.
+MES-051 | B1 | nom | m | l'essai | | التجربة (الاختبار) | | | Faites un essai à vide du moteur. | Mon frère a eu son permis au premier essai.
+MES-052 | B2 | nom | m | le banc d'essai | des bancs d'essai | منصّة الاختبار | | | Le moteur est installé sur le banc d'essai. | Le banc d'essai mesure le couple et la vitesse.
+MES-053 | B1 | verbe | | relever | | يُسجِّل (القيم المقيسة) ؛ يرفع | deux sens | | Relevez la tension pour chaque valeur du courant. | Relève la tête quand tu parles.
+MES-054 | B1 | verbe | | souder | | يلحم | | | Soudez les composants sur la carte. | Mon voisin soude le portail de sa maison.
+MES-055 | B2 | verbe | | dénuder | | يُعرّي (ينزع العازل) | | | Dénudez le fil sur un centimètre. | Cette pince sert à dénuder les câbles.
+MES-056 | A2 | verbe | | vérifier | | يتحقَّق من | | | Vérifiez le montage avant la mise sous tension. | Vérifie ton orthographe avant de rendre la copie.
+MES-057 | B1 | verbe | | régler | | يضبط | | | Réglez le générateur sur 50 Hz. | Je règle mon réveil sur six heures.
+MES-058 | A2 | verbe | | noter | | يُدوِّن ؛ يُنقِّط | deux sens : noter un résultat / noter une copie | | Notez les résultats dans le tableau. | Le professeur note les copies ce week-end.
+MES-059 | A2 | verbe | | respecter | | يحترم | | | Respectez les consignes de sécurité. | Je respecte mes parents.
+MES-060 | B1 | verbe | | protéger | | يحمي | | | Le fusible protège le circuit. | Le casque protège la tête du motard.
+MES-061 | B1 | verbe | | isoler | | يعزل | | | Isolez la zone de travail avec un ruban. | Le plastique isole les fils.
+MES-062 | B1 | verbe | | dépanner | | يُصلِح العطل ؛ يُسعِف | deux sens : réparer / aider quelqu'un | | Le technicien dépanne la machine. | Mon voisin m'a dépanné avec un chargeur.
+MES-063 | B1 | verbe | | manipuler | | يتعامل مع (يُناوِل) | | | Manipulez les appareils avec soin. | Ne manipule pas le fer à souder chaud.
+MES-064 | A2 | verbe | | tester | | يختبر | | | Testez le circuit avec une LED. | Je teste ma nouvelle application.
+MES-065 | B2 | verbe | | consigner | | يؤمِّن (يفصل ويُقفِل قبل التدخل) | | | Consignez l'installation avant d'intervenir. | Le technicien consigne l'armoire électrique.
+MES-066 | A2 | adjectif | | dangereux | | خطير | féminin : dangereuse | dangereuse | La haute tension est dangereuse. | Traverser ici est dangereux.
+MES-067 | B1 | adjectif | | isolé | | معزول | féminin : isolée | isolée | Utilisez des outils isolés. | Mon cousin habite un village isolé.
+MES-068 | B1 | adjectif | | défectueux | | معيب (لا يعمل جيدًا) | féminin : défectueuse | défectueuse | Remplacez le composant défectueux. | Ce chargeur défectueux chauffe trop.
+MES-069 | B1 | adjectif | | grillé | | محروق | féminin : grillée | grillée | Le fusible est grillé. | La lampe de la cuisine est grillée.
+MES-070 | A2 | adjectif | | obligatoire | | إلزامي | | | Le port des lunettes est obligatoire. | Le sport est obligatoire au lycée.
+MES-071 | B1 | adjectif | | expérimental | | تجريبي | féminin : expérimentale ; pluriel : expérimentaux | expérimentale | Comparez les résultats expérimentaux et théoriques. | La méthode expérimentale demande de la rigueur.
+MES-072 | B1 | adjectif | | théorique | | نظري | | | La valeur théorique est de 12 V. | Le cours théorique précède le TP.
+MES-073 | B2 | expression | | en dérivation | | على التفرُّع (بالتوازي) | = en parallèle | | Le voltmètre se branche en dérivation. | Les lampes sont montées en dérivation.
+MES-074 | B1 | expression | | en cas d'urgence | | في حالة الطوارئ | | | En cas d'urgence, appuyez sur le bouton rouge. | En cas d'urgence, appelez le 15.
+MES-075 | B1 | expression | | mettre en sécurité | | يضع في أمان | | | Mettez le circuit en sécurité avant de partir. | Les pompiers mettent les habitants en sécurité.
+MES-076 | B1 | expression | | prendre une mesure | | يأخذ قياسًا | | | Prenez une mesure à vide, puis en charge. | Nous prenons une mesure toutes les dix secondes.
+MES-077 | A2 | expression | | être en panne | | معطَّل | | | Le moteur du tapis est en panne. | Mon téléphone est en panne depuis hier.

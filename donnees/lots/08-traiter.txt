@@ -1,0 +1,79 @@
+# THEME: traiter
+# PREFIXE: TRT
+# DOMAINE: technique
+# TITRE: Traiter
+# COMPETENCE: Lire un GRAFCET et un programme
+# B2: oui
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+TRT-001 | B1 | nom | m | le traitement | | المعالجة | fonction traiter | | Le traitement de l'information est assuré par le microcontrôleur. | Le traitement de ma demande prend une semaine.
+TRT-002 | B1 | nom | m | le microcontrôleur | | المتحكِّم الدقيق | ex. PIC, ATmega | | Le microcontrôleur lit l'état des capteurs. | Nous programmons le microcontrôleur en langage C.
+TRT-003 | B2 | nom | m | l'automate programmable | | المُبرمِج الآلي (الأوتومات القابل للبرمجة) | abréviation API | l'API | L'automate programmable commande la chaîne de production. | L'usine utilise un automate programmable.
+TRT-004 | B2 | nom | m | le GRAFCET | | المخطط الوظيفي المتتابع (GRAFCET) | graphe fonctionnel de commande étape-transition | le grafcet | Le GRAFCET décrit le fonctionnement séquentiel du système. | Complétez le GRAFCET du point de vue de la partie commande.
+TRT-005 | B2 | nom | f | l'étape | | المرحلة (في GRAFCET) | étape initiale : double carré | | L'étape 2 est active quand le vérin sort. | L'étape initiale est représentée par un double carré.
+TRT-006 | B2 | nom | f | la transition | | الانتقال | | | La transition est franchie quand la réceptivité est vraie. | Une transition sépare toujours deux étapes.
+TRT-007 | B2 | nom | f | la réceptivité | | القابلية (شرط الانتقال) | | | La réceptivité associée à la transition est « dcy ». | Écrivez la réceptivité de chaque transition.
+TRT-008 | B2 | nom | f | l'action | | الفعل (الإجراء) | action associée à une étape | | L'action « sortir la tige » est associée à l'étape 1. | Le film d'action commence à 21 heures.
+TRT-009 | B2 | nom | m | le cycle | | الدورة (دورة الاشتغال) | départ cycle (dcy) | | Appuyez sur dcy pour lancer un nouveau cycle. | Le cycle de lavage dure une heure.
+TRT-010 | B2 | nom | f | la logique combinatoire | | المنطق التوافقي | | | En logique combinatoire, la sortie dépend seulement des entrées. | Ce chapitre traite de la logique combinatoire.
+TRT-011 | B2 | nom | f | la logique séquentielle | | المنطق التتابعي | | | En logique séquentielle, la sortie dépend aussi du passé. | La bascule est un élément de logique séquentielle.
+TRT-012 | B2 | nom | f | la porte logique | | البوابة المنطقية | ET, OU, NON, NAND, NOR | | La porte logique ET donne 1 si les deux entrées valent 1. | Ce circuit intégré contient quatre portes logiques.
+TRT-013 | B2 | nom | f | la table de vérité | | جدول الحقيقة | | | Complétez la table de vérité de la fonction. | La table de vérité d'une porte OU a quatre lignes.
+TRT-014 | B2 | nom | f | l'équation logique | | المعادلة المنطقية | | | Écrivez l'équation logique de la sortie S. | Simplifiez l'équation logique avec le tableau de Karnaugh.
+TRT-015 | B2 | nom | m | le tableau de Karnaugh | | جدول كارنو | | | Le tableau de Karnaugh permet de simplifier une équation. | Regroupez les cases du tableau de Karnaugh.
+TRT-016 | B2 | nom | f | la bascule | | القلّاب (البسكول) | bascule RS, D, JK | | La bascule mémorise l'état de la sortie. | Une bascule D change d'état sur le front de l'horloge.
+TRT-017 | B2 | nom | m | le compteur | | العدّاد | deux sens : compteur logique / compteur électrique | | Le compteur compte les pièces sur le tapis. | L'agent lit le compteur d'électricité chaque mois.
+TRT-018 | B2 | nom | m | le front montant | | الجبهة الصاعدة | passage de 0 à 1 ; ≠ front descendant | | La bascule réagit au front montant de l'horloge. | Un front montant correspond au passage de 0 à 1.
+TRT-019 | B2 | nom | f | l'horloge | | الساعة (إشارة التزامن) | deux sens : signal d'horloge / horloge du mur | | Le signal d'horloge synchronise la bascule. | L'horloge de la classe avance de cinq minutes.
+TRT-020 | B1 | nom | m | le bit | | البِت | | | Un octet contient huit bits. | Le bit de poids fort est à gauche.
+TRT-021 | B1 | nom | m | l'octet | | الثُّمانية (البايت) | | | Le convertisseur donne un résultat sur un octet. | Ce fichier fait deux mille octets.
+TRT-022 | B2 | nom | m | le binaire | | النظام الثنائي | | | En binaire, 5 s'écrit 101. | Convertissez ce nombre décimal en binaire.
+TRT-023 | B2 | nom | m | l'hexadécimal | | النظام الست عشري | | | En hexadécimal, 255 s'écrit FF. | L'adresse est écrite en hexadécimal.
+TRT-024 | B2 | nom | m | le programme | | البرنامج | | | Le programme est écrit en langage C. | Le programme de la télévision commence à 20 heures.
+TRT-025 | B2 | nom | m | l'algorithme | | الخوارزمية | | | Écrivez l'algorithme avant de programmer. | L'algorithme de l'application choisit les vidéos.
+TRT-026 | B2 | nom | m | l'organigramme | | المخطط الانسيابي (الخوارزمي) | | | L'organigramme représente l'algorithme avec des symboles. | Complétez l'organigramme du programme principal.
+TRT-027 | B2 | nom | f | la variable | | المتغيِّر | | | La variable compteur contient le nombre de pièces. | Déclarez la variable avant de l'utiliser.
+TRT-028 | B2 | nom | f | la boucle | | الحلقة (التكرارية) | boucle tant que, boucle pour | | La boucle se répète tant que le bouton est appuyé. | Le programme principal est une boucle infinie.
+TRT-029 | B2 | nom | f | la condition | | الشرط | | | Si la condition est vraie, la LED s'allume. | Le délégué pose une condition pour le voyage.
+TRT-030 | B2 | nom | f | l'entrée | | المدخل ؛ المدخل (الباب) | deux sens : entrée d'un circuit / entrée d'un bâtiment | | Le capteur est relié à l'entrée RB0. | Je t'attends à l'entrée du lycée.
+TRT-031 | B2 | nom | f | la sortie | | المخرج | deux sens : sortie d'un circuit / sortie d'un bâtiment ; aussi une sortie (excursion) | | La sortie RB1 commande le relais. | La sortie de l'école est à midi.
+TRT-032 | B2 | nom | m | le port | | المنفذ ؛ الميناء | deux sens : port d'un microcontrôleur / port de Tanger | | Le port B est configuré en sortie. | Le port de Tanger Med est très grand.
+TRT-033 | B2 | nom | m | le registre | | السجل | | | Le registre TRISB configure le port B. | La secrétaire écrit les absences dans le registre.
+TRT-034 | B2 | nom | f | la mémoire | | الذاكرة | | | Le programme est stocké dans la mémoire flash. | J'ai une bonne mémoire visuelle.
+TRT-035 | B2 | nom | m | le processeur | | المعالج | | | Le processeur exécute les instructions une par une. | Mon téléphone a un processeur rapide.
+TRT-036 | B2 | nom | f | l'instruction | | التعليمة البرمجية ؛ الإرشادات | | | Chaque instruction est exécutée en un cycle. | Lisez les instructions avant de commencer l'examen.
+TRT-037 | B2 | nom | f | l'interruption | | المقاطعة | | | Une interruption arrête le programme principal. | Le cours a continué sans interruption.
+TRT-038 | B2 | nom | m | l'amplificateur opérationnel | | المضخِّم العملياتي | abréviation AOP ; aussi : ALI | l'AOP | L'amplificateur opérationnel est alimenté en +15 V et -15 V. | L'amplificateur opérationnel monté en comparateur compare deux tensions.
+TRT-039 | B2 | nom | m | le comparateur | | المقارِن | | | Le comparateur compare la tension du capteur à une référence. | La sortie du comparateur passe à +Vsat.
+TRT-040 | B2 | nom | m | le montage amplificateur | | التركيب المضخِّم | non inverseur ou inverseur | | Le montage amplificateur non inverseur a un gain de 11. | Calculez le gain du montage amplificateur.
+TRT-041 | B2 | nom | m | le gain | | الربح (معامل التضخيم) | | | Le gain de l'amplificateur vaut 10. | Le gain de temps est important pendant l'examen.
+TRT-042 | B2 | nom | f | la saturation | | التشبُّع | | | En saturation, la sortie de l'AOP vaut +Vsat ou -Vsat. | La saturation du réseau empêche les appels.
+TRT-043 | B2 | nom | f | la tension de référence | | توتر المرجع | | | La tension de référence est réglée avec un potentiomètre. | Le comparateur utilise une tension de référence de 2,5 V.
+TRT-044 | B2 | nom | m | le circuit intégré | | الدارة المندمجة | | | Le circuit intégré 7408 contient quatre portes ET. | Repérez la broche 1 du circuit intégré.
+TRT-045 | B2 | nom | f | la broche | | الطرف (رِجل الدارة) ؛ دبّوس | | | Reliez la broche 14 au +5 V. | Ma sœur porte une broche sur sa veste.
+TRT-046 | B2 | nom | m | l'état | | الحالة | état logique 0 ou 1 ; état d'une étape | | L'état de la sortie passe de 0 à 1. | L'état de la route est mauvais après la pluie.
+TRT-047 | B2 | nom | f | la temporisation logicielle | | التأخير الزمني البرمجي | | | La temporisation logicielle utilise une boucle d'attente. | Remplacez la temporisation logicielle par un timer.
+TRT-048 | B1 | nom | m | le langage | | اللغة (لغة البرمجة) | langage C, langage Python | | Le langage C est utilisé pour programmer le microcontrôleur. | Le langage des jeunes change vite.
+TRT-049 | B2 | verbe | | traiter | | يُعالِج (المعلومات) ؛ يتناول (موضوعًا) | | | Le microcontrôleur traite les informations des capteurs. | Ce chapitre traite de la logique séquentielle.
+TRT-050 | B1 | verbe | | programmer | | يُبرمِج | | | Nous programmons la carte Arduino. | Je programme une petite application de calcul.
+TRT-051 | B2 | verbe | | exécuter | | يُنفِّذ | | | Le microcontrôleur exécute le programme. | Exécutez les consignes dans l'ordre.
+TRT-052 | B2 | verbe | | simplifier | | يُبسِّط | | | Simplifiez l'équation avec le tableau de Karnaugh. | Le professeur simplifie l'explication pour nous.
+TRT-053 | B2 | verbe | | mémoriser | | يحفظ (يُخزِّن في الذاكرة) | | | La bascule mémorise l'état de la sortie. | Je mémorise le vocabulaire avec cette application.
+TRT-054 | B2 | verbe | | compter | | يعدّ | | | Le compteur compte les pièces. | Je compte les jours avant le bac.
+TRT-055 | B2 | verbe | | franchir | | يجتاز (يتخطّى) | franchir une transition | | La transition est franchie quand la réceptivité est vraie. | Le coureur franchit la ligne d'arrivée.
+TRT-056 | B2 | verbe | | coder | | يُرمِّز | | | Codez le nombre 12 en binaire. | Mon frère code des jeux vidéo.
+TRT-057 | B2 | verbe | | comparer | | يقارن | | | Le comparateur compare la tension à la référence. | Comparez vos réponses avec votre voisin.
+TRT-058 | B2 | verbe | | configurer | | يُهيِّئ (يضبط الإعدادات) | | | Configurez le port B en sortie. | J'ai configuré mon nouveau téléphone.
+TRT-059 | B2 | verbe | | déclencher | | يُطلِق (يُشغِّل) | | | L'appui sur dcy déclenche le cycle. | La fumée déclenche l'alarme.
+TRT-060 | B2 | adjectif | | combinatoire | | توافقي | | | Ce circuit combinatoire n'a pas de mémoire. | Un additionneur est un circuit combinatoire.
+TRT-061 | B2 | adjectif | | séquentiel | | تتابعي | féminin : séquentielle | séquentielle | Le fonctionnement séquentiel est décrit par un GRAFCET. | Le compteur est un circuit séquentiel.
+TRT-062 | B2 | adjectif | | actif | | نشيط (مُفعَّل) | féminin : active | active | L'étape 3 est active. | Mon petit frère est très actif.
+TRT-063 | B2 | adjectif | | inactif | | غير نشيط | féminin : inactive | inactive | Quand la transition est franchie, l'étape 1 devient inactive. | Le compte est inactif depuis un mois.
+TRT-064 | B2 | adjectif | | initial | | ابتدائي | féminin : initiale ; pluriel : initiaux | initiale | L'étape initiale est active au démarrage. | La vitesse initiale du chariot est nulle.
+TRT-065 | B2 | adjectif | | binaire | | ثنائي | | | Le nombre binaire 1010 vaut 10 en décimal. | Le code binaire n'utilise que 0 et 1.
+TRT-066 | B2 | adjectif | | décimal | | عشري | féminin : décimale ; pluriel : décimaux | décimale | Convertissez ce nombre en base décimale. | Le système décimal utilise dix chiffres.
+TRT-067 | B2 | adjectif | | vrai | | صحيح (1 منطقي) | féminin : vraie | vraie | La réceptivité est vraie quand le capteur est actionné. | Ce que tu dis est vrai.
+TRT-068 | B2 | adjectif | | faux | | خاطئ (0 منطقي) | féminin : fausse | fausse | Si la condition est *fausse*, la LED reste éteinte. | Ce résultat est faux, recommence le calcul.
+TRT-069 | B2 | expression | | à l'état haut | | في الحالة العليا (1) | ≠ à l'état bas | | La sortie passe à l'état haut. | Le bouton met l'entrée à l'état haut.
+TRT-070 | B2 | expression | | à l'état bas | | في الحالة الدنيا (0) | ≠ à l'état haut | | Au repos, l'entrée est à l'état bas. | La LED s'éteint quand la sortie est à l'état bas.
+TRT-071 | B2 | expression | | tant que | | ما دام | boucle tant que | | La LED clignote tant que le bouton est appuyé. | Tant que tu révises, ton téléphone reste dans le sac.
+TRT-072 | B2 | expression | | sinon | | وإلّا | structure si… alors… sinon | | Si le capteur est actif, la LED s'allume, sinon elle reste éteinte. | Révise ton cours, sinon tu auras une mauvaise note.

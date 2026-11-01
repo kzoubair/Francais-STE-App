@@ -1,0 +1,87 @@
+# THEME: lycee
+# PREFIXE: LYC
+# DOMAINE: general
+# TITRE: Vie au lycée et en classe
+# COMPETENCE: Suivre un cours et parler de ma classe
+# B2: non
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+LYC-001 | A2 | nom | m | le lycée technique | | الثانوية التقنية | | | J'étudie dans un lycée technique à Salé. | Le lycée technique prépare au bac STE.
+LYC-002 | A2 | nom | f | la filière | | الشُّعبة (المسلك) | | | Je suis en filière Sciences et Technologies Électriques. | Ma sœur a choisi la filière économie.
+LYC-003 | A2 | nom | m | l'emploi du temps | des emplois du temps | استعمال الزمن | | | Notre emploi du temps change au deuxième semestre. | Regarde l'emploi du temps pour connaître la salle.
+LYC-004 | A2 | nom | m | le semestre | | الأسدس | | | Les notes du premier semestre sont bonnes. | Le deuxième semestre commence en février.
+LYC-005 | A2 | nom | f | la matière | | المادة (الدراسية) ؛ المادة (الخام) | deux sens | | Les mathématiques sont ma matière préférée. | Le bois est une matière naturelle.
+LYC-006 | A2 | nom | m | le cours | des cours | الدرس (الحصة) | ne pas confondre avec la cour | | Le cours d'ADC commence à 10 heures. | J'ai raté le cours de français.
+LYC-007 | A2 | nom | m | le devoir | | الواجب ؛ الفرض | deux sens : devoirs à la maison / devoir surveillé | | J'ai beaucoup de devoirs ce soir. | Le devoir surveillé de physique est jeudi.
+LYC-008 | B1 | nom | m | le contrôle continu | | المراقبة المستمرة | | | Le contrôle continu compte pour 25 % de la note finale. | Je travaille sérieusement pour le contrôle continu.
+LYC-009 | A2 | nom | f | la note | | النقطة (العلامة) ؛ المذكِّرة | deux sens : avoir une note / prendre des notes | | J'ai eu une bonne note en mathématiques. | Prends des notes pendant le cours.
+LYC-010 | A2 | nom | f | la moyenne | | المعدَّل | | | Ma moyenne générale est de 14 sur 20. | Il faut 10 de moyenne pour avoir le bac.
+LYC-011 | A2 | nom | m | le bulletin | | بيان النقط | | | Mes parents signent le bulletin. | Le bulletin du semestre arrive bientôt.
+LYC-012 | A2 | nom | m | le surveillant | | المُراقِب (في المؤسسة) | féminin : la surveillante | la surveillante | Le surveillant contrôle les absences. | Demande l'autorisation au surveillant.
+LYC-013 | B1 | nom | m | le surveillant général | | الحارس العام | | | Le surveillant général reçoit les élèves en retard. | Le surveillant général a appelé mes parents.
+LYC-014 | A2 | nom | m | le proviseur | | مدير الثانوية | | | Le proviseur parle aux élèves le premier jour. | Le bureau du proviseur est au rez-de-chaussée.
+LYC-015 | A2 | nom | m | le délégué | | مندوب القسم | féminin : la déléguée | la déléguée | Le délégué de classe parle au professeur principal. | Nous élisons un délégué en octobre.
+LYC-016 | A2 | nom | m | le camarade | | الزميل (الرفيق) | féminin : la camarade | la camarade | Mon camarade m'explique l'exercice. | Je révise avec mes camarades.
+LYC-017 | A2 | nom | f | l'absence | | الغياب | | | Justifiez chaque absence par un certificat. | J'ai deux absences ce mois-ci.
+LYC-018 | A2 | nom | m | le retard | | التأخُّر | | | Le surveillant note les retards. | Désolé pour le retard, le bus était plein.
+LYC-019 | A2 | nom | f | la récréation | | الاستراحة | | | Pendant la récréation, nous parlons du match. | La récréation dure quinze minutes.
+LYC-020 | A2 | nom | f | la cour | | الساحة | ne pas confondre avec le cours | | Les élèves jouent au football dans la cour. | La cour du lycée est grande.
+LYC-021 | A2 | nom | m | le tableau | des tableaux | السبّورة ؛ الجدول | deux sens | | Le professeur écrit la formule au tableau. | Complétez le tableau de la page 12.
+LYC-022 | A2 | nom | m | le cahier de textes | | دفتر النصوص | | | Le professeur remplit le cahier de textes. | Note les devoirs dans ton cahier de textes.
+LYC-023 | A2 | nom | m | le manuel | | الكتاب المدرسي | | | Ouvrez le manuel à la page 45. | Le manuel de physique est lourd.
+LYC-024 | A2 | nom | m | le classeur | | الحافظة (المِلفّ) | | | Je range mes fiches dans un classeur. | Mon classeur de technologie est bien organisé.
+LYC-025 | A2 | nom | f | la calculatrice | | الآلة الحاسبة | | | La calculatrice est autorisée à l'examen. | J'ai oublié ma calculatrice à la maison.
+LYC-026 | B1 | nom | m | le brouillon | | المسوَّدة | | | Fais tes calculs au brouillon. | Le brouillon n'est pas corrigé.
+LYC-027 | A2 | nom | f | la copie | | ورقة التحرير ؛ النسخة | deux sens | | Rendez vos copies dans dix minutes. | Fais une copie de ce document.
+LYC-028 | A2 | nom | m | l'exercice | | التمرين | | | Faites l'exercice 3 pour demain. | Cet exercice est très facile.
+LYC-029 | B1 | nom | m | le résumé | | الملخَّص | | | Je fais un résumé de chaque leçon. | Lis le résumé avant le contrôle.
+LYC-030 | B1 | nom | m | l'exposé | | العرض الشفهي | | | Je prépare un exposé sur les énergies renouvelables. | Notre exposé dure dix minutes.
+LYC-031 | A2 | nom | f | la bibliothèque | | المكتبة | | | Je révise à la bibliothèque du lycée. | La bibliothèque ferme à 18 heures.
+LYC-032 | A2 | nom | f | la salle informatique | | قاعة الإعلاميات | | | Le cours d'algorithmique a lieu en salle informatique. | La salle informatique a vingt ordinateurs.
+LYC-033 | A2 | nom | m | le laboratoire | | المختبر | | | Le laboratoire de physique est au premier étage. | Nous faisons des expériences au laboratoire.
+LYC-034 | A2 | nom | m | l'internat | | الداخلية | | | Mon cousin dort à l'internat du lycée. | L'internat accueille les élèves des villages.
+LYC-035 | A2 | nom | f | la cantine | | المطعم المدرسي | | | Je mange à la cantine le midi. | La cantine sert du couscous le vendredi.
+LYC-036 | B1 | nom | m | le professeur principal | | الأستاذ الرئيسي (المكلَّف بالقسم) | | | Le professeur principal organise la réunion des parents. | Je parle de mon orientation avec le professeur principal.
+LYC-037 | B1 | nom | m | le conseil de classe | | مجلس القسم | | | Le conseil de classe se réunit à la fin du semestre. | Le conseil de classe a félicité trois élèves.
+LYC-038 | A2 | nom | f | la réunion | | الاجتماع | | | La réunion des parents a lieu samedi. | Le délégué participe à la réunion.
+LYC-039 | B1 | nom | m | le règlement intérieur | | النظام الداخلي | | | Le règlement intérieur interdit le téléphone en classe. | Lisez le règlement intérieur du lycée.
+LYC-040 | B1 | nom | f | l'autorisation | | الإذن (الترخيص) | | | J'ai besoin d'une autorisation pour sortir. | Le proviseur donne l'autorisation de sortir plus tôt.
+LYC-041 | B1 | nom | f | la sortie scolaire | | الخرجة المدرسية | | | La sortie scolaire au port de Casablanca est prévue mardi. | Nos parents paient la sortie scolaire.
+LYC-042 | A2 | nom | m | le club | | النادي | | | Je fais partie du club de robotique. | Le club de théâtre répète le mercredi.
+LYC-043 | A2 | nom | m | le niveau | des niveaux | المستوى | | | Mon niveau en français s'améliore. | Ce cours est adapté à notre niveau.
+LYC-044 | A2 | nom | m | l'effort | | المجهود | | | Le professeur apprécie mes efforts. | Fais un effort en français !
+LYC-045 | B1 | nom | m | le progrès | des progrès | التقدُّم | | | J'ai fait des progrès en mathématiques. | Le professeur note mes progrès.
+LYC-046 | B1 | nom | m | le comportement | | السلوك | | | Son comportement en classe est excellent. | Le bulletin parle aussi du comportement.
+LYC-047 | B1 | nom | f | la remarque | | الملاحظة | | | Le professeur fait une remarque sur ma copie. | Ta remarque est intéressante.
+LYC-048 | B1 | nom | f | l'explication | | الشرح | | | L'explication du professeur est claire. | Je n'ai pas compris l'explication.
+LYC-049 | B1 | nom | f | la difficulté | | الصعوبة | | | J'ai des difficultés en français écrit. | Le professeur aide les élèves en difficulté.
+LYC-050 | B1 | nom | m | le soutien scolaire | | الدعم المدرسي | | | Je prends des cours de soutien scolaire en physique. | Le lycée organise du soutien scolaire gratuit.
+LYC-051 | B1 | nom | m | le surligneur | | قلم التلوين (المُبرِز) | | | Je marque les définitions au surligneur. | Mon surligneur jaune est sec.
+LYC-052 | A2 | nom | m | l'agenda | | المفكِّرة | | | J'écris mes devoirs dans mon agenda. | Mon agenda est plein cette semaine.
+LYC-053 | A2 | verbe | | réviser | | يراجع | | | Je révise mes cours chaque soir. | Nous révisons ensemble à la bibliothèque.
+LYC-054 | A2 | verbe | | expliquer | | يشرح | expliquer quelque chose à quelqu'un | | Le professeur explique le fonctionnement du relais. | Peux-tu m'expliquer cet exercice ?
+LYC-055 | A2 | verbe | | recopier | | ينقل (ينسخ) | | | Recopiez le schéma dans votre cahier. | Ne recopie pas sur ton voisin !
+LYC-056 | A2 | verbe | | souligner | | يُسطِّر | | | Soulignez les mots importants. | Le professeur souligne mes fautes en rouge.
+LYC-057 | A2 | verbe | | corriger | | يُصحِّح | | | Le professeur corrige les copies. | Corrige ton erreur avant de continuer.
+LYC-058 | B1 | verbe | | rattraper | | يستدرك | | | Je dois rattraper le cours d'hier. | Je rattrape mon retard en mathématiques.
+LYC-059 | B1 | verbe | | s'absenter | | يتغيَّب | | | Je me suis absenté deux jours. | Ne vous absentez pas le jour du contrôle.
+LYC-060 | A2 | verbe | | participer | | يشارك | participer à | | Je participe au club de robotique. | Participez au cours, posez des questions.
+LYC-061 | B1 | verbe | | se concentrer | | يُركِّز | | | Je me concentre mieux le matin. | Concentre-toi sur ton exercice.
+LYC-062 | B1 | verbe | | s'inscrire | | يتسجَّل | irrégulier : je m'inscris, inscrit | | Je m'inscris au club de théâtre. | Les élèves s'inscrivent en ligne.
+LYC-063 | A2 | verbe | | emprunter | | يستعير | emprunter quelque chose à quelqu'un | | J'emprunte un livre à la bibliothèque. | Je peux emprunter ta règle ?
+LYC-064 | A2 | verbe | | rendre | | يُعيد ؛ يُسلِّم | rendre un devoir, rendre un livre | | Rendez vos copies à la fin de l'heure. | Je rends le livre demain.
+LYC-065 | A2 | verbe | | oublier | | ينسى | | | J'ai oublié mon cahier. | N'oublie pas ta calculatrice.
+LYC-066 | B1 | verbe | | se tromper | | يُخطئ | | | Je me suis trompé dans le calcul. | Tu te trompes de salle.
+LYC-067 | A2 | adjectif | | attentif | | مُنتبِه | féminin : attentive | attentive | Sois attentif pendant l'explication. | Les élèves sont attentifs.
+LYC-068 | A2 | adjectif | | sérieux | | جادّ | féminin : sérieuse | sérieuse | C'est un élève sérieux. | Ma sœur est sérieuse dans son travail.
+LYC-069 | A2 | adjectif | | bavard | | ثرثار | féminin : bavarde | bavarde | Les élèves du fond sont bavards. | Ne sois pas bavard pendant le cours.
+LYC-070 | A2 | adjectif | | absent | | غائب | féminin : absente | absente | Trois élèves sont absents aujourd'hui. | Le professeur de français est absent.
+LYC-071 | A2 | adjectif | | présent | | حاضر | féminin : présente | présente | Tous les élèves sont présents. | Je suis présent à chaque cours.
+LYC-072 | B1 | adjectif | | motivé | | مُتحمِّس | féminin : motivée | motivée | Je suis motivé pour réussir le bac. | Notre groupe est très motivé pour le projet.
+LYC-073 | B1 | adjectif | | organisé | | منظَّم | féminin : organisée | organisée | Un élève organisé range bien ses fiches. | Ma sœur est très organisée.
+LYC-074 | A2 | adjectif | | scolaire | | مدرسي | | | La rentrée scolaire est en septembre. | Mes résultats scolaires s'améliorent.
+LYC-075 | A2 | expression | | prendre des notes | | يُدوِّن ملاحظات | | | Prenez des notes pendant l'exposé. | Je prends des notes dans mon cahier.
+LYC-076 | A2 | expression | | lever la main | | يرفع اليد | | | Levez la main pour parler. | Elle lève la main pour répondre.
+LYC-077 | A2 | expression | | être en retard | | متأخِّر | ≠ être en avance | | Je suis en retard à cause du bus. | Ne sois pas en retard demain.
+LYC-078 | B1 | expression | | par cœur | | عن ظهر قلب | | | J'apprends les formules par cœur. | Il connaît le règlement par cœur.
+LYC-079 | A2 | expression | | faire attention | | ينتبه | faire attention à | | Faites attention aux unités. | Fais attention en traversant la rue.
+LYC-080 | B1 | expression | | avoir du mal à | | يجد صعوبة في | | | J'ai du mal à comprendre ce chapitre. | Il a du mal à se réveiller le matin.

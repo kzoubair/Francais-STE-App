@@ -1,0 +1,81 @@
+# THEME: consignes
+# PREFIXE: CSG
+# DOMAINE: general
+# TITRE: Consignes et verbes d'examen
+# COMPETENCE: Comprendre les consignes d'un sujet de bac
+# B2: oui
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+CSG-001 | B1 | verbe | | déterminer | | يُحدِّد | | | Déterminez la valeur de la résistance R. | Déterminez le rapport de transmission.
+CSG-002 | B1 | verbe | | justifier | | يُعلِّل | | | Justifiez votre réponse. | Justifiez le choix du moteur.
+CSG-003 | B1 | verbe | | déduire | | يستنتج | irrégulier : il déduit, déduit ; en déduire | | Déduisez la puissance absorbée. | On en déduit que le moteur est en surcharge.
+CSG-004 | A2 | verbe | | compléter | | يُتمِّم (يُكمِل) | | | Complétez le tableau du document réponse. | Complétez les phrases avec les mots proposés.
+CSG-005 | A2 | verbe | | calculer | | يحسب | | | Calculez l'intensité du courant. | Calculez le rendement du moteur.
+CSG-006 | B1 | verbe | | tracer | | يخطّ (يرسم منحنى أو شكلًا) | | | Tracez la courbe de la vitesse. | Tracez le diagramme pieuvre du produit.
+CSG-007 | A2 | verbe | | indiquer | | يُشير إلى (يُبيِّن) | | | Indiquez le nom de chaque élément. | Indiquez l'unité de chaque grandeur.
+CSG-008 | B1 | verbe | | préciser | | يُحدِّد بدقة | | | Précisez l'unité du résultat. | Précisez le rôle du condensateur.
+CSG-009 | B1 | verbe | | citer | | يذكر | | | Citez deux avantages du moteur asynchrone. | Citez trois types de capteurs.
+CSG-010 | B1 | verbe | | nommer | | يُسمّي | | | Nommez les éléments repérés sur le schéma. | Nommez le préactionneur du vérin.
+CSG-011 | A2 | verbe | | décrire | | يصف | irrégulier : il décrit, décrit | | Décrivez le fonctionnement du système. | Décrivez le cycle en quelques lignes.
+CSG-012 | B2 | verbe | | interpréter | | يُفسِّر (يؤوِّل) | | | Interprétez la courbe obtenue. | Interprétez le résultat de la mesure.
+CSG-013 | B1 | verbe | | repérer | | يرصد (يُحدِّد موضع) | | | Repérez le capteur sur le dessin d'ensemble. | Repérez les erreurs dans le schéma.
+CSG-014 | B1 | verbe | | encadrer | | يُؤطِّر ؛ يُؤطِّر (يُرافق) | deux sens : encadrer un résultat / encadrer des élèves | | Encadrez le résultat final. | Deux professeurs encadrent notre projet.
+CSG-015 | A2 | verbe | | cocher | | يضع علامة (✓) | | | Cochez la bonne réponse. | Cochez les cases qui conviennent.
+CSG-016 | A2 | verbe | | entourer | | يُحيط بدائرة | | | Entourez la fonction principale. | Entourez le numéro de la bonne réponse.
+CSG-017 | A2 | verbe | | relier | | يربط | | | Reliez chaque symbole à son nom. | Reliez les éléments par des flèches.
+CSG-018 | B1 | verbe | | proposer | | يقترح | | | Proposez une solution pour réduire les pertes. | Proposez un capteur adapté.
+CSG-019 | A2 | verbe | | montrer | | يُبيِّن | | | Montrez que le rendement est inférieur à 1. | Montrez que la tension vaut 12 V.
+CSG-020 | B2 | verbe | | démontrer | | يُبرهِن | | | Démontrez la relation entre U et I. | Démontrez que les deux expressions sont égales.
+CSG-021 | B2 | verbe | | établir | | يُنشئ (يُثبِت علاقة) | | | Établissez l'équation logique de la sortie. | Établissez le bilan des puissances.
+CSG-022 | B1 | verbe | | énoncer | | ينصّ على (يذكر نصّ القاعدة) | | | Énoncez la loi des nœuds. | Énoncez la fonction principale du système.
+CSG-023 | B2 | verbe | | argumenter | | يُعلِّل بالحجج | | | Argumentez votre choix en deux phrases. | Il argumente bien pendant le débat.
+CSG-024 | B1 | verbe | | conclure | | يستخلص (يختم) | irrégulier : il conclut, conclu | | Concluez sur le choix du moteur. | Pour conclure, je remercie le jury.
+CSG-025 | B2 | verbe | | schématiser | | يرسم تبيانة | | | Schématisez le montage. | Schématisez la chaîne d'énergie.
+CSG-026 | B1 | verbe | | classer | | يُصنِّف (يُرتِّب) | | | Classez les capteurs selon leur type. | Classez les éléments par ordre croissant.
+CSG-027 | B1 | verbe | | estimer | | يُقدِّر | | | Estimez la durée du cycle. | J'estime mon trajet à vingt minutes.
+CSG-028 | B2 | verbe | | évaluer | | يُقيِّم | | | Évaluez le coût de la solution. | Le professeur évalue nos exposés.
+CSG-029 | B2 | verbe | | caractériser | | يُحدِّد خصائص | | | Caractérisez le signal de sortie. | Caractérisez le mouvement de la tige.
+CSG-030 | B1 | verbe | | consulter | | يطَّلع على (يستشير) | | | Consultez le document ressource. | Je consulte le dictionnaire.
+CSG-031 | B1 | verbe | | s'aider de | | يستعين بـ | | | Aidez-vous du document technique. | Je m'aide d'un dictionnaire pour traduire.
+CSG-032 | B2 | verbe | | se référer à | | يرجع إلى | | | Référez-vous au document DT3. | Le professeur se réfère au programme officiel.
+CSG-033 | A2 | verbe | | remplir | | يملأ | | | Remplissez le document réponse. | Remplis la fiche d'inscription.
+CSG-034 | B1 | verbe | | rédiger | | يُحرِّر (يكتب) | | | Rédigez une réponse en trois lignes. | Je rédige le compte rendu du TP.
+CSG-035 | A2 | verbe | | numéroter | | يُرقِّم | | | Numérotez les étapes du GRAFCET. | Numérotez vos pages.
+CSG-036 | A2 | verbe | | barrer | | يشطب | | | Barrez la mauvaise réponse. | Barre les mots inutiles.
+CSG-037 | A2 | nom | f | la consigne | | التعليمة | | | Lisez bien la consigne avant de répondre. | La consigne demande de justifier.
+CSG-038 | B1 | nom | m | l'énoncé | | نصّ التمرين (المعطيات) | | | Lisez l'énoncé deux fois. | L'énoncé donne la tension d'alimentation.
+CSG-039 | B1 | nom | m | le document réponse | des documents réponses | وثيقة الإجابة | abréviation DR | | Répondez directement sur le document réponse. | N'oubliez pas de rendre le document réponse.
+CSG-040 | B1 | nom | m | le document ressource | des documents ressources | الوثيقة المرجعية | abréviation DRES | | Le document ressource donne les caractéristiques du moteur. | Cherchez la formule dans le document ressource.
+CSG-041 | B2 | nom | f | la situation d'évaluation | | وضعية التقويم | abréviation SEV | | Le sujet contient trois situations d'évaluation. | La première situation d'évaluation porte sur la chaîne d'énergie.
+CSG-042 | B1 | nom | f | la tâche | | المهمّة | | | La tâche 2 porte sur l'étude du hacheur. | Je partage les tâches avec mon binôme.
+CSG-043 | B1 | nom | m | le barème | | سُلَّم التنقيط | | | Le barème est indiqué à côté de chaque question. | Selon le barème, cette question vaut deux points.
+CSG-044 | B1 | nom | f | la justification | | التعليل | | | Une réponse sans justification ne rapporte aucun point. | Écrivez une justification courte.
+CSG-045 | A2 | nom | m | le calcul | | الحساب | | | Le calcul doit apparaître sur la copie. | Ce calcul est faux.
+CSG-046 | A2 | nom | m | le résultat | | النتيجة | | | Encadrez le résultat avec son unité. | Les résultats du bac sortent en juin.
+CSG-047 | A2 | nom | f | l'unité | | الوحدة | | | Donnez le résultat avec son unité. | L'unité de puissance est le watt.
+CSG-048 | A2 | nom | f | la formule | | الصيغة (العلاقة الرياضية) | | | Écrivez la formule avant de remplacer les valeurs. | Je révise les formules de physique.
+CSG-049 | B1 | nom | f | l'application numérique | | التطبيق العددي | abréviation A.N. | | Faites l'application numérique avec deux décimales. | L'application numérique donne 4,5 A.
+CSG-050 | B1 | nom | f | la relation | | العلاقة | | | Écrivez la relation entre la vitesse et la fréquence. | J'ai une bonne relation avec mes professeurs.
+CSG-051 | B1 | nom | f | la démarche | | المنهجية (الخطوات المتَّبعة) | | | Expliquez votre démarche de calcul. | La démarche scientifique commence par une question.
+CSG-052 | B2 | nom | f | l'hypothèse | | الفرضية | | | On fait l'hypothèse que les pertes sont nulles. | Vérifiez votre hypothèse par une mesure.
+CSG-053 | A2 | nom | f | la case | | الخانة | | | Écrivez une seule lettre dans chaque case. | Remplissez chaque case du tableau.
+CSG-054 | A2 | nom | f | la ligne | | السطر | | | Répondez en trois lignes. | Sautez une ligne entre chaque réponse.
+CSG-055 | B1 | nom | m | le paragraphe | | الفقرة | | | Rédigez un paragraphe de cinq lignes. | Lisez le premier paragraphe du texte.
+CSG-056 | A2 | nom | m | le sujet | | الموضوع (موضوع الامتحان) | | | Le sujet du bac comporte douze pages. | Le sujet de l'exposé est libre.
+CSG-057 | A2 | nom | f | la durée | | المدّة | | | La durée de l'épreuve est de quatre heures. | Quelle est la durée du trajet ?
+CSG-058 | B1 | nom | m | le coefficient | | المعامل | | | Multipliez chaque note par son coefficient. | Cette matière a un coefficient élevé au bac.
+CSG-059 | B1 | adjectif | | correspondant | | المقابل (الموافق) | féminin : correspondante | correspondante | Cochez la case correspondante. | Reliez chaque symbole au nom correspondant.
+CSG-060 | A2 | adjectif | | suivant | | التالي | féminin : suivante | suivante | Répondez aux questions suivantes. | Le cours suivant est le français.
+CSG-061 | A2 | adjectif | | précédent | | السابق | féminin : précédente | précédente | Utilisez le résultat de la question précédente. | Le semestre précédent était difficile.
+CSG-062 | B2 | adjectif | | littéral | | حرفي | féminin : littérale ; pluriel : littéraux | littérale | Donnez l'expression littérale avant le calcul. | La traduction littérale n'est pas toujours correcte.
+CSG-063 | B2 | adjectif | | adéquat | | ملائم | féminin : adéquate | adéquate | Choisissez le calibre adéquat. | Trouvez la solution adéquate.
+CSG-064 | B1 | adjectif | | approprié | | مناسب | féminin : appropriée | appropriée | Utilisez l'unité appropriée. | Mets une tenue appropriée pour l'atelier.
+CSG-065 | B2 | adjectif | | concis | | موجز | féminin : concise | concise | Votre réponse doit être concise. | Le jury préfère une présentation concise.
+CSG-066 | A2 | adjectif | | complet | | كامل | féminin : complète | complète | Donnez une réponse complète. | Le bus est complet, attends le suivant.
+CSG-067 | B1 | expression | | en fonction de | | بدلالة | | | Exprimez la puissance en fonction de U et I. | Le prix varie en fonction de la saison.
+CSG-068 | B1 | expression | | à l'aide de | | بالاستعانة بـ | | | Calculez le courant à l'aide de la loi d'Ohm. | Je traduis le texte à l'aide d'un dictionnaire.
+CSG-069 | B1 | expression | | d'après | | حسب (وفقًا لـ) | | | D'après le document DT2, le moteur tourne à 1500 tr/min. | D'après la météo, il va pleuvoir.
+CSG-070 | B2 | expression | | en justifiant | | مع التعليل | | | Choisissez le moteur en justifiant votre réponse. | Répondez par oui ou non en justifiant.
+CSG-071 | B2 | expression | | sachant que | | علمًا أنّ | | | Calculez la puissance sachant que U = 12 V. | Sachant que le bus part à 7 h, je me lève tôt.
+CSG-072 | B1 | expression | | on donne | | يُعطى (المعطيات) | introduit les données d'un exercice | | On donne : R = 100 Ω. | On donne la vitesse du moteur dans le tableau.
+CSG-073 | B1 | expression | | à partir de | | انطلاقًا من | | | À partir du schéma, identifiez les capteurs. | À partir de demain, je révise chaque soir.
+CSG-074 | B2 | expression | | en déduire | | استنتج | consigne d'examen à l'infinitif | | Calculez la tension, puis en déduire le courant. | En déduire la valeur de la puissance utile.

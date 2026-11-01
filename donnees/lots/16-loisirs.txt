@@ -1,0 +1,77 @@
+# THEME: loisirs
+# PREFIXE: LOI
+# DOMAINE: general
+# TITRE: Loisirs, sport et numérique
+# COMPETENCE: Parler de mes loisirs et de mon téléphone
+# B2: non
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+LOI-001 | A2 | nom | m | le loisir | | الترفيه (وقت الفراغ) | souvent au pluriel : les loisirs | | Mon loisir préféré est la lecture. | Je n'ai pas assez de temps pour mes loisirs.
+LOI-002 | A2 | nom | m | le passe-temps | des passe-temps | الهواية | | | Dessiner est mon passe-temps préféré. | La pêche est le passe-temps de mon grand-père.
+LOI-003 | A2 | nom | m | le match | des matchs | المقابلة الرياضية | | | Le match commence à 20 heures. | Nous avons gagné le match.
+LOI-004 | A2 | nom | f | l'équipe | | الفريق | | | Mon équipe préférée joue ce soir. | Notre équipe de classe joue vendredi.
+LOI-005 | A2 | nom | m | l'entraînement | | التدريب الرياضي | | | L'entraînement a lieu le mardi soir. | Après l'entraînement, je suis fatigué.
+LOI-006 | A2 | nom | m | l'entraîneur | | المدرِّب | féminin : l'entraîneuse | l'entraîneuse | L'entraîneur donne des conseils aux joueurs. | Notre entraîneur est sévère mais juste.
+LOI-007 | A2 | nom | m | le joueur | | اللاعب | féminin : la joueuse | la joueuse | Ce joueur marque beaucoup de buts. | Il y a onze joueurs dans une équipe.
+LOI-008 | A2 | nom | m | le but | | الهدف | deux sens : marquer un but / avoir un but | | L'attaquant marque un but. | Mon but est de réussir le bac.
+LOI-009 | A2 | nom | m | le terrain | | الملعب (الأرضية) ؛ قطعة أرض | deux sens | | Les joueurs entrent sur le terrain. | Mon grand-père a un terrain à la campagne.
+LOI-010 | A2 | nom | m | le stade | | الملعب الكبير | | | Le stade de Marrakech est très grand. | Nous allons au stade pour le derby.
+LOI-011 | A2 | nom | m | le championnat | | البطولة | | | Notre équipe est première du championnat. | Le championnat scolaire commence en mars.
+LOI-012 | A2 | nom | m | le supporter | | المشجِّع | | | Les supporters chantent pendant tout le match. | Je suis supporter du club de ma ville.
+LOI-013 | A2 | nom | f | la salle de sport | | قاعة الرياضة | | | Je vais à la salle de sport trois fois par semaine. | La salle de sport du lycée est neuve.
+LOI-014 | A2 | nom | f | la natation | | السباحة | | | La natation est un sport complet. | Je fais de la natation l'été.
+LOI-015 | B1 | nom | m | l'athlétisme | | ألعاب القوى | | | Le Maroc a de grands champions d'athlétisme. | Je fais de l'athlétisme au club.
+LOI-016 | A2 | nom | m | le ballon | | الكرة | | | Lance-moi le ballon ! | Le ballon est sorti du terrain.
+LOI-017 | B1 | nom | f | la compétition | | المنافسة | | | Notre club participe à une compétition régionale. | J'aime l'esprit de compétition.
+LOI-018 | A2 | nom | m | l'arbitre | | الحَكَم | | | L'arbitre siffle la fin du match. | Les joueurs respectent l'arbitre.
+LOI-019 | A2 | nom | m | le score | | النتيجة (في مباراة) | | | Le score final est de deux à un. | Quel est le score ?
+LOI-020 | A2 | nom | m | le concert | | الحفل الموسيقي | | | Je vais au concert de mon chanteur préféré. | Le concert commence à 21 heures.
+LOI-021 | A2 | nom | f | la lecture | | القراءة | | | La lecture améliore le français. | J'aime la lecture des romans policiers.
+LOI-022 | A2 | nom | m | le roman | | الرواية | | | Je lis un roman en français. | Ce roman raconte la vie d'un étudiant.
+LOI-023 | A2 | nom | f | la bande dessinée | des bandes dessinées | الشريط المرسوم | familier : la BD | la BD | Je lis des bandes dessinées pour apprendre le français. | Cette bande dessinée est drôle.
+LOI-024 | A2 | nom | m | le dessin animé | des dessins animés | الرسوم المتحرِّكة | | | Mon petit frère regarde des dessins animés. | Ce dessin animé est en français.
+LOI-025 | A2 | nom | f | la série | | المسلسل | | | Je regarde une série turque avec ma mère. | La nouvelle saison de la série sort vendredi.
+LOI-026 | A2 | nom | m | le réseau social | des réseaux sociaux | شبكة التواصل الاجتماعي | | | Je publie une photo sur un réseau social. | Les réseaux sociaux prennent beaucoup de temps.
+LOI-027 | A2 | nom | m | le smartphone | | الهاتف الذكي | | | Mon smartphone a un bon appareil photo. | Le smartphone est interdit en classe.
+LOI-028 | A2 | nom | m | le mot de passe | des mots de passe | كلمة السر | | | Ne donne jamais ton mot de passe. | Choisis un mot de passe difficile.
+LOI-029 | A2 | nom | m | le compte | | الحساب (على منصة أو في بنك) | | | Je crée un compte sur la plateforme. | Mon compte est bloqué.
+LOI-030 | A2 | nom | f | la vidéo | | الفيديو | | | Je regarde une vidéo de cours sur Internet. | Cette vidéo a un million de vues.
+LOI-031 | A2 | nom | m | le jeu vidéo | des jeux vidéo | لعبة الفيديو | | | Le jeu vidéo peut devenir une addiction. | Je joue aux jeux vidéo le week-end.
+LOI-032 | A2 | nom | m | l'écran | | الشاشة | | | L'écran de mon téléphone est cassé. | Ne reste pas trop longtemps devant l'écran.
+LOI-033 | B1 | nom | m | l'abonné | | المشترك | féminin : l'abonnée | l'abonnée | Cette chaîne a beaucoup d'abonnés. | Il y a dix mille abonnés sur la page du club.
+LOI-034 | B1 | nom | f | la publication | | المنشور | | | Sa publication a reçu cent mentions « j'aime ». | Je partage une publication sur le bac.
+LOI-035 | A2 | nom | m | le lien | | الرابط ؛ الصلة | deux sens | | Clique sur le lien pour t'inscrire. | Il y a un lien fort entre les deux frères.
+LOI-036 | A2 | nom | f | la connexion | | الاتصال (بالإنترنت) | | | La connexion est lente ce soir. | Sans connexion, je ne peux pas envoyer le devoir.
+LOI-037 | B1 | nom | m | le forfait | | باقة الاشتراك (الهاتف) | | | Mon forfait internet est terminé. | J'achète un forfait de dix gigas.
+LOI-038 | B1 | nom | f | la randonnée | | النزهة الجبلية (المشي الطويل) | | | Nous faisons une randonnée dans l'Atlas. | La randonnée dure cinq heures.
+LOI-039 | B1 | nom | f | l'excursion | | الرحلة القصيرة | | | L'excursion à Chefchaouen était magnifique. | Le club organise une excursion samedi.
+LOI-040 | B1 | nom | m | le bénévolat | | العمل التطوُّعي | | | Je fais du bénévolat dans une association. | Le bénévolat apprend la solidarité.
+LOI-041 | B1 | nom | f | l'association | | الجمعية | | | L'association du quartier aide les élèves. | Je suis membre d'une association sportive.
+LOI-042 | B1 | nom | m | le tournoi | | الدوري (الدورة الرياضية) | | | Le tournoi de football commence demain. | Notre classe a gagné le tournoi.
+LOI-043 | A2 | nom | f | la médaille | | الميدالية | | | Il a gagné une médaille d'or. | La médaille est accrochée dans sa chambre.
+LOI-044 | A2 | nom | m | le casque | | الخوذة ؛ سمّاعة الرأس | deux sens | | Mets ton casque à moto. | J'écoute de la musique avec mon casque.
+LOI-045 | A2 | verbe | | marquer | | يُسجِّل (هدفًا) ؛ يضع علامة | deux sens | | Il a marqué deux buts. | Marque la date dans ton agenda.
+LOI-046 | A2 | verbe | | gagner | | يربح | | | Notre équipe a gagné le match. | Mon père gagne bien sa vie.
+LOI-047 | A2 | verbe | | perdre | | يخسر ؛ يُضيِّع | deux sens | | Nous avons perdu le match. | J'ai perdu mes clés.
+LOI-048 | A2 | verbe | | encourager | | يُشجِّع | | | Les supporters encouragent l'équipe. | Mes parents m'encouragent à étudier.
+LOI-049 | B1 | verbe | | se détendre | | يسترخي | | | Je me détends en écoutant de la musique. | Après l'examen, détends-toi.
+LOI-050 | A2 | verbe | | publier | | ينشر | | | Je publie une photo sur un réseau social. | Le ministère publie les résultats du bac.
+LOI-051 | B1 | verbe | | s'abonner | | يشترك | s'abonner à | | Je m'abonne à une chaîne de sciences. | Abonne-toi pour voir les nouvelles vidéos.
+LOI-052 | B1 | verbe | | naviguer | | يتصفَّح (الإنترنت) ؛ يُبحِر | deux sens | | Je navigue sur Internet pour mes recherches. | Le bateau navigue vers Tanger.
+LOI-053 | A2 | verbe | | pratiquer | | يمارس | | | Je pratique le karaté depuis cinq ans. | Pratiquez le français tous les jours.
+LOI-054 | A2 | verbe | | courir | | يجري | irrégulier : je cours, couru | | Je cours le matin avant le lycée. | Il court très vite.
+LOI-055 | A2 | verbe | | nager | | يسبح | | | J'ai appris à nager à la plage. | Mon frère nage très bien.
+LOI-056 | A2 | verbe | | s'amuser | | يستمتع (يلهو) | | | Nous nous amusons bien pendant la sortie. | Amuse-toi bien au mariage !
+LOI-057 | A2 | verbe | | cliquer | | ينقر | cliquer sur | | Cliquez sur le bouton Envoyer. | Je clique sur le lien.
+LOI-058 | A2 | adjectif | | sportif | | رياضي | féminin : sportive | sportive | Mon frère est très sportif. | Le lycée organise une journée sportive.
+LOI-059 | B1 | adjectif | | passionnant | | مُشوِّق | féminin : passionnante | passionnante | Ce match était passionnant. | Le roman est passionnant.
+LOI-060 | A2 | adjectif | | ennuyeux | | مُمِلّ | féminin : ennuyeuse | ennuyeuse | Ce film est ennuyeux. | La réunion était ennuyeuse.
+LOI-061 | A2 | adjectif | | amusant | | مُسَلٍّ | féminin : amusante | amusante | Ce jeu est amusant. | Mon cousin est très amusant.
+LOI-062 | A2 | adjectif | | gratuit | | مجّاني | féminin : gratuite | gratuite | L'entrée au musée est gratuite. | Cette application est gratuite.
+LOI-063 | B1 | adjectif | | virtuel | | افتراضي | féminin : virtuelle | virtuelle | Les amis virtuels ne remplacent pas les vrais. | La classe virtuelle commence à 18 heures.
+LOI-064 | B1 | adjectif | | dépendant | | مُدمِن (متعلِّق بـ) | féminin : dépendante | dépendante | Il est dépendant de son téléphone. | Ne deviens pas dépendant des jeux vidéo.
+LOI-065 | A2 | adjectif | | célèbre | | مشهور | | | Ce footballeur est célèbre dans le monde entier. | La place est célèbre pour ses conteurs.
+LOI-066 | A2 | expression | | faire du sport | | يمارس الرياضة | | | Je fais du sport deux fois par semaine. | Faire du sport réduit le stress.
+LOI-067 | A2 | expression | | en direct | | مباشرة (بثّ مباشر) | | | Je regarde le match en direct. | La chaîne diffuse le concert en direct.
+LOI-068 | A2 | expression | | avoir le temps de | | لديه الوقت لـ | | | Je n'ai pas le temps de jouer avant le bac. | As-tu le temps de m'aider ?
+LOI-069 | A2 | expression | | passer du temps | | يقضي الوقت | | | Je passe trop de temps sur mon téléphone. | Nous passons du temps ensemble le week-end.
+LOI-070 | A2 | expression | | être fan de | | مولع بـ | familier | | Je suis fan de ce chanteur. | Mon frère est fan de jeux vidéo.

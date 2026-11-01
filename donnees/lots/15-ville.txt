@@ -1,0 +1,79 @@
+# THEME: ville
+# PREFIXE: VIL
+# DOMAINE: general
+# TITRE: Ville, quartier et transports
+# COMPETENCE: Décrire mon quartier et mes trajets
+# B2: non
+# id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
+VIL-001 | A2 | nom | m | le quartier | | الحيّ | | | J'habite dans un quartier populaire de Fès. | Mon quartier a une grande mosquée.
+VIL-002 | A2 | nom | f | la médina | | المدينة القديمة | | | La médina de Fès est très ancienne. | On se perd facilement dans la médina.
+VIL-003 | A2 | nom | m | le souk | | السوق | | | Le souk du dimanche attire beaucoup de monde. | J'achète des légumes au souk.
+VIL-004 | A2 | nom | f | la place | | الساحة ؛ المكان (المقعد) | deux sens : une place publique / une place libre | | La place Jemaa el-Fna est célèbre. | Il n'y a plus de place dans le bus.
+VIL-005 | A2 | nom | m | le carrefour | | ملتقى الطرق | | | Tourne à gauche au carrefour. | Le carrefour est dangereux aux heures de pointe.
+VIL-006 | A2 | nom | m | le feu rouge | des feux rouges | الضوء الأحمر | | | Ne passe jamais au feu rouge. | Le feu rouge du carrefour est en panne.
+VIL-007 | A2 | nom | m | le passage piéton | des passages piétons | ممرّ الراجلين | | | Traverse sur le passage piéton. | Les voitures doivent s'arrêter au passage piéton.
+VIL-008 | A2 | nom | m | le trottoir | | الرصيف | | | Marche sur le trottoir. | Les voitures sont garées sur le trottoir.
+VIL-009 | A2 | nom | m | le rond-point | des ronds-points | المدار (الدوّار) | | | Au rond-point, prends la deuxième sortie. | Un nouveau rond-point a été construit près du lycée.
+VIL-010 | A2 | nom | f | l'avenue | | الشارع الكبير | | | L'avenue Mohammed V traverse le centre-ville. | Le lycée se trouve sur une grande avenue.
+VIL-011 | A2 | nom | m | le centre-ville | des centres-villes | وسط المدينة | | | Je vais au centre-ville le samedi. | Les magasins du centre-ville ferment tard.
+VIL-012 | B1 | nom | f | la banlieue | | الضاحية | | | Mon oncle habite dans la banlieue de Casablanca. | Le bus relie la banlieue au centre.
+VIL-013 | A2 | nom | m | le tramway | | الترامواي | | | Le tramway de Rabat est rapide. | Je prends le tramway pour aller à la fac.
+VIL-014 | A2 | nom | m | le grand taxi | des grands taxis | سيارة الأجرة الكبيرة | | | Le grand taxi relie les villes voisines. | Six personnes montent dans le grand taxi.
+VIL-015 | A2 | nom | m | le petit taxi | des petits taxis | سيارة الأجرة الصغيرة | | | Le petit taxi roule seulement en ville. | Je prends un petit taxi quand il pleut.
+VIL-016 | A2 | nom | f | la gare routière | | المحطة الطرقية | | | Le car part de la gare routière à 8 heures. | La gare routière est pleine avant l'Aïd.
+VIL-017 | A2 | nom | m | l'arrêt de bus | des arrêts de bus | موقف الحافلة | | | L'arrêt de bus est devant le lycée. | J'attends à l'arrêt de bus depuis vingt minutes.
+VIL-018 | A2 | nom | m | le trajet | | المسار (الطريق المقطوع) | | | Mon trajet dure trente minutes. | Pendant le trajet, je révise mon vocabulaire.
+VIL-019 | A2 | nom | m | le billet | | التذكرة ؛ الورقة النقدية | deux sens | | J'achète un billet de train pour Marrakech. | Il paie avec un billet de cent dirhams.
+VIL-020 | B1 | nom | m | l'abonnement | | الاشتراك | | | J'ai un abonnement mensuel pour le bus. | L'abonnement au club coûte cher.
+VIL-021 | A2 | nom | m | le chauffeur | | السائق (المهني) | | | Le chauffeur du bus est sympathique. | Le chauffeur de taxi connaît toute la ville.
+VIL-022 | A2 | nom | m | le passager | | الراكب | féminin : la passagère | la passagère | Les passagers descendent à la gare. | Le passager doit attacher sa ceinture.
+VIL-023 | B1 | nom | m | le permis de conduire | | رخصة السياقة | | | Mon frère prépare le permis de conduire. | On peut passer le permis de conduire à 18 ans.
+VIL-024 | A2 | nom | f | la ceinture de sécurité | | حزام السلامة | | | Attache ta ceinture de sécurité. | La ceinture de sécurité sauve des vies.
+VIL-025 | B1 | nom | m | l'embouteillage | | الازدحام المروري | | | Il y a un embouteillage sur l'autoroute. | À cause des embouteillages, j'arrive en retard.
+VIL-026 | B1 | nom | f | l'heure de pointe | des heures de pointe | ساعة الذروة | | | Le bus est plein à l'heure de pointe. | Évite le centre-ville aux heures de pointe.
+VIL-027 | A2 | nom | f | l'autoroute | | الطريق السيّار | | | L'autoroute relie Rabat à Tanger. | Sur l'autoroute, la vitesse est limitée à 120 km/h.
+VIL-028 | B1 | nom | m | le péage | | محطة الأداء | | | On paie au péage de l'autoroute. | Le péage coûte cher pour mon père.
+VIL-029 | A2 | nom | f | la mosquée | | المسجد | | | La mosquée du quartier est grande. | Mon père va à la mosquée le vendredi.
+VIL-030 | A2 | nom | f | la pharmacie | | الصيدلية | | | La pharmacie de garde est ouverte la nuit. | J'achète un médicament à la pharmacie.
+VIL-031 | A2 | nom | m | le hammam | | الحمّام | h aspiré : le hammam | | Le hammam du quartier est ouvert le soir. | Je vais au hammam avec mon père le dimanche.
+VIL-032 | A2 | nom | f | l'épicerie | | البقالة (الحانوت) | | | J'achète du lait à l'épicerie du coin. | L'épicerie ouvre tôt le matin.
+VIL-033 | B1 | nom | f | la commune | | الجماعة | | | La commune répare la route. | La commune organise un festival de musique.
+VIL-034 | A2 | nom | f | la poste | | البريد | | | J'envoie une lettre à la poste. | La poste est fermée le samedi après-midi.
+VIL-035 | A2 | nom | m | le jardin public | des jardins publics | الحديقة العمومية | | | Le jardin public est près de la gare. | Les enfants jouent dans le jardin public.
+VIL-036 | B1 | nom | m | l'espace vert | des espaces verts | المساحة الخضراء | | | Le quartier manque d'espaces verts. | La commune crée un nouvel espace vert.
+VIL-037 | B1 | nom | f | la circulation | | حركة المرور ؛ الدورة الدموية | deux sens | | La circulation est difficile le soir. | Le sport améliore la circulation du sang.
+VIL-038 | A2 | nom | m | le panneau | des panneaux | اللوحة (لوحة الإشارة) | | | Le panneau indique la direction de Rabat. | Lis le panneau avant de traverser.
+VIL-039 | A2 | nom | f | la direction | | الاتجاه ؛ الإدارة | deux sens | | Le bus va en direction de la gare. | La direction du lycée annonce les vacances.
+VIL-040 | A2 | nom | m | le plan | | التصميم (الخريطة) ؛ الخطّة | deux sens | | Regarde le plan du tramway. | J'ai un plan pour réviser.
+VIL-041 | B1 | nom | f | la pollution | | التلوُّث | | | La pollution de l'air augmente en ville. | Les voitures électriques réduisent la pollution.
+VIL-042 | A2 | nom | m | le bruit | | الضجيج | | | Le bruit des motos me dérange. | Il y a trop de bruit pour réviser.
+VIL-043 | A2 | nom | f | la moto | | الدرّاجة النارية | | | Mon frère va au travail en moto. | Le casque est obligatoire à moto.
+VIL-044 | A2 | nom | m | le piéton | | الراجل | féminin : la piétonne | la piétonne | Les piétons traversent au feu vert. | Le trottoir est réservé aux piétons.
+VIL-045 | A2 | nom | m | l'habitant | | الساكن | féminin : l'habitante | l'habitante | Casablanca compte plus de trois millions d'habitants. | Les habitants du quartier sont accueillants.
+VIL-046 | B1 | nom | f | la propreté | | النظافة | | | La propreté du quartier dépend de tous. | La commune s'occupe de la propreté des rues.
+VIL-047 | B1 | verbe | | se déplacer | | يتنقَّل | | | Je me déplace en bus. | Les élèves se déplacent à pied.
+VIL-048 | B1 | verbe | | se garer | | يركن (السيارة) | | | Mon père se gare devant la maison. | On ne peut pas se garer ici.
+VIL-049 | A2 | verbe | | se perdre | | يضلّ الطريق | | | Je me suis perdu dans la médina. | Ne te perds pas, suis-moi.
+VIL-050 | A2 | verbe | | descendre | | ينزل | | | Je descends du bus devant le lycée. | Descendez au prochain arrêt.
+VIL-051 | A2 | verbe | | se trouver | | يوجد (يقع) | | | Le lycée se trouve près de la gare. | Où se trouve la pharmacie ?
+VIL-052 | A2 | verbe | | s'arrêter | | يتوقَّف | | | Le bus s'arrête devant la mosquée. | Arrête-toi au passage piéton.
+VIL-053 | A2 | verbe | | rater | | يُفوِّت | familier | | J'ai raté le bus de 7 heures. | Ne rate pas le dernier tramway.
+VIL-054 | B1 | verbe | | rejoindre | | يلتحق بـ | irrégulier : je rejoins, rejoint | | Je rejoins mes amis au café. | Rejoignez-moi devant la gare.
+VIL-055 | B1 | verbe | | polluer | | يُلوِّث | | | Les vieilles voitures polluent beaucoup. | Ne pollue pas la plage.
+VIL-056 | B1 | verbe | | doubler | | يتجاوز (سيارة) ؛ يُضاعف | deux sens | | Le bus double le camion. | Les prix ont doublé en un an.
+VIL-057 | B1 | verbe | | stationner | | يرابض (يتوقف مدة) | | | Il est interdit de stationner ici. | Le car stationne devant la gare.
+VIL-058 | B1 | verbe | | livrer | | يُوصِل (البضاعة) | | | Le livreur livre les pizzas en moto. | Ce magasin livre à domicile.
+VIL-059 | B1 | adjectif | | animé | | حيوي (مليء بالحركة) | féminin : animée | animée | La place est animée le soir. | Le souk est très animé.
+VIL-060 | A2 | adjectif | | populaire | | شعبي | | | Nous habitons un quartier populaire. | Ce chanteur est très populaire.
+VIL-061 | B1 | adjectif | | urbain | | حضري | féminin : urbaine | urbaine | Le transport urbain s'améliore. | La population urbaine augmente.
+VIL-062 | B1 | adjectif | | rural | | قروي | féminin : rurale ; pluriel : ruraux | rurale | Beaucoup d'élèves viennent du monde rural. | La route rurale est en mauvais état.
+VIL-063 | B1 | adjectif | | encombré | | مزدحم | féminin : encombrée | encombrée | La route est encombrée le matin. | Le couloir est encombré de sacs.
+VIL-064 | B1 | adjectif | | pollué | | ملوَّث | féminin : polluée | polluée | L'air de la ville est pollué. | Cette plage est polluée.
+VIL-065 | A2 | adjectif | | proche | | قريب | | | La gare est proche du lycée. | Mon ami habite tout proche.
+VIL-066 | B1 | adjectif | | lointain | | بعيد (نائي) | féminin : lointaine | lointaine | Il vient d'un village lointain. | Je rêve de pays lointains.
+VIL-067 | A2 | expression | | à pied | | مشيًا على الأقدام | | | Je vais au lycée à pied. | La médina se visite à pied.
+VIL-068 | A2 | expression | | au coin de la rue | | في زاوية الشارع | | | L'épicerie est au coin de la rue. | Je t'attends au coin de la rue.
+VIL-069 | A2 | expression | | en face de | | مقابل | | | La pharmacie est en face de la mosquée. | Je m'assois en face du tableau.
+VIL-070 | A2 | expression | | tout droit | | إلى الأمام مباشرة | | | Allez tout droit jusqu'au rond-point. | Continue tout droit, puis tourne à gauche.
+VIL-071 | A2 | expression | | prendre le bus | | يركب الحافلة | | | Je prends le bus à 7 heures. | Prends le bus 12 pour aller à la gare.
+VIL-072 | A2 | expression | | à côté de | | بجانب | | | La boulangerie est à côté de chez moi. | Assieds-toi à côté de moi.
