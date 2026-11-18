@@ -375,6 +375,10 @@ function valider(themes, entrees, erreurs, avertissements) {
     if (/’/.test(e.fr + e.alt.join(''))) erreurs.push(`${ou} : utiliser l'apostrophe droite '`);
     // arabe
     if (!/[؀-ۿ]/.test(e.ar)) erreurs.push(`${ou} : la traduction arabe est vide ou sans lettres arabes`);
+    // Face arabe : seuls les sigles, symboles et unités latins sont permis (FAST, LCD, 220 V…).
+    // Un mot français (minuscules ou accents) s'afficherait dans le désordre et donnerait la réponse.
+    const francais = (e.ar.match(/[A-Za-zÀ-ÿœŒ'’]+/g) || []).filter(m => /[a-zà-ÿœ]{2,}|[À-ÿœŒ'’]/.test(m));
+    if (francais.length) erreurs.push(`${ou} : mot français dans la traduction arabe (${francais.join(', ')}) : le mettre dans info`);
     // genre et article
     if (e.nature === 'nom') {
       const m = e.fr.match(/^(les|le|la|l')(?: |(?<=l'))(.*)$/i);

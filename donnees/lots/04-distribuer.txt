@@ -9,8 +9,8 @@ DIS-001 | B1 | nom | m | le préactionneur | | المُشغِّل القَبْل
 DIS-002 | B1 | nom | m | le relais | des relais | المرحِّل | | | Le relais commande une lampe de forte puissance. | La bobine du relais est alimentée en 12 V.
 DIS-003 | B1 | nom | m | le contacteur | | الملامِس (الكونتاكتور) | repère KM | | Le contacteur KM1 alimente le moteur. | Le contacteur fait un petit bruit quand il se ferme.
 DIS-004 | B1 | nom | m | le contact | | التماس (نقطة التلامس) ؛ الاتصال | deux sens : contact électrique / rester en contact | | Le contact se ferme quand la bobine est alimentée. | Je reste en contact avec mes amis du collège.
-DIS-005 | B2 | nom | m | le contact à fermeture | | التماس المفتوح في الراحة (NO) | abréviation NO (normalement ouvert) | | Le contact à fermeture est ouvert au repos. | Le bouton marche possède un contact à fermeture.
-DIS-006 | B2 | nom | m | le contact à ouverture | | التماس المغلق في الراحة (NF) | abréviation NF (normalement fermé) | | Le contact à ouverture est fermé au repos. | Le bouton arrêt possède un contact à ouverture.
+DIS-005 | B2 | nom | m | le contact à fermeture | | التماس المفتوح في وضع الراحة | abréviation NO (normalement ouvert) | | Le contact à fermeture est ouvert au repos. | Le bouton marche possède un contact à fermeture.
+DIS-006 | B2 | nom | m | le contact à ouverture | | التماس المغلق في وضع الراحة | abréviation NF (normalement fermé) | | Le contact à ouverture est fermé au repos. | Le bouton arrêt possède un contact à ouverture.
 DIS-007 | B2 | nom | m | le contact auxiliaire | | التماس المساعد | | | Le contact auxiliaire assure l'auto-maintien. | Le contact auxiliaire est placé dans le circuit de commande.
 DIS-008 | B2 | nom | m | le contact de puissance | | تماس القدرة (التماس الرئيسي) | | | Les contacts de puissance laissent passer le courant du moteur. | Le contacteur possède trois contacts de puissance.
 DIS-009 | B2 | nom | m | l'auto-maintien | | التثبيت الذاتي | | | L'auto-maintien garde le moteur en marche après l'appui. | Ajoutez un contact d'auto-maintien sur le bouton marche.

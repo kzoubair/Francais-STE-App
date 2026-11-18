@@ -51,7 +51,7 @@ CON-043 | B1 | nom | m | le frein | | المكبح (الفرامل) | | | Le fre
 CON-044 | B2 | nom | f | la plaque à bornes | | لوحة مرابط المحرِّك | | | Ouvrez la plaque à bornes du moteur. | Le couplage se fait sur la plaque à bornes.
 CON-045 | B2 | nom | f | la barrette | | الوصلة (قضيب الربط) | | | Placez les barrettes pour coupler le moteur en triangle. | Les barrettes relient les bornes du moteur.
 CON-046 | B1 | verbe | | convertir | | يحوِّل (من شكل إلى آخر) | | | Le moteur convertit l'énergie électrique en énergie mécanique. | Convertissez deux heures en minutes.
-CON-047 | B1 | verbe | | entraîner | | يُدير (يجرّ) ؛ يتدرَّب (s'entraîner) | deux sens | | Le moteur entraîne la pompe. | Je m'entraîne au football le samedi.
+CON-047 | B1 | verbe | | entraîner | | يُدير (يجرّ) ؛ يتدرَّب | deux sens | | Le moteur entraîne la pompe. | Je m'entraîne au football le samedi.
 CON-048 | A2 | verbe | | tourner | | يدور | | | Le moteur tourne à 1500 tr/min. | Tournez à droite après la mosquée.
 CON-049 | B1 | verbe | | démarrer | | يُقلِع (يبدأ الاشتغال) | | | Le moteur démarre en étoile. | Le cours démarre à huit heures.
 CON-050 | B1 | verbe | | ralentir | | يُبطئ | | | Le moteur ralentit quand la charge augmente. | Ralentis, il y a une école ici !

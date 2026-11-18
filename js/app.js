@@ -34,7 +34,7 @@
 
   /* Texte arabe : les morceaux latins (sigles, unités, chiffres) sont isolés en LTR. */
   function arHTML(ar) {
-    return esc(ar).replace(/[A-Za-z0-9µΩΔαφ][A-Za-z0-9µΩΔαφ.,/×=+\-' ]*[A-Za-z0-9µΩΔαφ]|[A-Za-z0-9µΩΔαφ]/g, function (m) { return '<bdi dir="ltr">' + m + '</bdi>'; });
+    return esc(ar).replace(/[A-Za-zÀ-ÿ0-9µΩΔαφ][A-Za-zÀ-ÿ0-9µΩΔαφ.,/×=+\-' ]*[A-Za-zÀ-ÿ0-9µΩΔαφ]|[A-Za-zÀ-ÿ0-9µΩΔαφ]/g, function (m) { return '<bdi dir="ltr">' + m + '</bdi>'; });
   }
   /* Exemple avec le mot cible en gras. */
   function exHTML(p, g) {

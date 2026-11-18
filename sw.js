@@ -3,7 +3,7 @@
  * À CHAQUE MODIFICATION d'un fichier de l'app (vocabulaire compris), incrémenter CACHE_VERSION.
  * La progression des élèves est dans localStorage : elle n'est jamais touchée par le cache.
  */
-const CACHE_VERSION = 'lexique-ste-v1';
+const CACHE_VERSION = 'lexique-ste-v2';
 
 const FICHIERS = [
   './',

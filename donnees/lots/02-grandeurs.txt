@@ -7,7 +7,7 @@
 # id | niveau | nature | genre | fr | pluriel | ar | info | alt | exemple1 | exemple2
 GRD-001 | A2 | nom | f | la tension | | التوتر الكهربائي (تقنيًا) ؛ التوتّر العصبي | U, en volts (V) ; mesurée en parallèle ; ≠ l'intensité (confusion fréquente) | | Mesurez la tension aux bornes de la lampe. | Avant l'examen, je sens une grande tension.
 GRD-002 | B1 | nom | f | l'intensité | | شدة التيار الكهربائي | I, en ampères (A) ; mesurée en série ; ≠ la tension (confusion fréquente) | | L'intensité se mesure avec un ampèremètre en série. | L'intensité du courant augmente quand la résistance diminue.
-GRD-003 | A2 | nom | m | le courant | | التيار الكهربائي ؛ (être au courant = على علم) | deux sens : courant électrique / être au courant | | Le courant traverse la résistance. | Tu es au courant de la date du contrôle ?
+GRD-003 | A2 | nom | m | le courant | | التيار الكهربائي ؛ (مجازًا) على علم بالأمر | deux sens : courant électrique / être au courant | | Le courant traverse la résistance. | Tu es au courant de la date du contrôle ?
 GRD-004 | B1 | nom | f | la puissance | | القدرة (الكهربائية) ؛ القوة | P, en watts (W) ; deux sens | | La puissance de ce moteur est de 1,5 kW. | Ce joueur frappe le ballon avec puissance.
 GRD-005 | B1 | nom | f | la résistance | | المقاومة (الكهربائية) ؛ قوة التحمُّل | R, en ohms (Ω) ; aussi le composant ; deux sens | | Calculez la résistance équivalente du circuit. | Le sport améliore la résistance physique.
 GRD-006 | B1 | nom | m | le volt | | الفولط | symbole V | | La tension se mesure en volts. | Une pile de 9 volts alimente le montage.
@@ -20,7 +20,7 @@ GRD-012 | A2 | nom | m | le circuit | | الدارة الكهربائية | | | 
 GRD-013 | B1 | nom | m | le dipôle | | ثنائي القطب | | | Une résistance est un dipôle passif. | Repérez les bornes de chaque dipôle.
 GRD-014 | B1 | nom | f | la borne | | المربط (طرف التوصيل) | | | La borne rouge est la borne positive. | Reliez le fil noir à la borne COM du multimètre.
 GRD-015 | B1 | nom | m | le nœud | | العقدة | | | Au nœud A, trois fils se rejoignent. | Écrivez l'équation du courant au nœud B.
-GRD-016 | B1 | nom | f | la maille | | العُروة | | | Dans une maille, la somme des tensions est nulle. | Orientez la maille dans le sens des aiguilles d'une montre.
+GRD-016 | B1 | nom | f | la maille | | الحلقة (في دارة كهربائية) | | | Dans une maille, la somme des tensions est nulle. | Orientez la maille dans le sens des aiguilles d'une montre.
 GRD-017 | B1 | nom | f | la branche | | الفرع | | | Le courant se partage entre les deux branches. | Cette branche contient une lampe et une résistance.
 GRD-018 | B2 | nom | m | le régime sinusoïdal | | النظام الجيبي | | | En régime sinusoïdal, on utilise les valeurs efficaces. | Le secteur est en régime sinusoïdal à 50 Hz.
 GRD-019 | B1 | nom | m | le courant alternatif | | التيار المتناوب | abréviation AC ; symbole ~ | | Le secteur fournit un courant alternatif. | Le courant alternatif change de sens à chaque demi-période.
@@ -61,7 +61,7 @@ GRD-053 | B2 | nom | m | le régime transitoire | | النظام الانتقا�
 GRD-054 | B2 | nom | m | le régime permanent | | النظام الدائم | | | En régime permanent, la vitesse est constante. | Mesurez le courant en régime permanent.
 GRD-055 | B1 | nom | m | le kilowattheure | | الكيلوواط ساعة | symbole kWh ; unité d'énergie | | La facture d'électricité est calculée en kilowattheures. | Ce four consomme deux kilowattheures par jour.
 GRD-056 | B1 | nom | f | la loi des nœuds | | قانون العُقد | | | Écrivez la loi des nœuds au point A. | La loi des nœuds concerne les courants.
-GRD-057 | B1 | nom | f | la loi des mailles | | قانون العُرى (إضافية التوترات) | | | Appliquez la loi des mailles à la maille ABCD. | La loi des mailles concerne les tensions.
+GRD-057 | B1 | nom | f | la loi des mailles | | قانون الحلقات | | | Appliquez la loi des mailles à la maille ABCD. | La loi des mailles concerne les tensions.
 GRD-058 | B1 | verbe | | circuler | | يسري (يجري) | | | Le courant circule de la borne positive vers la borne négative. | Le soir, les voitures circulent mal en ville.
 GRD-059 | A2 | verbe | | traverser | | يجتاز (يمرّ عبر) | | | Le courant traverse la lampe. | Je traverse la rue devant le lycée.
 GRD-060 | B1 | verbe | | consommer | | يستهلك | | | Ce moteur consomme 2 kW. | Le climatiseur consomme beaucoup d'électricité.
